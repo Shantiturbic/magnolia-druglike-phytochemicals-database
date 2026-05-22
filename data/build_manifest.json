@@ -1,0 +1,169 @@
+{
+  "database": "BBB Database STC",
+  "version": "2.0",
+  "description": "Systematic phytochemical database for genus Magnolia",
+  "build_timestamp": "2026-05-21T22:23:24Z",
+  "build_elapsed_seconds": 330.0,
+  "environment": {
+    "python": "3.12.2",
+    "rdkit": "2025.03.3",
+    "platform": "macOS-26.3.1-arm64-arm-64bit",
+    "machine": "arm64"
+  },
+  "outputs": {
+    "database": {
+      "path": "magnolia_bbb_database.csv",
+      "unique_compounds": 736
+    },
+    "provenance": {
+      "path": "magnolia_bbb_provenance.csv",
+      "records": 5879
+    },
+    "rejected": {
+      "path": "magnolia_bbb_rejected.csv",
+      "records": 284
+    }
+  },
+  "sources": {
+    "lotus_wikidata": {
+      "enabled": true,
+      "tier": 1,
+      "license": "CC0",
+      "url": "https://query.wikidata.org/sparql",
+      "status": "success",
+      "record_count": 1183,
+      "query_timestamp": "2026-05-21T22:11:21Z",
+      "elapsed_seconds": 119.5
+    },
+    "coconut": {
+      "enabled": true,
+      "tier": 1,
+      "license": "CC-BY 4.0",
+      "url": "https://coconut.naturalproducts.net",
+      "status": "success",
+      "record_count": 2579,
+      "query_timestamp": "2026-05-21T18:23:51Z",
+      "elapsed_seconds": 5.3
+    },
+    "knapsack": {
+      "enabled": true,
+      "tier": 1,
+      "license": "CC-BY 4.0",
+      "url": "http://www.knapsackfamily.com/knapsack_core/top.php",
+      "status": "success",
+      "record_count": 526,
+      "query_timestamp": "2026-05-21T22:16:48Z",
+      "elapsed_seconds": 267.1
+    },
+    "pubchem_taxonomy": {
+      "enabled": true,
+      "tier": 2,
+      "license": "Public domain",
+      "url": "https://pubchem.ncbi.nlm.nih.gov",
+      "status": "success",
+      "record_count": 11,
+      "query_timestamp": "2026-05-21T22:17:42Z",
+      "elapsed_seconds": 54.6
+    },
+    "chembl_magnolia": {
+      "enabled": true,
+      "tier": 2,
+      "license": "CC-BY-SA 3.0",
+      "url": "https://www.ebi.ac.uk/chembl/",
+      "status": "success",
+      "record_count": 85,
+      "query_timestamp": "2026-05-21T18:26:44Z",
+      "elapsed_seconds": 55.4
+    },
+    "npatlas": {
+      "enabled": false,
+      "tier": 1,
+      "license": "CC-BY 4.0",
+      "url": "https://www.npatlas.org",
+      "status": "success",
+      "record_count": 0,
+      "query_timestamp": "2026-05-21T09:09:14Z",
+      "elapsed_seconds": 3.7
+    },
+    "npass": {
+      "enabled": false,
+      "tier": 1,
+      "license": "Academic use",
+      "url": "http://bidd.group/NPASS/",
+      "status": "success",
+      "record_count": 0,
+      "query_timestamp": "2026-05-21T08:34:41Z",
+      "elapsed_seconds": 3.0
+    },
+    "dr_duke": {
+      "enabled": false,
+      "tier": 3,
+      "license": "Public domain (USDA)",
+      "url": "https://phytochem.nal.usda.gov/",
+      "status": "success",
+      "record_count": 0,
+      "query_timestamp": "2026-05-21T08:34:54Z",
+      "elapsed_seconds": 13.4
+    },
+    "literature_miner": {
+      "enabled": true,
+      "tier": 4,
+      "license": "Fair use (abstracts) + CC (PMC)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov",
+      "status": "success",
+      "record_count": 1779,
+      "query_timestamp": "2026-05-21T19:04:01Z",
+      "elapsed_seconds": 205.0
+    },
+    "tcmsp": {
+      "enabled": false,
+      "tier": 2,
+      "license": "Academic use",
+      "url": "https://old.tcmsp-e.com/",
+      "status": "disabled",
+      "record_count": 0,
+      "query_timestamp": "",
+      "elapsed_seconds": 0
+    },
+    "cmaup": {
+      "enabled": false,
+      "tier": 2,
+      "license": "CC-BY 4.0",
+      "url": "http://bidd.group/CMAUP/",
+      "status": "disabled",
+      "record_count": 0,
+      "query_timestamp": "",
+      "elapsed_seconds": 0
+    },
+    "foodb": {
+      "enabled": false,
+      "tier": 3,
+      "license": "CC-BY-NC 4.0",
+      "url": "https://foodb.ca",
+      "status": "disabled",
+      "record_count": 0,
+      "query_timestamp": "",
+      "elapsed_seconds": 0
+    },
+    "imppat": {
+      "enabled": false,
+      "tier": 3,
+      "license": "Academic use",
+      "url": "https://cb.imsc.res.in/imppat/",
+      "status": "disabled",
+      "record_count": 0,
+      "query_timestamp": "",
+      "elapsed_seconds": 0
+    }
+  },
+  "validation": {
+    "valid": true,
+    "must_have_found": 13,
+    "must_have_total": 13,
+    "evidence_tiers": {
+      "gold": 634,
+      "bronze": 76,
+      "silver": 26
+    }
+  }
+}

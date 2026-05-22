@@ -1,0 +1,11 @@
+{
+  "source": "chembl_magnolia",
+  "description": "ChEMBL: bioactivity data for Magnolia-associated compounds",
+  "record_count": 85,
+  "elapsed_seconds": 147.1,
+  "timestamp": "2026-05-21T22:58:09Z",
+  "status": "success",
+  "error": "",
+  "tier": 2,
+  "license": "CC-BY-SA 3.0"
+}

@@ -1,0 +1,11 @@
+{
+  "source": "npatlas",
+  "description": "NP Atlas: curated NP atlas with DOI references (organism search)",
+  "record_count": 0,
+  "elapsed_seconds": 3.7,
+  "timestamp": "2026-05-21T09:09:14Z",
+  "status": "success",
+  "error": "",
+  "tier": 1,
+  "license": "CC-BY 4.0"
+}

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+
+# Cached bulk downloads (COCONUT ~750MB, Duke ZIP)
+data/raw/.cache/

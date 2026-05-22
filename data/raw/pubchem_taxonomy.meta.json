@@ -1,0 +1,11 @@
+{
+  "source": "pubchem_taxonomy",
+  "description": "PubChem: taxonomy-linked compound discovery via Entrez + PUG REST",
+  "record_count": 12,
+  "elapsed_seconds": 114.8,
+  "timestamp": "2026-05-21T22:57:17Z",
+  "status": "success",
+  "error": "",
+  "tier": 2,
+  "license": "Public domain"
+}

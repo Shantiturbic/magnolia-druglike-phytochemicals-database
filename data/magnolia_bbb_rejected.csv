@@ -1,0 +1,331 @@
+compound_name,canonical_smiles,inchikey,source_db,species,rejection_reason
+,CCCCC/C=C\C/C=C/CCCCCCCC(=O)O,OYHQOLUKZRVURQ-IXWMQOLASA-N,COCONUT,Magnolia sp.,primary_metabolite
+Hydriodic acid,I,,COCONUT,Magnolia sp.,unparseable_smiles
+stearic acid,CCCCCCCCCCCCCCCCCC(=O)O,QIQXTHQIDYTFRH-UHFFFAOYSA-N,COCONUT,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,OYHQOLUKZRVURQ-HZJYTTRNSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,[2H]/C(CCCCCCCC)=C(\[2H])CCCCCCCC(=O)O,ZQPPMHVWECSIRJ-FGFBQCSHSA-N,COCONUT,Magnolia sp.,primary_metabolite
+Ethyl acetate-1-13C,CCO[13C](C)=O,XEKOWRVHYACXOJ-AZXPZELESA-N,COCONUT,Magnolia sp.,mw_below_100.0
+ETHYL ACETATE,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+iodane,[123IH],,COCONUT,Magnolia sp.,unparseable_smiles
+,CCCCCCCC/C=C/CCCCCCCC(=O)O,ZQPPMHVWECSIRJ-MDZDMXLPSA-N,COCONUT,Magnolia sp.,primary_metabolite
+acetic acid,CC(=O)O,,COCONUT,Magnolia sp.,unparseable_smiles
+1-butanol,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+Isopropyl alcohol,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+hydrochloric acid,Cl,,COCONUT,Magnolia sp.,unparseable_smiles
+,CCCCC/C=C/C/C=C/CCCCCCCC(=O)O,OYHQOLUKZRVURQ-AVQMFFATSA-N,COCONUT,Magnolia sp.,primary_metabolite
+Octadecanoic 1-14C acid,CCCCCCCCCCCCCCCCC[14C](=O)O,QIQXTHQIDYTFRH-GTFORLLLSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,CCCCC/C=C/C/C=C\CCCCCCCC(=O)O,OYHQOLUKZRVURQ-KQHSAVHASA-N,COCONUT,Magnolia sp.,primary_metabolite
+,[2H]C(C/C=C\CCC([2H])([2H])C([2H])C([2H])([2H])CCC)CCCCC([2H])C(=O)O,ZQPPMHVWECSIRJ-HIOWUFTPSA-N,COCONUT,Magnolia sp.,primary_metabolite
+FURFURAL,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,ZQPPMHVWECSIRJ-KTKRTIGZSA-N,COCONUT,Magnolia sp.,primary_metabolite
+iodane,[131IH],,COCONUT,Magnolia sp.,unparseable_smiles
+(+)-beta-Eudesmol,,,KNApSAcK,Magnolia liliiflora,unresolvable_name
+(+)-beta-Eudesmol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Kobusinol A,,,KNApSAcK,Magnolia kobus var. borealis,unresolvable_name
+Kobusinol B,,,KNApSAcK,Magnolia kobus var. borealis,unresolvable_name
+Linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,KNApSAcK,Magnolia officinalis,primary_metabolite
+Oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,KNApSAcK,Magnolia officinalis,primary_metabolite
+alpha-Caryophyllene (obsol.),,,KNApSAcK,Magnolia officinalis,unresolvable_name
+(+)-Epimagnolin,,,KNApSAcK,Magnolia kobus var. borealis,unresolvable_name
+Kobusimin A,,,KNApSAcK,Magnolia kobus,unresolvable_name
+Kobusimin B,,,KNApSAcK,Magnolia kobus,unresolvable_name
+(-)-Elemol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Melampomagnolide A,,,KNApSAcK,Magnolia grandiflora,unresolvable_name
+Soulangianolide B,,,KNApSAcK,Magnolia sp.,unresolvable_name
+Soulangianolide B,,,KNApSAcK,Magnolia x Soulangeana Soulangae-Bodin.,unresolvable_name
+(-)-Eudeshonokiol,,,KNApSAcK,Magnolia obovata,unresolvable_name
+(-)-Eudesmagnolol,,,KNApSAcK,Magnolia obovata,unresolvable_name
+3-O-beta-D-Glucopyranosyl sitosterol,,,KNApSAcK,Magnolia obovata,unresolvable_name
+(-)-delta-Cadinol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Watsonol A,,,KNApSAcK,Magnolia watsonii,unresolvable_name
+Watsonol B,,,KNApSAcK,Magnolia watsonii,unresolvable_name
+Magnograndiolide,,,KNApSAcK,Magnolia grandiflora,unresolvable_name
+Trifloculoside,,,KNApSAcK,Magnolia virginiana,unresolvable_name
+(+)-N-Methylcoclaurine,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+(+)-N-Methylcoclaurine,,,KNApSAcK,Magnolia obovata,unresolvable_name
+Magnococline,,,KNApSAcK,Magnolia coco,unresolvable_name
+(-)-Michelalbine,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Magnolamide,,,KNApSAcK,Magnolia coco,unresolvable_name
+(-)-Aschantin,,,KNApSAcK,Magnolia kobus,unresolvable_name
+"7R,8S,7'S.8'R-3,4,3',4'-Tetramethoxy-9,7'-dihydroxy-8,8',7.O.9'-lignan",,,KNApSAcK,Magnolia fargesii CHENG,unresolvable_name
+"7S,8R,7'S.8'R-3,4,3',4'-Tetramethoxy-9,7'-dihydroxy-8,8',7.O.9'-lignan",,,KNApSAcK,Magnolia fargesii CHENG,unresolvable_name
+Isosafrol glycol,,,KNApSAcK,Magnolia salicifolia,unresolvable_name
+Magnostellin A,,,KNApSAcK,Magnolia fargesii CHENG,unresolvable_name
+(-)-Methylpiperitol,,,KNApSAcK,Magnolia denudata,unresolvable_name
+Burcellin,,,KNApSAcK,Magnolia denudata,unresolvable_name
+(-)-Fargesol,,,KNApSAcK,Magnolia praecocissima,unresolvable_name
+Denudadione A,,,KNApSAcK,Magnolia denudata,unresolvable_name
+Denudadione B,,,KNApSAcK,Magnolia denudata,unresolvable_name
+Denudanolide B,,,KNApSAcK,Magnolia denudata,unresolvable_name
+Denudanolide C,,,KNApSAcK,Magnolia denudata,unresolvable_name
+Denudanolide D,,,KNApSAcK,Magnolia denudata,unresolvable_name
+Magnostellin B,,,KNApSAcK,Magnolia praecocissima,unresolvable_name
+Aceoside,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Magnolenin C,,,KNApSAcK,Magnolia grandiflora,unresolvable_name
+Pyramidatin A,,,KNApSAcK,Magnolia pyramidata,unresolvable_name
+Pyramidatin B,,,KNApSAcK,Magnolia pyramidata,unresolvable_name
+Pyramidatin C,,,KNApSAcK,Magnolia pyramidata,unresolvable_name
+Pyramidatin D,,,KNApSAcK,Magnolia pyramidata,unresolvable_name
+Pyramidatin E,,,KNApSAcK,Magnolia pyramidata,unresolvable_name
+Pyramidatin F,,,KNApSAcK,Magnolia pyramidata,unresolvable_name
+Pyramidatin G,,,KNApSAcK,Magnolia pyramidata,unresolvable_name
+Magnolignan B,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Liliflone,,,KNApSAcK,Magnolia liliiflora,unresolvable_name
+Isoprene,C=CC(=C)C,RRHGJUQNOFWUDK-UHFFFAOYSA-N,KNApSAcK,Magnolia grandiflora,mw_below_100.0
+Dehydro isolongifolene,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Costunolact-12beta-ol,,,KNApSAcK,Magnolia virginiana,unresolvable_name
+Magnaldehyde C,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Magnolignan D,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Magnolignan G,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Magnoquinone,,,KNApSAcK,Magnolia rostrata,unresolvable_name
+4'-O-Demethylbiondinin A,,,KNApSAcK,Magnolia fargesii,unresolvable_name
+"5,6,6a,7-Tetrahydro-1,3,11-trihydroxy-2,9-dimethoxy-6,6-dimethyl-4H-dibenzo[de,g]quinolinium",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+threo-Magnolignan B,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+erythro-Magnolignan B,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+6-(1-Propen-1-yl)bicyclo[3.1.0]hexan-2-one,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"Cyclobutanecarboxylic acid, 1-methyl-2-hepten-1-yl ester",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+(-)-Piperitylmagnolol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"rel-(1R,2S)-1-(4-Hydroxy-3-methoxyphenyl)-2-[4-(3-hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"rel-(1R,2R)-1-(4-Hydroxy-3-methoxyphenyl)-2-[4-(3-hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"5-(2,3-Dihydroxypropyl)-5'-(2-propen-1-yl)[1,1'-biphenyl]-2,2'-diol",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"Linalool-1,2-epoxide",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"(2E)-3-[4-(beta-D-Glucopyranosyloxy)-3,5-dimethoxyphenyl]-2-propenal",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"6,7,7a,8-Tetrahydro-9-hydroxy-4,10,11-trimethoxy-7,7-dimethyl-5H-benzo[g]-1,3-benzodioxolo[6,5,4-de]quinolinium",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"(6aS)-5,6,6a,7-Tetrahydro-1,11-dihydroxy-2,10-dimethoxy-6,6-dimethyl-4-oxo-4H-dibenzo[de,g]quinolinium",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"6,7,7a,8-Tetrahydro-12-hydroxy-11-methoxy-7,7-dimethyl-5H-benzo[g]-1,3-benzodioxolo[6,5,4-de]quinolinium",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"(1R)-1,2-Dihydro-7-hydroxy-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2,2-dimethylisoquinolinium",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"2-cis,cis-9,12Octadecadienyloxyethanol",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"(2S)-2-Methyl-2-[(3R,5R,8R,8aR)-1,2,3,5,6,7,8,8a-octahydro-3,8-dimethyl-5-azulenyl]oxirane",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"2,3,5,8,Tetramethyldecane",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+8-Ethenyldecahydro-5-methylene-2-naphthalenemethanol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"5,6,6a,7-Tetrahydro-1,9,10-trihydroxy-2-methoxy-6,6-dimethyl-4H-dibenzo[de,g]quinolinium",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"5,5-Dimethyl-3-methylenebicyclo[2.2.1]heptan-2-one",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+(2E)-2-Nonen-4-yne,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"(9Z)-9,17-Octadecadienal",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Decahydro-1-methyl-4-methylene-7-(1-methylethenyl)azulene,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"trans,trans-(+)-5-Caranol",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+1-Ethenyl-1-methyl-4-methylene-2-(2-methyl-1-propenyl)-cycloheptane,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Liliflol B,,,KNApSAcK,Magnolia liliiflora,unresolvable_name
+Liliflodione,,,KNApSAcK,Magnolia liliiflora,unresolvable_name
+2-Ethyl-2-methyltridecanol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Piperitylhonokiol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Bornylmagnolol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+"1,2,3,4-Tetrahydro-1-[(3-hydroxy-4-methoxyphenyl)methyl]-6,7-dimethoxy-2,2-dimethylisoquinolinium",,,KNApSAcK,Magnolia officinalis,unresolvable_name
+(+)-Paramicholide,,,KNApSAcK,Magnolia rajaniana,unresolvable_name
+(+)-Paramicholide,,,KNApSAcK,Magnolia baillonii,unresolvable_name
+Lanuginolide,,,KNApSAcK,Magnolia compressa,unresolvable_name
+Lanuginolide,,,KNApSAcK,Magnolia lanuginosa,unresolvable_name
+9alpha-Hydroxydihydroparthenolide,,,KNApSAcK,Magnolia baillonii,unresolvable_name
+"11betaH,13-Dihydroreynosin",,,KNApSAcK,Magnolia compressa,unresolvable_name
+Michefuscalide,,,KNApSAcK,Michelia fuscata,unresolvable_name
+(-)-Michelalbine,,,KNApSAcK,Magnolia x alba,unresolvable_name
+(+)-Xylopine,,,KNApSAcK,Magnolia gitigensis,unresolvable_name
+N-Acetylxylopine,,,KNApSAcK,Magnolia gitigensis,unresolvable_name
+Manglieside A,,,KNApSAcK,Magnolia phuthoensis,unresolvable_name
+Manglieside C,,,KNApSAcK,Magnolia phuthoensis,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata|Magnolia champaca,mw_below_100.0
+pyramidatin a,,,PubMed_NER,Magnolia fraseri|Magnolia pyramidata|Magnolia and,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia fargesii,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+β-eudesmol,,,PubMed_NER,Magnolia sp.,unresolvable_name
+manglieside c,,,PubMed_NER,Magnolia phuthoensis,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia liliflora,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia dealbata,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia chapensis,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia champaca,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia dealbata,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia delavayi,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana|Magnolia grandiflora,mw_below_100.0
+β-bisabolene,,,PubMed_NER,Magnolia virginiana|Magnolia grandiflora,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+magnostellin b,,,PubMed_NER,Magnolia delavayi,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia flower|Magnolia endodormancy,primary_metabolite
+linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PubMed_NER,Magnolia flower|Magnolia endodormancy,primary_metabolite
+magnolignan b,,,PubMed_NER,Magnolia officinalis,unresolvable_name
+honokitriol,,,PubMed_NER,Magnolia officinalis,unresolvable_name
+(±)-limonene,,,PubMed_NER,Magnolia denudata,unresolvable_name
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+magnostellin a,,,PubMed_NER,Magnolia biondii,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sprengeri,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sprengeri,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+dihydroparthenolide,,,PubMed_NER,Magnolia sp.,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia compressa,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia seed,primary_metabolite
+linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PubMed_NER,Magnolia seed,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+magnograndiolide,,,PubMed_NER,Magnolia grandiflora,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia ovata,unparseable_smiles
+n-acetylxylopine,,,PubMed_NER,Magnolia ovata,unresolvable_name
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia dealbata,unparseable_smiles
+(+)-paramicholide,,,PubMed_NER,Magnolia rajaniana|Magnolia baillonii,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata|Magnolia spp,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia bark|Magnolia officinalis,mw_below_100.0
+butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+costunolide diepoxide,,,PubMed_NER,Magnolia champaca,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+costunolide diepoxide,,,PubMed_NER,Magnolia grandiflora,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,mw_below_100.0
+costunolide (1),,,PubMed_NER,Magnolia kobus,unresolvable_name
+denudadione b,,,PubMed_NER,Magnolia denudata,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+magnostellin a,,,PubMed_NER,Magnolia fargesii,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata|Magnolia and,mw_below_100.0
+pyramidatin a,,,PubMed_NER,Magnolia pyramidata,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata|Magnolia and,mw_below_100.0
+n-acetylxylopine,,,PubMed_NER,Magnolia obovata|Magnolia and,unresolvable_name
+dihydroparthenolide,,,PubMed_NER,Magnolia grandiflora,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
+isoprene,C=CC(=C)C,RRHGJUQNOFWUDK-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+eudesmagnolol,,,PubMed_NER,Magnolia obovata,unresolvable_name
+eudeshonokiol a,,,PubMed_NER,Magnolia obovata,unresolvable_name
+magnolamide,,,PubMed_NER,Magnolia coco,unresolvable_name
+oxoanolobine,,,PubMed_NER,Magnolia coco,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia dealbata,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia bark,unparseable_smiles
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinals|Magnolia officinalis,mw_below_100.0
+(-)-fargesol,,,PubMed_NER,Magnolia fargesii,unresolvable_name
+stigmast-4-en-3-one,,,PubMed_NER,Magnolia fargesii,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,mw_below_100.0
+dihydroparthenolide,,,PubMed_NER,Magnolia grandiflora|Magnolia and,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia plant|Magnolia flos,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+dihydroparthenolide,,,PubMed_NER,Magnolia virginiana,unresolvable_name
+butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia x alba,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia salicifolia,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
+butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sieboldii,unparseable_smiles
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
+butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+isoprene,C=CC(=C)C,RRHGJUQNOFWUDK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+β-eudesmol,,,PubMed_NER,Magnolia officinalis,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-bisabolene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-bisabolene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+furfural,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+1-butanol,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-bisabolene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+β-phellandrene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+furfural,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-phellandrene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+furfural,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-phellandrene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+β-bisabolene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-eudesmol,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+β-phellandrene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+acetic acid,CC(=O)O,,PMC_fulltext,Magnolia sp.,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia officinalis,primary_metabolite
+"(9E,12Z)-linoleic acid",CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia officinalis,primary_metabolite
+butan-1-ol,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
+furfural,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
+acetic acid,CC(=O)O,,LOTUS_Wikidata,Magnolia obovata,unparseable_smiles
+butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
+isopropyl alcohol,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
+stearic acid,CCCCCCCCCCCCCCCCCC(=O)O,QIQXTHQIDYTFRH-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia compressa,primary_metabolite
+chlorane,Cl,,PubChem,Magnolia sp.,unparseable_smiles
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubChem,Magnolia sp.,mw_below_100.0
+iodane,I,,PubChem,Magnolia sp.,unparseable_smiles

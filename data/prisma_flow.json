@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "sources_screened": 11,
+    "records_identified": 6163,
+    "per_source": {
+      "chembl_magnolia": 85,
+      "cmaup": 0,
+      "coconut": 2579,
+      "dr_duke": 0,
+      "knapsack": 526,
+      "literature_miner": 1779,
+      "lotus_wikidata": 1183,
+      "npass": 0,
+      "npatlas": 0,
+      "pubchem_taxonomy": 11,
+      "tcmsp": 0
+    }
+  },
+  "screening": {
+    "records_after_merge": 5879,
+    "duplicates_removed": 284
+  },
+  "eligibility": {
+    "records_assessed": 5879,
+    "excluded": 284,
+    "exclusion_reasons": {
+      "primary_metabolite": 27,
+      "mw_below_100.0": 114,
+      "unparseable_smiles": 22,
+      "unresolvable_name": 121
+    }
+  },
+  "included": {
+    "unique_compounds": 736
+  }
+}
