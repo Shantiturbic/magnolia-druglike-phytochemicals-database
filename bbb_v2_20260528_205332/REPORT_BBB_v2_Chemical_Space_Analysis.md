@@ -199,3 +199,145 @@ python3 [analysis script]  # See analysis-results/bbb_v2_*/
 ```
 
 All data, code, and figures are in the repository. The database build is fully reproducible from public sources.
+
+---
+
+## 9. ADMET Predictions (ADMET-AI v2.0.1)
+
+**Run date:** 2026-05-28
+**Tool:** ADMET-AI v2.0.1 (Swanson et al., 2024) — 40+ ML endpoints with DrugBank-approved percentiles
+**Time:** 31 seconds (BBB, 1,982 compounds) + 19 seconds (actives, 1,196 compounds) on M3
+
+### 9.1 BBB Library ADMET Profile
+
+| Category | Property | Mean | Median | Interpretation |
+|----------|----------|------|--------|----------------|
+| **Toxicity** | AMES (mutagenicity) | 0.333 | 0.287 | Moderate risk |
+| | ClinTox | 0.127 | 0.091 | Low risk |
+| | DILI (hepatotoxicity) | 0.397 | 0.306 | Moderate risk — primary Tier 3 driver |
+| | Carcinogenicity | 0.078 | 0.060 | Very low risk |
+| | hERG (cardiotoxicity) | 0.470 | 0.465 | Borderline |
+| | Skin Reaction | 0.589 | 0.633 | Moderate |
+| **Absorption** | HIA (intestinal) | 0.920 | 1.000 | Excellent |
+| | Oral Bioavailability | 0.696 | 0.757 | Good |
+| | PAMPA Permeability | 0.775 | 0.931 | Good |
+| | BBB Penetration | 0.676 | 0.820 | Good |
+| **Metabolism** | CYP1A2 Inhibition | 0.333 | 0.152 | Low–moderate |
+| | CYP2C9 Inhibition | 0.182 | 0.081 | Low |
+| | CYP2C19 Inhibition | 0.310 | 0.211 | Low–moderate |
+| | CYP2D6 Inhibition | 0.147 | 0.073 | Low |
+| | CYP3A4 Inhibition | 0.277 | 0.135 | Low |
+| **Distribution** | Plasma Protein Binding | 82.1% | 87.8% | High (typical for NPs) |
+| | Half-Life (h) | 13.3 | 8.6 | Moderate |
+
+### 9.2 Toxicity Tier Classification
+
+Composite score = AMES + ClinTox + Carcinogens_Lagunin + DILI
+
+| Tier | Criterion | Compounds | % | Description |
+|------|-----------|-----------|---|-------------|
+| Tier 1 | < 0.50 | 606 | 30.6% | Safest — primary screening pool |
+| Tier 2 | 0.50–0.75 | 255 | 12.9% | Moderate — secondary screening |
+| Tier 3 | ≥ 0.75 | 1,121 | 56.6% | Reserve — higher predicted toxicity |
+| **Tiers 1+2** | | **861** | **43.4%** | **Total screening pool** |
+
+**Tier 3 drivers:** DILI is the dominant toxicity endpoint for 64% of Tier 3 compounds (715/1,121). AMES drives 35% (395/1,121). This reflects the abundance of sesquiterpene lactones and alkaloids with reactive functional groups (α,β-unsaturated carbonyls, epoxides, Michael acceptors) in the NPASS-sourced compounds.
+
+### 9.3 Structural Alerts
+
+| Alert Type | Compounds Flagged | % |
+|-----------|------------------|---|
+| PAINS | 159 | 8.0% |
+| BRENK | 1,253 | 63.2% |
+| NIH | 445 | 22.5% |
+
+BRENK alerts are common in natural products (phenols, catechols, Michael acceptors) and do not disqualify compounds — they flag functional groups requiring attention during hit-to-lead optimization.
+
+---
+
+## 10. ADMET Comparison: BBB Magnolia vs DENV Actives
+
+### 10.1 Head-to-Head Comparison
+
+| Property | BBB Magnolia | NS2B-NS3 Actives | NS5 RdRp Actives | NS5 MTase Actives | Advantage |
+|----------|-------------|-------------------|-------------------|--------------------|-----------|
+| **DILI (hepatotox)** | **0.397** | 0.665 | 0.836 | 0.878 | **BBB is 40–55% safer** |
+| **Carcinogenicity** | **0.078** | 0.205 | 0.264 | 0.283 | **BBB is 2.6–3.6x safer** |
+| **Clinical Toxicity** | **0.127** | 0.216 | 0.132 | 0.228 | **BBB is safer (except RdRp ≈ same)** |
+| **Cardiotox (hERG)** | 0.470 | 0.642 | **0.348** | 0.414 | Mixed — BBB safer than NS2B-NS3 |
+| Mutagenicity (AMES) | 0.333 | 0.389 | **0.251** | 0.339 | ≈ Same |
+| **Intestinal Absorption** | **0.920** | 0.759 | 0.852 | 0.815 | **BBB absorbs 8–21% better** |
+| **BBB Penetration** | **0.676** | 0.347 | 0.382 | 0.341 | **BBB penetrates 2x more** |
+| **Bioavailability** | **0.696** | 0.601 | 0.672 | 0.719 | **BBB ≈ same or better** |
+| **PAMPA Permeability** | **0.775** | 0.495 | 0.555 | 0.461 | **BBB is 40–68% more permeable** |
+| **CYP3A4 Inhibition** | **0.277** | 0.524 | 0.294 | 0.315 | **BBB is safer (esp. vs NS2B-NS3)** |
+
+### 10.2 Key Finding
+
+The BBB Magnolia library has a **superior predicted safety and pharmacokinetic profile** compared to known DENV active compounds from ChEMBL:
+
+1. **Lower hepatotoxicity:** BBB DILI = 0.397 vs actives 0.665–0.878. The existing DENV actives are heavily hepatotoxic; Magnolia compounds are significantly cleaner.
+
+2. **Lower carcinogenicity:** BBB = 0.078 vs actives 0.205–0.283. Nearly 3x safer.
+
+3. **Better oral absorption:** BBB HIA = 0.920 vs actives 0.759–0.852. Natural products with evolved membrane permeability.
+
+4. **Better BBB penetration:** BBB = 0.676 vs actives 0.341–0.382. Relevant for neurotropic DENV infections.
+
+5. **Lower CYP inhibition:** BBB CYP3A4 = 0.277 vs NS2B-NS3 actives = 0.524. Lower drug-drug interaction risk.
+
+**Thesis-ready statement:** *"El perfil ADMET predicho de la biblioteca de fitoquímicos de Magnolia demuestra una hepatotoxicidad significativamente menor (DILI = 0.397 vs 0.665–0.878) y una absorción intestinal superior (HIA = 0.920 vs 0.759–0.852) en comparación con los inhibidores anti-DENV conocidos registrados en ChEMBL, lo que sugiere un margen de seguridad favorable para los candidatos derivados de esta biblioteca."*
+
+---
+
+## 11. Figures — Complete Inventory
+
+### Core Results (show to advisor):
+
+| # | File | Description |
+|---|------|-------------|
+| 1 | `pca_bbb_vs_actives.png` | PCA: BBB vs DENV actives (72.4% overlap) |
+| 2 | `umap_bbb_vs_actives.png` | UMAP: BBB vs DENV actives (ECFP4) |
+| 3 | `admet_radar_bbb_vs_actives.png` | ADMET radar: BBB vs actives by target |
+| 4 | `admet_bbb_vs_actives_bars.png` | ADMET bar comparison: 10 key properties |
+| 5 | `admet_toxicity_bbb_vs_actives.png` | Toxicity distributions: BBB vs actives |
+| 6 | `descriptor_distributions.png` | 9-panel descriptor histograms |
+| 7 | `source_contribution.png` | Database source contributions |
+
+### ADMET Analysis:
+
+| # | File | Description |
+|---|------|-------------|
+| 8 | `admet_tier_distribution.png` | Toxicity tier pie + composite histogram |
+| 9 | `admet_tier3_drivers.png` | What drives Tier 3 (DILI = 64%) |
+| 10 | `admet_radar_by_tier.png` | Radar overlay by tier |
+| 11 | `admet_toxicity_by_tier.png` | 4-panel tox distributions by tier |
+| 12 | `admet_heatmap_top30.png` | Heatmap: 30 safest compounds × 15 properties |
+
+### Chemical Space:
+
+| # | File | Description |
+|---|------|-------------|
+| 13 | `pca_chemical_space.png` | PCA colored by MW |
+| 14 | `umap_fingerprints.png` | UMAP colored by LogP |
+| 15 | `tsne_fingerprints.png` | t-SNE colored by ring count |
+| 16 | `correlation_heatmap.png` | Descriptor correlation matrix |
+| 17 | `lipinski_compliance.png` | 88.1% compliance bar chart |
+| 18 | `evidence_tiers.png` | Gold/silver/bronze distribution |
+
+### Old Atlas Comparison:
+
+| # | File | Description |
+|---|------|-------------|
+| 19 | `old_vs_new_overlap.png` | Venn-style bar: 69 overlap, 1,913 BBB-only |
+| 20 | `pca_old_vs_new.png` | PCA: old atlas vs BBB v2.0 |
+| 21 | `umap_old_vs_new.png` | UMAP: old atlas vs BBB v2.0 |
+| 22 | `descriptors_old_vs_new.png` | Property distributions comparison |
+
+### Data Files:
+
+| File | Description |
+|------|-------------|
+| `admet_predictions.csv` | 1,982 × 119 columns (BBB ADMET) |
+| `admet_actives.csv` | 1,196 × 105 columns (actives ADMET) |
+| `analysis_summary.json` | Key metrics in machine-readable format |
