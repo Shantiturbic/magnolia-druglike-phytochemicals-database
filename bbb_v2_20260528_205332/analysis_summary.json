@@ -1,0 +1,30 @@
+{
+  "database": "BBB Database STC v2.0",
+  "date": "2026-05-28T20:55:13.123334",
+  "total_compounds": 1982,
+  "mean_mw": 341.94811499782446,
+  "median_mw": 312.8895,
+  "mean_logp": 3.2422320181634725,
+  "mean_tpsa": 73.48510090817356,
+  "mean_qed": 0.5219485841913671,
+  "lipinski_compliant": 1746,
+  "lipinski_pct": 88.0928355196771,
+  "diversity_score": 0.8953,
+  "mean_tanimoto": 0.1047,
+  "source_counts": {
+    "NPASS": 1602,
+    "COCONUT": 690,
+    "KNApSAcK": 298,
+    "LOTUS_Wikidata": 602,
+    "PubMed_NER": 192,
+    "SemanticScholar_NER": 41,
+    "ChEMBL": 70,
+    "PubChem": 7,
+    "NPAtlas": 3
+  },
+  "evidence_tiers": {
+    "gold": 1886,
+    "bronze": 67,
+    "silver": 29
+  }
+}
