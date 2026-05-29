@@ -1,9 +1,9 @@
 {
   "source": "literature_miner",
   "description": "PubMed + PMC + S2: 3-layer compound extraction from literature",
-  "record_count": 1802,
-  "elapsed_seconds": 158.3,
-  "timestamp": "2026-05-28T23:49:05Z",
+  "record_count": 3374,
+  "elapsed_seconds": 188.0,
+  "timestamp": "2026-05-29T17:26:41Z",
   "status": "success",
   "error": "",
   "tier": 4,

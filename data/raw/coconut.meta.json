@@ -1,9 +1,9 @@
 {
   "source": "coconut",
   "description": "COCONUT 2.0: cross-reference Magnolia compounds against 738K NPs",
-  "record_count": 2623,
-  "elapsed_seconds": 34.9,
-  "timestamp": "2026-05-28T23:05:25Z",
+  "record_count": 7208,
+  "elapsed_seconds": 5.3,
+  "timestamp": "2026-05-29T16:54:57Z",
   "status": "success",
   "error": "",
   "tier": 1,

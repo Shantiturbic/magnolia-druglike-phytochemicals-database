@@ -1,0 +1,7 @@
+compound_name,canonical_smiles,inchi,inchikey,molecular_formula,molecular_weight,source_db,source_id,species,plant_part,doi,evidence_tier,query_term,query_date
+torreyol,"CC1=C[C@@H]2[C@H](CC[C@]([C@@H]2CC1)(C)O)C(C)C",,LHYHMMRYTDARSZ-BARDWOONSA-N,C15H26O,222.37,Literature_Curated,PubChem:3084311,Magnolia argyrothricha,bark,,gold,Guzman_Cuca_2008,2026-05-29T00:00:00Z
+parthenolide,"C/C/1=C\CC[C@@]2([C@@H](O2)[C@@H]3[C@@H](CC1)C(=C)C(=O)O3)C",,KTEXNACQROZXEV-SLXBATTESA-N,C15H20O3,248.32,Literature_Curated,PubChem:6473881,Magnolia argyrothricha,bark,,gold,Guzman_Cuca_2008,2026-05-29T00:00:00Z
+N-acetylanonaine,"CC(=O)N1CCC2=CC3=C(C4=C2[C@H]1CC5=CC=CC=C54)OCO3",,XVIHBNVDAPQBRH-OAHLLOKOSA-N,C19H17NO3,307.3,Literature_Curated,PubChem:6453733,Magnolia argyrothricha,bark,,gold,Guzman_Cuca_2008,2026-05-29T00:00:00Z
+dihydroguaiaretic acid,"C(CC1=CC(=C(C=C1)O)OC)C(CC1=CC(=C(C=C1)O)OC)C",,ADFOLUXMYYCTRR-UHFFFAOYSA-N,C20H26O4,330.4,Literature_Curated,PubChem:161924,Magnolia argyrothricha,bark,,gold,Guzman_Cuca_2008,2026-05-29T00:00:00Z
+austrobailignan-6,"C(CC1=CC2=C(C=C1)OCO2)C(CC1=CC(=C(C=C1)O)OC)C",,QDDILOVMGWUNGD-UHFFFAOYSA-N,C20H24O4,328.4,Literature_Curated,PubChem:13844304,Magnolia argyrothricha,bark,,gold,Guzman_Cuca_2008,2026-05-29T00:00:00Z
+3-methoxynordomesticine,"COC1=C(C(=C2C3=CC4=C(C=C3C[C@H]5C2=C1CCN5)OCO4)O)OC",,WPQOVUJKYMOEFK-LBPRGKRZSA-N,C19H19NO5,341.4,Literature_Curated,PubChem:57336190,Magnolia argyrothricha,bark,10.1093/jac/dkq313,gold,Guzman_et_al_2010,2026-05-29T00:00:00Z

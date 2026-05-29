@@ -1,36 +1,37 @@
 {
   "identification": {
     "sources_screened": 11,
-    "records_identified": 6163,
+    "records_identified": 16181,
     "per_source": {
       "chembl_magnolia": 85,
       "cmaup": 0,
-      "coconut": 2579,
+      "coconut": 7208,
       "dr_duke": 0,
-      "knapsack": 526,
-      "literature_miner": 1779,
+      "knapsack": 577,
+      "literature_miner": 3374,
       "lotus_wikidata": 1183,
-      "npass": 0,
-      "npatlas": 0,
-      "pubchem_taxonomy": 11,
+      "npass": 3739,
+      "npatlas": 3,
+      "pubchem_taxonomy": 12,
       "tcmsp": 0
     }
   },
   "screening": {
-    "records_after_merge": 5879,
-    "duplicates_removed": 284
+    "records_after_merge": 14838,
+    "duplicates_removed": 1343
   },
   "eligibility": {
-    "records_assessed": 5879,
-    "excluded": 284,
+    "records_assessed": 14838,
+    "excluded": 1342,
     "exclusion_reasons": {
-      "primary_metabolite": 27,
-      "mw_below_100.0": 114,
-      "unparseable_smiles": 22,
-      "unresolvable_name": 121
+      "primary_metabolite": 715,
+      "mw_below_100.0": 399,
+      "mw_above_1500.0": 20,
+      "unparseable_smiles": 67,
+      "unresolvable_name": 141
     }
   },
   "included": {
-    "unique_compounds": 736
+    "unique_compounds": 1994
   }
 }

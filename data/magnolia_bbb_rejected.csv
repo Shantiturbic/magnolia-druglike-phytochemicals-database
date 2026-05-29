@@ -1,28 +1,83 @@
 compound_name,canonical_smiles,inchikey,source_db,species,rejection_reason
+D-Man,OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-QTVWNMPRSA-N,COCONUT,Magnolia sp.,primary_metabolite
 ,CCCCC/C=C\C/C=C/CCCCCCCC(=O)O,OYHQOLUKZRVURQ-IXWMQOLASA-N,COCONUT,Magnolia sp.,primary_metabolite
+citric acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,KRKNYBCHXYNGOX-UHFFFAOYSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,DTOSIQBPPRVQHS-PDBXOOCHSA-N,COCONUT,Magnolia sp.,primary_metabolite
+3-Methyl-1-butyne,C#CC(C)C,USCSRAJGJYMJFZ-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+,C=C[C@](C)(O)CC/C=C(\C)C(=O)OC[C@H]1O[C@@H](OC(=O)[C@@]23CCC(C)(C)C[C@@H]2C2=CC[C@@H]4[C@@]5(C)CC[C@H](O[C@@H]6O[C@H](CO[C@@H]7OC[C@H](O)[C@H](O)[C@H]7O[C@@H]7OC[C@@H](O)[C@H](O)[C@H]7O)[C@@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)[C@H](O)[C@H]6NC(C)=O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]2(C)CC3)[C@H](O[C@@H]2OC[C@@H](O)[C@H](O[C@@H]3OC[C@](O)(CO)[C@H]3O)[C@H]2O)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1OC(C)=O,PRYBENUZOCAPGE-WPAIHXNQSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
 Hydriodic acid,I,,COCONUT,Magnolia sp.,unparseable_smiles
+,O=C(O)/C=C/C(=O)O,,COCONUT,Magnolia sp.,unparseable_smiles
+beta-D-galactose,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-FPRJBGLDSA-N,COCONUT,Magnolia sp.,primary_metabolite
+D-Alt,OC[C@H]1OC(O)[C@@H](O)[C@H](O)[C@@H]1O,WQZGKKKJIJFFOK-RSVSWTKNSA-N,COCONUT,Magnolia sp.,primary_metabolite
+alpha-L-talopyranose,OC[C@@H]1O[C@@H](O)[C@H](O)[C@H](O)[C@@H]1O,WQZGKKKJIJFFOK-YDMGZANHSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,C=C[C@](C)(O)CC/C=C(\C)C(=O)OC[C@H]1O[C@@H](OC(=O)[C@]23CC[C@]4(C)C(=CC[C@@H]5[C@@]6(C)CC[C@@H](O[C@@H]7O[C@H](CO[C@@H]8OC[C@H](O)[C@H](O)[C@H]8O[C@@H]8OC[C@@H](O)[C@H](O)[C@H]8O)[C@@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](O)[C@H]8O)[C@H](O)[C@H]7NC(C)=O)C(C)(C)[C@@H]6CC[C@]54C)[C@H]2CC(C)(C)[C@H](O)[C@@H]3O)[C@H](O[C@@H]2OC[C@@H](O)[C@H](O[C@@H]3OC[C@](O)(CO)[C@H]3O)[C@H]2O)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1OC(C)=O,DYEVAYRMFGZHTK-SRTMIBNXSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
+"(2S,4S,5S)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",OCC1O[C@H](O)C(O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-KYKSVUQTSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,CC(=O)N[C@H]1[C@H](O[C@H]2CC[C@]3(C)[C@H]4CC=C5[C@@H]6CC(C)(C)CC[C@]6(C(=O)O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O[C@@H]6OC[C@](O)(CO[C@@H]7OC[C@](O)(CO)[C@H]7O)[C@H]6O)[C@H](O)[C@H](O)[C@@]5(C)[C@]4(C)CC[C@H]3C2(C)C)O[C@H](CO[C@@H]2OC[C@H](O)[C@H](O[C@@H]3OC[C@@H](O)[C@H](O)[C@H]3O)[C@H]2O)[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H]1O,OZGFMVKUPIWDJL-GYCCRRPMSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
+beta-L-idopyranose,OC[C@@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-ZSNZIGRDSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,CC/C=C/C/C=C/C/C=C/CCCCCCCC(=O)O,DTOSIQBPPRVQHS-IUQGRGSQSA-N,COCONUT,Magnolia sp.,primary_metabolite
+alpha-L-gulopyranose,OC[C@@H]1O[C@@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-BYIBVSMXSA-N,COCONUT,Magnolia sp.,primary_metabolite
 stearic acid,CCCCCCCCCCCCCCCCCC(=O)O,QIQXTHQIDYTFRH-UHFFFAOYSA-N,COCONUT,Magnolia sp.,primary_metabolite
+"(4S,5R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",OCC1OC(O)C(O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-UZJJNQGWSA-N,COCONUT,Magnolia sp.,primary_metabolite
+"1,2,3-Butatrien-1-one",C=C=C=C=O,RYJXPRUXQSAMQE-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+beta-d-talopyranose,OC[C@H]1O[C@@H](O)[C@@H](O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-QBFJYBIGSA-N,COCONUT,Magnolia sp.,primary_metabolite
+stylissadine A,N=C1N[C@@H]2O[C@@H]3NC(=N)N[C@]34[C@H]([C@H](CNC(=O)c3cc(Br)c(Br)[nH]3)[C@@H](CNC(=O)c3cc(Br)c(Br)[nH]3)[C@@H]4O[C@H]3[C@H](CNC(=O)c4cc(Br)c(Br)[nH]4)[C@@H](CNC(=O)c4cc(Br)c(Br)[nH]4)[C@@H]4[C@]5(O)NC(=N)N[C@@H]5O[C@@H]5NC(=N)N[C@]453)[C@]2(O)N1,YJHWJTAJYZABEV-TXKCMVHWSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
+,C=C[C@@](C)(O)CC/C=C(\C)C(=O)OC[C@@H]1O[C@H](OC(=O)[C@@]23CCC(C)(C)C[C@@H]2C2=CC[C@@H]4[C@@]5(C)CC[C@H](O[C@H]6O[C@@H](CO[C@H]7OC[C@H](O)[C@@H](O)[C@@H]7O[C@H]7OC[C@H](O)[C@@H](O)[C@@H]7O)[C@H](O[C@H]7O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]7O)[C@@H](O)[C@@H]6NC(C)=O)C(C)(C)[C@@H]5CC[C@]4(C)[C@@]2(C)CC3)[C@@H](O[C@H]2OC[C@H](O)[C@@H](O[C@H]3OC[C@@](O)(CO)[C@@H]3O)[C@@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]1OC(C)=O,PRYBENUZOCAPGE-ZPYBVSOMSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
+,[CH2-]CCCCC#[O+],LTMHFFNOXFSDQV-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+beta-D-glucose,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-VFUOTHLCSA-N,COCONUT,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
 linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,OYHQOLUKZRVURQ-HZJYTTRNSA-N,COCONUT,Magnolia sp.,primary_metabolite
+beta-D-Mannopyranose,OC[C@H]1O[C@@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-RWOPYEJCSA-N,COCONUT,Magnolia sp.,primary_metabolite
+stylissadine B,N=C1N[C@@H]2O[C@@H]3NC(=N)N[C@]34[C@H]([C@H](CNC(=O)c3cc(Br)c(Br)[nH]3)[C@@H](CNC(=O)c3cc(Br)c(Br)[nH]3)[C@@H]4O[C@H]3[C@H](CNC(=O)c4cc(Br)c(Br)[nH]4)[C@@H](CNC(=O)c4cc(Br)c(Br)[nH]4)[C@H]4[C@]5(O)NC(=N)N[C@@H]5O[C@@H]5NC(=N)N[C@]534)[C@]2(O)N1,YJHWJTAJYZABEV-TVGYVYHUSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
 ,[2H]/C(CCCCCCCC)=C(\[2H])CCCCCCCC(=O)O,ZQPPMHVWECSIRJ-FGFBQCSHSA-N,COCONUT,Magnolia sp.,primary_metabolite
 Ethyl acetate-1-13C,CCO[13C](C)=O,XEKOWRVHYACXOJ-AZXPZELESA-N,COCONUT,Magnolia sp.,mw_below_100.0
+glycerol,OCC(O)CO,PEDCQBHIVMGVHV-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+alpha-D-glucose,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-DVKNGEFBSA-N,COCONUT,Magnolia sp.,primary_metabolite
 ETHYL ACETATE,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+,CC(=O)N[C@H]1[C@H](O[C@H]2CC[C@]3(C)[C@H]4CC=C5[C@@H]6CC(C)(C)CC[C@]6(C(=O)O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O[C@@H]6OC[C@](O)(CO[C@@H]7OC[C@](O)(CO)[C@H]7O)[C@H]6O)CC[C@@]5(C)[C@]4(C)CC[C@H]3C2(C)C)O[C@H](CO[C@@H]2OC[C@H](O)[C@H](O[C@@H]3OC[C@@H](O)[C@H](O)[C@H]3O)[C@H]2O)[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H]1O,CMCNAVCIRYPZCP-ANZSUFRPSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
+alpha-D-allopyranose,OC[C@H]1O[C@H](O)[C@H](O)[C@H](O)[C@@H]1O,WQZGKKKJIJFFOK-UKFBFLRUSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,OC[C@@H]1OC(O)[C@@H](O)[C@H](O)[C@@H]1O,WQZGKKKJIJFFOK-DHVFOXMCSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,CC/C=C\C/C=C\C/C=C/CCCCCCCC(=O)O,DTOSIQBPPRVQHS-FVCZIJCZSA-N,COCONUT,Magnolia sp.,primary_metabolite
+alpha-L-allopyranose,OC[C@@H]1O[C@@H](O)[C@@H](O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-GKFJPSPNSA-N,COCONUT,Magnolia sp.,primary_metabolite
 iodane,[123IH],,COCONUT,Magnolia sp.,unparseable_smiles
 ,CCCCCCCC/C=C/CCCCCCCC(=O)O,ZQPPMHVWECSIRJ-MDZDMXLPSA-N,COCONUT,Magnolia sp.,primary_metabolite
+All,OC[C@H]1OC(O)[C@H](O)[C@H](O)[C@@H]1O,WQZGKKKJIJFFOK-IVMDWMLBSA-N,COCONUT,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,COCONUT,Magnolia sp.,unparseable_smiles
 1-butanol,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+,C=C[C@@](C)(O)CC/C=C(\C)C(=O)OC[C@@H]1O[C@H](OC(=O)[C@]23CCC(C)(C)C[C@H]2C2=CC[C@H]4[C@]5(C)CC[C@@H](O[C@H]6O[C@@H](CO[C@H]7OC[C@H](O)[C@@H](O)[C@@H]7O[C@H]7OC[C@H](O)[C@@H](O)[C@@H]7O)[C@H](O[C@H]7O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]7O)[C@@H](O)[C@@H]6NC(C)=O)C(C)(C)[C@H]5CC[C@]4(C)[C@@]2(C)C[C@@H]3O)[C@@H](O[C@H]2OC[C@H](O)[C@@H](O[C@H]3OC[C@@](O)(CO)[C@@H]3O)[C@@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]1OC(C)=O,NIOYYWCFXFCIIN-OIOSCFBCSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
+alpha-L-glucopyranose,OC[C@@H]1O[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O,WQZGKKKJIJFFOK-MDMQIMBFSA-N,COCONUT,Magnolia sp.,primary_metabolite
 butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
 Isopropyl alcohol,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+beta-L-glucopyranose,OC[C@@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@H]1O,WQZGKKKJIJFFOK-QYESYBIKSA-N,COCONUT,Magnolia sp.,primary_metabolite
+alpha-D-Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-PQMKYFCFSA-N,COCONUT,Magnolia sp.,primary_metabolite
+beta-D-allose,OC[C@H]1O[C@@H](O)[C@H](O)[C@H](O)[C@@H]1O,WQZGKKKJIJFFOK-QZABAPFNSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,O=C(O)/C=C\C(=O)O,,COCONUT,Magnolia sp.,unparseable_smiles
+D-Glc,OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-GASJEMHNSA-N,COCONUT,Magnolia sp.,primary_metabolite
+alpha-D-galactose,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-PHYPRBDBSA-N,COCONUT,Magnolia sp.,primary_metabolite
 hydrochloric acid,Cl,,COCONUT,Magnolia sp.,unparseable_smiles
 ,CCCCC/C=C/C/C=C/CCCCCCCC(=O)O,OYHQOLUKZRVURQ-AVQMFFATSA-N,COCONUT,Magnolia sp.,primary_metabolite
+ALPHA-D-(+)-TALOSE,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-URLGYRAOSA-N,COCONUT,Magnolia sp.,primary_metabolite
+"alpha-D-glucose-1,2-((13)C2)",OC[C@H]1O[13C@H](O)[13C@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-IMIAXGQVSA-N,COCONUT,Magnolia sp.,primary_metabolite
 Octadecanoic 1-14C acid,CCCCCCCCCCCCCCCCC[14C](=O)O,QIQXTHQIDYTFRH-GTFORLLLSA-N,COCONUT,Magnolia sp.,primary_metabolite
 ,CCCCC/C=C/C/C=C\CCCCCCCC(=O)O,OYHQOLUKZRVURQ-KQHSAVHASA-N,COCONUT,Magnolia sp.,primary_metabolite
+L-glucopyranose,OC[C@@H]1OC(O)[C@@H](O)[C@H](O)[C@H]1O,WQZGKKKJIJFFOK-ZZWDRFIYSA-N,COCONUT,Magnolia sp.,primary_metabolite
+glycolic acid,O=C(O)CO,AEMRFAOFKBGASW-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+,CC(=O)N[C@H]1[C@H](O[C@H]2CC[C@]3(C)[C@H]4CC=C5[C@@H]6CC(C)(C)CC[C@]6(C(=O)O[C@@H]6O[C@H](COC(C)=O)[C@@H](O)[C@H](O)[C@H]6O[C@@H]6OC[C@](O)(CO[C@@H]7OC[C@](O)(CO)[C@H]7O)[C@H]6O)[C@H](O)[C@H](O)[C@@]5(C)[C@]4(C)CC[C@H]3C2(C)C)O[C@H](CO[C@@H]2OC[C@H](O)[C@H](O[C@@H]3OC[C@@H](O)[C@H](O)[C@H]3O)[C@H]2O)[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H]1O,MWNYEDALQAWIQT-VXDKBRHYSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
+L-gulopyranose,OC[C@@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-QRXFDPRISA-N,COCONUT,Magnolia sp.,primary_metabolite
 ,[2H]C(C/C=C\CCC([2H])([2H])C([2H])C([2H])([2H])CCC)CCCCC([2H])C(=O)O,ZQPPMHVWECSIRJ-HIOWUFTPSA-N,COCONUT,Magnolia sp.,primary_metabolite
 FURFURAL,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+guanidine,N=C(N)N,ZRALSGWEFCBTJO-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
 oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,ZQPPMHVWECSIRJ-KTKRTIGZSA-N,COCONUT,Magnolia sp.,primary_metabolite
+L-allopyranose,OC[C@@H]1OC(O)[C@@H](O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-HOWGCPQDSA-N,COCONUT,Magnolia sp.,primary_metabolite
 iodane,[131IH],,COCONUT,Magnolia sp.,unparseable_smiles
-(+)-beta-Eudesmol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
+Pyruvic acid,CC(=O)C(=O)O,LCTONWCANYUPML-UHFFFAOYSA-N,COCONUT,Magnolia sp.,mw_below_100.0
+D-Gal,OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-SVZMEOIVSA-N,COCONUT,Magnolia sp.,primary_metabolite
+"(2S,4S,5R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",OCC1O[C@H](O)C(O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-DTUOTYQVSA-N,COCONUT,Magnolia sp.,primary_metabolite
+,C=C[C@](C)(O)CC/C=C(\C)C(=O)OC[C@H]1O[C@@H](OC(=O)[C@]23CCC(C)(C)C[C@H]2C2=CC[C@@H]4[C@@]5(C)CC[C@H](O[C@@H]6O[C@H](CO[C@@H]7OC[C@H](O)[C@H](O)[C@H]7O[C@@H]7OC[C@@H](O)[C@H](O)[C@H]7O)[C@@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)[C@H](O)[C@H]6NC(C)=O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]2(C)C[C@H]3O)[C@H](O[C@@H]2OC[C@@H](O)[C@H](O[C@@H]3OC[C@](O)(CO)[C@H]3O)[C@H]2O)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1OC(C)=O,NIOYYWCFXFCIIN-BSMRAXQZSA-N,COCONUT,Magnolia sp.,mw_above_1500.0
+alpha-L-mannopyranose,OC[C@@H]1O[C@@H](O)[C@H](O)[C@H](O)[C@H]1O,WQZGKKKJIJFFOK-HGVZOGFYSA-N,COCONUT,Magnolia sp.,primary_metabolite
+D-Tal,OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@H]1O,WQZGKKKJIJFFOK-WHZQZERISA-N,COCONUT,Magnolia sp.,primary_metabolite
 (+)-beta-Eudesmol,,,KNApSAcK,Magnolia liliiflora,unresolvable_name
+(+)-beta-Eudesmol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
 Kobusinol A,,,KNApSAcK,Magnolia kobus var. borealis,unresolvable_name
 Kobusinol B,,,KNApSAcK,Magnolia kobus var. borealis,unresolvable_name
 Linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,KNApSAcK,Magnolia officinalis,primary_metabolite
@@ -113,10 +168,10 @@ Liliflodione,,,KNApSAcK,Magnolia liliiflora,unresolvable_name
 Piperitylhonokiol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
 Bornylmagnolol,,,KNApSAcK,Magnolia officinalis,unresolvable_name
 "1,2,3,4-Tetrahydro-1-[(3-hydroxy-4-methoxyphenyl)methyl]-6,7-dimethoxy-2,2-dimethylisoquinolinium",,,KNApSAcK,Magnolia officinalis,unresolvable_name
-(+)-Paramicholide,,,KNApSAcK,Magnolia baillonii,unresolvable_name
 (+)-Paramicholide,,,KNApSAcK,Magnolia rajaniana,unresolvable_name
-Lanuginolide,,,KNApSAcK,Magnolia compressa,unresolvable_name
+(+)-Paramicholide,,,KNApSAcK,Magnolia baillonii,unresolvable_name
 Lanuginolide,,,KNApSAcK,Magnolia lanuginosa,unresolvable_name
+Lanuginolide,,,KNApSAcK,Magnolia compressa,unresolvable_name
 9alpha-Hydroxydihydroparthenolide,,,KNApSAcK,Magnolia baillonii,unresolvable_name
 "11betaH,13-Dihydroreynosin",,,KNApSAcK,Magnolia compressa,unresolvable_name
 Michefuscalide,,,KNApSAcK,Michelia fuscata,unresolvable_name
@@ -125,187 +180,1088 @@ Michefuscalide,,,KNApSAcK,Michelia fuscata,unresolvable_name
 N-Acetylxylopine,,,KNApSAcK,Magnolia gitigensis,unresolvable_name
 Manglieside A,,,KNApSAcK,Magnolia phuthoensis,unresolvable_name
 Manglieside C,,,KNApSAcK,Magnolia phuthoensis,unresolvable_name
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca|Magnolia ovata,mw_below_100.0
-pyramidatin a,,,PubMed_NER,Magnolia and|Magnolia fraseri|Magnolia pyramidata,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia misusers|Magnolia misuse|Magnolia with|Magnolia derivatives|Magnolia products|Magnolia abuse|Magnolia as|Magnolia bark,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia compressa,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia yarumalense,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata|Magnolia champaca,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia dealbata|Magnolia grandiflora|Magnolia species,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+pyramidatin a,,,PubMed_NER,Magnolia and|Magnolia pyramidata|Magnolia fraseri,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia and|Magnolia pyramidata|Magnolia fraseri,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia resources|Magnolia officinalis|Magnolia substitutes,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia x alba,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia fargesii,unparseable_smiles
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia braianensis,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plant,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia alba|Magnolia x alba,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia bark,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia yunnanensis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia yunnanensis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia plant|Magnolia species,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plant|Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bioactive|Magnolia extract,primary_metabolite
 β-eudesmol,,,PubMed_NER,Magnolia sp.,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia separata|Magnolia officinalis|Magnolia obovata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia flower,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
 manglieside c,,,PubMed_NER,Magnolia phuthoensis,unresolvable_name
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,mw_below_100.0
+no data,,,PubMed_NER,Magnolia ovata,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia populations|Magnolia pedrazae|Magnolia species|Magnolia schiedeana,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia liliflora,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia liliflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii|Magnolia flos,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bidoupensis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia dealbata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia chapensis,unparseable_smiles
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia champaca,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora|Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora|Magnolia obovata,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia dealbata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia dealbata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia extract,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia delavayi,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora|Magnolia virginiana,mw_below_100.0
-β-bisabolene,,,PubMed_NER,Magnolia grandiflora|Magnolia virginiana,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,primary_metabolite
+β-bisabolene,,,PubMed_NER,Magnolia virginiana|Magnolia grandiflora,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana|Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia coco,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia compressa,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii|Magnolia genus,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia was|Magnolia denudata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia was|Magnolia denudata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia crassipes,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 magnostellin b,,,PubMed_NER,Magnolia delavayi,unresolvable_name
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia delavayi,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
-oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia endodormancy|Magnolia flower,primary_metabolite
-linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PubMed_NER,Magnolia endodormancy|Magnolia flower,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sprengeri,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia bark,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species|Magnolia bark,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia ovovata|Magnolia extract,primary_metabolite
+linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PubMed_NER,Magnolia flower|Magnolia endodormancy,primary_metabolite
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia flower|Magnolia endodormancy,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia compressa,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 magnolignan b,,,PubMed_NER,Magnolia officinalis,unresolvable_name
 honokitriol,,,PubMed_NER,Magnolia officinalis,unresolvable_name
-oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
 (±)-limonene,,,PubMed_NER,Magnolia denudata,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 magnostellin a,,,PubMed_NER,Magnolia biondii,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sprengeri,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sprengeri,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sprengeri,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sprengeri,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia liliifera,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+glycone,O=NCC(=O)O,RMZNXRYIFGTWPF-UHFFFAOYSA-N,PubMed_NER,Magnolia x alba,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia x alba,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia x alba,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia maudiae,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata|Magnolia species,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 dihydroparthenolide,,,PubMed_NER,Magnolia sp.,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia bark,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia coriacea,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia x alba,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia compressa,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia compressa,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
-oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia seed,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora|Magnolia officinalis|Magnolia bark,primary_metabolite
 linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PubMed_NER,Magnolia seed,primary_metabolite
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia seed,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia seed,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
 magnograndiolide,,,PubMed_NER,Magnolia grandiflora,unresolvable_name
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,mw_below_100.0
-acetic acid,CC(=O)O,,PubMed_NER,Magnolia ovata,unparseable_smiles
 n-acetylxylopine,,,PubMed_NER,Magnolia ovata,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,primary_metabolite
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia ovata,unparseable_smiles
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia garrettii,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia garrettii,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia dealbata,unparseable_smiles
-(+)-paramicholide,,,PubMed_NER,Magnolia rajaniana|Magnolia baillonii,unresolvable_name
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata|Magnolia spp,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+(+)-paramicholide,,,PubMed_NER,Magnolia baillonii|Magnolia rajaniana,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia spp|Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana|Magnolia species|Magnolia macrophylla|Magnolia grandiflora|Magnolia acuminata,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia bark,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 costunolide diepoxide,,,PubMed_NER,Magnolia champaca,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
-costunolide diepoxide,,,PubMed_NER,Magnolia grandiflora,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 costunolide (1),,,PubMed_NER,Magnolia kobus,unresolvable_name
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,mw_below_100.0
 denudadione b,,,PubMed_NER,Magnolia denudata,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 magnostellin a,,,PubMed_NER,Magnolia fargesii,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia flos,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia coco,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia and|Magnolia obovata,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia and|Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia and|Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia compressa,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii,primary_metabolite
 pyramidatin a,,,PubMed_NER,Magnolia pyramidata,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia pyramidata,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia and|Magnolia obovata,mw_below_100.0
 n-acetylxylopine,,,PubMed_NER,Magnolia and|Magnolia obovata,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 dihydroparthenolide,,,PubMed_NER,Magnolia grandiflora,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia compressa,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia on,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia salicifolia,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia salicifolia,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora|Magnolia soulangeana,primary_metabolite
+glycone,O=NCC(=O)O,RMZNXRYIFGTWPF-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii,mw_below_100.0
 isoprene,C=CC(=C)C,RRHGJUQNOFWUDK-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
-eudesmagnolol,,,PubMed_NER,Magnolia obovata,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,primary_metabolite
 eudeshonokiol a,,,PubMed_NER,Magnolia obovata,unresolvable_name
-oxoanolobine,,,PubMed_NER,Magnolia coco,unresolvable_name
+eudesmagnolol,,,PubMed_NER,Magnolia obovata,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,primary_metabolite
 magnolamide,,,PubMed_NER,Magnolia coco,unresolvable_name
+oxoanolobine,,,PubMed_NER,Magnolia coco,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia dealbata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia bark,unparseable_smiles
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia officinals,mw_below_100.0
 (-)-fargesol,,,PubMed_NER,Magnolia fargesii,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+costunolide diepoxide,,,PubMed_NER,Magnolia grandiflora,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia kwangsiensis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,primary_metabolite
+guanidine,N=C(N)N,ZRALSGWEFCBTJO-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia salicifolia,primary_metabolite
+glycerol,OCC(O)CO,PEDCQBHIVMGVHV-UHFFFAOYSA-N,PubMed_NER,Magnolia sp,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia polyphenol,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia polyphenol,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia stellata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia family|Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia family|Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia wufengensis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia stellata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia wufengensis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia cathcartii,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia alba,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia alba,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sprengeri,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia stellata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia and,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia polyphenols|Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia ovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia charantia|Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia extract,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia extract,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 dihydroparthenolide,,,PubMed_NER,Magnolia and|Magnolia grandiflora,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia and|Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii|Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia kobus,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia flos,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plants,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia officinalis-derived,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia biondii,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+glycerol,OCC(O)CO,PEDCQBHIVMGVHV-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia extract,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia plant|Magnolia flos,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+glycerol,OCC(O)CO,PEDCQBHIVMGVHV-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 dihydroparthenolide,,,PubMed_NER,Magnolia virginiana,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia liliifera,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+citric acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,KRKNYBCHXYNGOX-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia x alba,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia x alba,primary_metabolite
+citric acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,KRKNYBCHXYNGOX-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plant,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia salicifolia,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plant,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia or,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia stellata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plant,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia fargesii,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia liliflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia spp,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia plant,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plant,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plant,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
 butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia spp,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia spp,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia flowers,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia leaf,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia champaca,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia genus,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia genus,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia genus,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
-acetic acid,CC(=O)O,,PubMed_NER,Magnolia sieboldii,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia spp,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,PubMed_NER,Magnolia sieboldii,mw_below_100.0
+acetic acid,CC(=O)O,,PubMed_NER,Magnolia sieboldii,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia or,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plants,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia sp.,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia has,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia denudata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia genus,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia genus,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
 butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officnalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia species,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+d-gal,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia spp,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia bark,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia obovata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia tree,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia spp,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia plants,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+guanidine,N=C(N)N,ZRALSGWEFCBTJO-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia and,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia species,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis|Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia species,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinali,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinali,primary_metabolite
 isoprene,C=CC(=C)C,RRHGJUQNOFWUDK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia flos,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia cobus,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia virginiana,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia showed,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia liliiflora,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia plants,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plants,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia grandiflora,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
 acetic acid,CC(=O)O,,PubMed_NER,Magnolia officinalis,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plant,primary_metabolite
 β-eudesmol,,,PubMed_NER,Magnolia officinalis,unresolvable_name
-magnoquinone,,,SemanticScholar_NER,Magnolia tripetala,unresolvable_name
-honokitriol,,,SemanticScholar_NER,Magnolia officinalis,unresolvable_name
-manglieside a,,,SemanticScholar_NER,Magnolia utilis,unresolvable_name
-oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia acuminata,primary_metabolite
-linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia acuminata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PubMed_NER,Magnolia plants,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PubMed_NER,Magnolia plants,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+glycerol,OCC(O)CO,PEDCQBHIVMGVHV-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+β-bisabolene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+β-bisabolene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+furfural,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+1-butanol,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+β-bisabolene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+d-gal,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+β-phellandrene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+furfural,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-phellandrene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+furfural,O=Cc1ccco1,HYBBIBNJHNGZAN-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-phellandrene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-bisabolene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+β-eudesmol,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+β-phellandrene,,,PMC_fulltext,Magnolia sp.,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+acetic acid,CC(=O)O,,PMC_fulltext,Magnolia sp.,unparseable_smiles
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,PMC_fulltext,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis|Magnolia bark|Magnolia has,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia bark,primary_metabolite
+stearic acid,CCCCCCCCCCCCCCCCCC(=O)O,QIQXTHQIDYTFRH-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia grandiflora|Magnolia champaca|Magnolia species|Magnolia officinalis|Magnolia denudata,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia grandiflora,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis|Magnolia commonly,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+d-gal,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+beta-d-galactose,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia vitifolia,mw_below_100.0
-β-eudesmol,,,SemanticScholar_NER,Magnolia volatile,unresolvable_name
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
-ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+magnolignan g,,,SemanticScholar_NER,Magnolia officinalis,unresolvable_name
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis|Magnolia officinals,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia separata|Magnolia officinalis|Magnolia obovata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis|Magnolia bark,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia obovata,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+stearic acid,CCCCCCCCCCCCCCCCCC(=O)O,QIQXTHQIDYTFRH-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+glycerol,OCC(O)CO,PEDCQBHIVMGVHV-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis|Magnolia bark|Magnolia has,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
 butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
 oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
-ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia spp,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia spp,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia species,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia plant|Magnolia officinalis|Magnolia obovata,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia and|Magnolia raw,primary_metabolite
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,mw_below_100.0
+phenol,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia grandiflora|Magnolia obovata,mw_below_100.0
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia grandiflora|Magnolia obovata,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia officinalis,primary_metabolite
+all,OCC1OC(O)C(O)C(O)C1O,WQZGKKKJIJFFOK-UHFFFAOYSA-N,SemanticScholar_NER,Magnolia sp.,primary_metabolite
+"(9E,12Z)-linoleic acid",CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia officinalis,primary_metabolite
 oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,ZQPPMHVWECSIRJ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia officinalis,primary_metabolite
 butan-1-ol,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
 ethanol,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
@@ -315,7 +1271,6 @@ butyric acid,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obova
 ethyl acetate,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
 isopropyl alcohol,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia obovata,mw_below_100.0
 stearic acid,CCCCCCCCCCCCCCCCCC(=O)O,QIQXTHQIDYTFRH-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia compressa,primary_metabolite
-"(9E,12Z)-linoleic acid",CCCCCC=CCC=CCCCCCCCC(=O)O,OYHQOLUKZRVURQ-UHFFFAOYSA-N,LOTUS_Wikidata,Magnolia officinalis,primary_metabolite
 ,OCC(O)CO,PEDCQBHIVMGVHV-UHFFFAOYSA-N,NPASS,Elmerrillia papuana,mw_below_100.0
 ,C=C[C@@](C)(O)CC/C=C(\C)C(=O)OC[C@@H]1O[C@H](OC(=O)[C@]23CCC(C)(C)C[C@H]2C2=CC[C@H]4[C@]5(C)CC[C@@H](O[C@H]6O[C@@H](CO[C@H]7OC[C@H](O)[C@@H](O)[C@@H]7O[C@H]7OC[C@H](O)[C@@H](O)[C@@H]7O)[C@H](O[C@H]7O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]7O)[C@@H](O)[C@@H]6N=C(C)O)C(C)(C)[C@H]5CC[C@]4(C)[C@@]2(C)C[C@@H]3O)[C@@H](O[C@H]2OC[C@H](O)[C@@H](O[C@H]3OC[C@@](O)(CO)[C@@H]3O)[C@@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]1OC(C)=O,NIOYYWCFXFCIIN-OIOSCFBCSA-N,NPASS,Magnolia montana,mw_above_1500.0
 ,OC[C@@H]1O[C@@H](O)[C@H](O)[C@H](O)[C@@H]1O,WQZGKKKJIJFFOK-YDMGZANHSA-N,NPASS,Magnolia pterocarpa,primary_metabolite
