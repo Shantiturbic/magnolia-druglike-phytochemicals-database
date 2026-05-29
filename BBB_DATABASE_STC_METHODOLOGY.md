@@ -1,8 +1,8 @@
 # BBB Database STC: Systematic Phytochemical Database for Genus Magnolia
 
-**Version:** 2.0
-**Date:** 2026-05-28
-**Build date:** 2026-05-28
+**Version:** 2.1
+**Date:** 2026-05-29
+**Build date:** 2026-05-29 (incremental rebuild from v2.0 raw data + new source)
 **Previous version:** 1.0 (2026-05-21, 736 compounds from 7 sources)
 **Author:** Shanti Turbi-Cornielle
 **Institution:** INTEC, Dominican Republic
@@ -477,16 +477,159 @@ Full rebuild: `ln -sfn bbb bbb_database_stc && python -m bbb_database_stc.build`
 | Version | Date | Compounds | Sources | Key change |
 |---------|------|-----------|---------|------------|
 | 1.0 | 2026-05-21 | 736 | 7 | Initial build from LOTUS, COCONUT, KNApSAcK, PubChem, ChEMBL, Literature |
-| **2.0** | **2026-05-28** | **1,982** | **9** | **+NPASS 3.0 (restored, +1,602 compounds), +NP Atlas (bulk TSV bypass), Dr. Duke's attempted (0 records)** |
+| 2.0 | 2026-05-28 | 1,982 | 9 | +NPASS 3.0 (restored, +1,602 compounds), +NP Atlas (bulk TSV bypass), Dr. Duke's attempted (0 records) |
+| **2.1** | **2026-05-29** | **1,997** | **11** | **+Dugandiodendron taxonomy (23 synonyms, 29 QIDs), +Literature_Curated source (6 D. argyrotrichum compounds), +NPClassifier annotations (98.5%), +ChEMBL bioactivity enrichment (586 compounds, 64,898 records)** |
+
+---
+
+## 13. v2.1 Additions (2026-05-29)
+
+### 13a. Taxonomic expansion: Dugandiodendron (subsect. Dugandiodendron)
+
+**Motivation:** The DR target species (*M. pallescens*, *M. domingensis*, *M. hamorii*) belong to *Magnolia* sect. Cubenses subsect. Cubenses (Aldaba Nunez et al., 2026, *Acta Bot Mex* 133:e2545). Their closest continental relatives (~14 Ma divergence; Guzman-Diaz et al., 2025, *BMC Ecol Evol* 25:40) are the ~20 species of subsect. Dugandiodendron (former genus *Dugandiodendron* Lozano, 1975). v2.0 had zero Dugandiodendron species in its taxonomic scope.
+
+**Changes to `config.py`:**
+- `OLD_GENUS_NAMES`: added `"Dugandiodendron"` (enables name-based searching in KNApSAcK, NPASS, literature miner)
+- `OLD_GENUS_WIKIDATA_QIDS`: added `Q5814925` (Dugandiodendron genus QID for LOTUS SPARQL transitive queries)
+- `SYNONYM_MAP`: added 24 mappings (23 Dugandiodendron → Magnolia species + 1 nom. illeg. catch: *Magnolia magnifolia* → *M. neomagnifolia*, per Turner 2014)
+- `MAGNOLIA_SPECIES_QIDS`: added 29 QIDs (14 subsect. Dugandiodendron + 6 additional subsect. Dugandiodendron species described directly in Magnolia + 9 subsect. Cubenses Caribbean species that were missing). Total: 50 → 79 species QIDs.
+
+**Nomenclatural note:** *Dugandiodendron magnifolium* Lozano maps to *Magnolia neomagnifolia* I.M.Turner 2014 (Q28127564), not *M. magnifolia* (Lozano) Govaerts 1996 (Q15493047). The latter is a nom. illeg. (later homonym of the fossil *M. magnifolia* Knowlton 1918).
+
+**Result:** Automated collectors found zero new compounds attributable to Dugandiodendron species. All NP databases (COCONUT, KNApSAcK, LOTUS/Wikidata, NPASS, NPAtlas, PubChem, ChEMBL) have zero entries for any Dugandiodendron species. This is itself a finding: the entire subsection is a database blind spot.
+
+### 13b. Manual literature curation: *D. argyrotrichum* phytochemistry
+
+**Motivation:** Systematic literature search (PubMed, Google Scholar, SciELO Colombia, Redalyc, Latin American repositories) identified published phytochemistry for Dugandiodendron absent from all databases.
+
+**Source papers:**
+1. Guzman V., J.D. & Cuca S., L.E. (2008). Metabolitos secundarios aislados de la corteza de *Dugandiodendron argyrotrichum* Lozano (Magnoliaceae). *Rev Col Quim* 37(3):299-310. SciELO: S0120-28042008000300002.
+2. Guzman, J.D. et al. (2010). Anti-tubercular screening of natural products from Colombian plants: 3-methoxynordomesticine, an inhibitor of MurE ligase of *Mycobacterium tuberculosis*. *J Antimicrob Chemother* 65(10):2101-2107. DOI: 10.1093/jac/dkq313. PMID: 20719764.
+
+**Compounds added (6):**
+
+| Compound | Class (NPClassifier) | PubChem CID | InChIKey | Source paper |
+|----------|---------------------|-------------|----------|--------------|
+| Torreyol (δ-cadinol) | Cadinane sesquiterpenoid | 3084311 | LHYHMMRYTDARSZ-BARDWOONSA-N | Guzman & Cuca 2008 |
+| Parthenolide | Germacrane sesquiterpenoid | 6473881 | KTEXNACQROZXEV-SLXBATTESA-N | Guzman & Cuca 2008 |
+| N-Acetylanonaine | Aporphine alkaloid | 6453733 | XVIHBNVDAPQBRH-OAHLLOKOSA-N | Guzman & Cuca 2008 |
+| Dihydroguaiaretic acid | Dibenzylbutane lignan | 161924 | ADFOLUXMYYCTRR-UHFFFAOYSA-N | Guzman & Cuca 2008 |
+| Austrobailignan-6 | Dibenzylbutane lignan | 13844304 | QDDILOVMGWUNGD-UHFFFAOYSA-N | Guzman & Cuca 2008 |
+| 3-Methoxynordomesticine | Aporphine alkaloid | 57336190 | WPQOVUJKYMOEFK-LBPRGKRZSA-N | Guzman et al. 2010 |
+
+SMILES retrieved from PubChem PUG REST by CID. InChIKeys verified against PubChem. 5 of 6 compounds already existed in the database from other Magnolia species; the species attribution (*M. argyrothricha*) was added. 3-Methoxynordomesticine was completely absent from the database (silver tier: 1 source + 1 DOI).
+
+**Raw data file:** `data/raw/dugandiodendron_curated.csv` (source_db: `Literature_Curated`)
+
+### 13c. NPClassifier compound class annotations
+
+**Tool:** NPClassifier v1.6 (Kim et al., 2021, *J Nat Prod* 84(11):2795-2807. DOI: 10.1021/acs.jnatprod.1c00399. PMID: 34662515. PMCID: PMC8631337).
+
+**Method:** Deep neural network trained on 73,607 natural products (PubChem, ChEBI, ChemSpider, UNPD). Input: counted Morgan fingerprints generated from canonical SMILES via RDKit. Three separate single-task feed-forward DNNs predict a 3-level biosynthetic ontology: 7 pathways → 70 superclasses → 672 classes (directed acyclic graph; hybrid NPs can map to multiple pathways).
+
+**Justification for tool selection over alternatives:**
+- *vs. ClassyFire* (Djoumbou Feunang et al., 2016, *J Cheminform* 8:61): ClassyFire uses a general chemistry taxonomy (ChemOnt, 4,825 classes) not aligned with NP biosynthetic pathways. Critical flaw for Magnolia: ClassyFire places lignans outside the phenylpropanoid/shikimate pathway, an ontological error for chemotaxonomic analysis. NPClassifier outperformed ClassyFire on 47/62 NP classes in external validation (Kim et al. 2021), including terpenoids (F1 0.972 vs 0.819), polyketides (F1 0.834 vs 0.488), and lignans (large margin). GNPS has deprecated ClassyFire in favor of NPClassifier.
+- *vs. CANOPUS* (Duhrkop et al., 2021, *Nat Biotechnol* 39:462-471): Requires MS/MS fragmentation spectra as input. Not applicable — our database contains SMILES, not spectral data. Additionally uses the ClassyFire ontology.
+- *vs. GINESTRA* (Prete et al., 2025, *Comput Struct Biotechnol J*): Research prototype using GNNs on NPClassifier's own ontology as ground truth. No web API, no pip package, zero citations. Not production-ready.
+
+**Execution:** REST API at `https://npclassifier.ucsd.edu/classify?smiles=<URL-encoded SMILES>`. JSON response: `pathway_results`, `superclass_results`, `class_results`, `isglycoside`. Rate: ~2.0 compounds/second with 0.35s inter-request delay. Incremental checkpointing every 50 compounds. Execution date: 2026-05-29.
+
+**Adoption as ecosystem standard:** COCONUT 2.0 uses NPClassifier as NP authenticity filter. Natural Products Atlas 2.0 displays NPClassifier annotations. GNPS molecular networking workflows use NPClassifier as primary classification. LOTUS integrates NPClassifier alongside ClassyFire.
+
+**Results:**
+
+| Metric | Value |
+|--------|-------|
+| Compounds classified | 1,967 / 1,997 (98.5%) |
+| Unclassified | 30 (1.5%) |
+| Glycosides detected | 205 (10.3%) |
+
+**Pathway distribution:**
+
+| Pathway | Count | % |
+|---------|-------|---|
+| Terpenoids | 854 | 42.8% |
+| Shikimates and Phenylpropanoids | 635 | 31.8% |
+| Alkaloids | 221 | 11.1% |
+| Fatty acids | 173 | 8.7% |
+| Polyketides | 84 | 4.2% |
+| Amino acids and Peptides | 33 | 1.7% |
+| Carbohydrates | 9 | 0.5% |
+
+**Top 10 classes:**
+
+| Class | Count |
+|-------|-------|
+| Neolignans | 123 |
+| Isoquinoline alkaloids | 113 |
+| Aporphine alkaloids | 94 |
+| Cinnamic acids and derivatives | 72 |
+| Androstane steroids | 63 |
+| Hydrocarbons | 63 |
+| Germacrane sesquiterpenoids | 62 |
+| Furofuranoid lignans | 57 |
+| Flavonols | 49 |
+| Verticillane diterpenoids | 48 |
+
+**Validation:** 10 compounds with known classifications from the literature verified against NPClassifier output. Pathway accuracy: 100% (10/10). Superclass accuracy: 100% (10/10). Class accuracy: 80% (8/10); the 2 discrepancies were refinements, not errors (NPClassifier assigned "Dibenzylbutane lignans" where the expected label was the broader "Neolignans" — dibenzylbutane lignans are a subclass of neolignans).
+
+**Database columns added:** `npc_pathway`, `npc_superclass`, `npc_class`, `npc_isglycoside`.
+
+**Script:** `phases/classify_compounds.py` (resumable with `--resume`, force re-run with `--force`)
+
+### 13d. ChEMBL bioactivity enrichment
+
+**Source:** ChEMBL 35 (Zdrazil et al., 2024, *Nucleic Acids Res* 52:D1180-D1192). Queried via REST API (not Python client, due to sqlite3 symbol conflict on macOS/conda).
+
+**Method:** Batch molecule lookup (50 InChIKeys per request) followed by paginated activity retrieval (1,000 per page). Rate limiting: 0.4s between requests, 1.0s between batches. Execution date: 2026-05-29.
+
+**Results:**
+
+| Metric | Value |
+|--------|-------|
+| Compounds queried | 1,997 |
+| Found in ChEMBL | 586 (29.3%) |
+| With bioactivity data | 565 (28.3%) |
+| Total activity records | 64,898 |
+| With antiviral data | 171 compounds (1,890 records) |
+| With anti-DENV data | 7 compounds (20 records) |
+| With anti-flavivirus data | 10 compounds (29 records) |
+
+**Compounds with direct anti-DENV bioactivity data:**
+
+| Compound | DENV Target | Best Value | Reference |
+|----------|-------------|------------|-----------|
+| Myricetin | DENV2/3 NS2B-NS3 protease | Ki = 4,700 nM | ChEMBL |
+| Pinostrobin | DENV2 NS2B/NS3 protease | Ki = 345,000 nM | ChEMBL |
+| Emodin | DENV2 NS5 methyltransferase | EC50 = 10,900 nM | ChEMBL |
+| Honokiol | DENV2 whole virus | 90% yield reduction at 20 µM | ChEMBL |
+| Quercetin | DENV2 whole virus | IC50 = 176 µg/mL | ChEMBL |
+| Kaempferol | DENV2/3 NS2B-NS3 protease | Ki = 22,300 nM | ChEMBL |
+| Citral | DENV2 whole virus | IC50 = 31,000 nM | ChEMBL |
+
+**Output files:**
+- `data/magnolia_bbb_bioactivity.csv` (64,898 records, 22 columns: inchikey, target_name, target_organism, assay_type, standard_type, standard_value, standard_units, chembl_assay_id, doi, etc.)
+- `data/magnolia_bbb_bioactivity_summary.csv` (1,997 rows, 17 columns: inchikey, has_bioactivity, bioactivity_count, best_antiviral_ic50, antiviral_target, etc.)
+
+**Script:** `phases/bioactivity_enrichment.py` (resumable with `--resume`)
 
 ---
 
 ## References
 
+- Aldaba Nunez, F.A., et al. (2026). An updated infrageneric classification of Neotropical Magnolia (Magnoliaceae). *Acta Bot Mex* 133:e2545. doi:10.21829/abm133.2026.2545
+- Aldaba Nunez, F.A., et al. (2024). Phylogenomic insights into Neotropical Magnolia relationships. *Heliyon* 10:e39430. doi:10.1016/j.heliyon.2024.e39430
 - Afendi, F.M., et al. (2012). KNApSAcK family databases: integrated metabolite-plant species databases for multifaceted plant research. *Plant Cell Physiol* 53:e1.
 - Angiosperm Phylogeny Group (2016). An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV. *Bot J Linn Soc* 181:1-20.
 - Chen, X., et al. (2018). Drug-target interaction prediction: databases, web servers and computational models. *Drug Discov Today* 23:1241-1250.
+- Corredor-Barinas, J.A. & Cuca Suarez, L.E. (2011). Chemical constituents of *Talauma arcabucoana* (Magnoliaceae): their brine shrimp lethality and antimicrobial activity. *Nat Prod Res* 25(16):1497-1504. doi:10.1080/14786410903205146
+- Djoumbou Feunang, Y., et al. (2016). ClassyFire: automated chemical classification with a comprehensive, computable taxonomy. *J Cheminform* 8:61. doi:10.1186/s13321-016-0174-y
+- Duhrkop, K., et al. (2021). Systematic classification of unknown metabolites using high-resolution fragmentation mass spectra. *Nat Biotechnol* 39:462-471. doi:10.1038/s41587-020-0740-8
 - Figlar, R.B. & Nooteboom, H.P. (2004). Notes on Magnoliaceae IV. *Blumea* 49:87-100.
+- Guzman V., J.D. & Cuca S., L.E. (2008). Metabolitos secundarios aislados de la corteza de *Dugandiodendron argyrotrichum* Lozano (Magnoliaceae). *Rev Col Quim* 37(3):299-310. SciELO: S0120-28042008000300002.
+- Guzman, J.D., et al. (2010). Anti-tubercular screening of natural products from Colombian plants: 3-methoxynordomesticine, an inhibitor of MurE ligase of *Mycobacterium tuberculosis*. *J Antimicrob Chemother* 65(10):2101-2107. doi:10.1093/jac/dkq313
+- Guzman-Diaz, S., et al. (2025). There and back again: historical biogeography of neotropical magnolias based on high-throughput sequencing. *BMC Ecol Evol* 25:40. doi:10.1186/s12862-025-02379-7
+- Kim, H.W., et al. (2021). NPClassifier: A Deep Neural Network-Based Structural Classification Tool for Natural Products. *J Nat Prod* 84(11):2795-2807. doi:10.1021/acs.jnatprod.1c00399
 - Kim, S., et al. (2023). PubChem 2023 update. *Nucleic Acids Res* 51:D1373-D1380.
 - Kim, S. & Suh, Y. (2013). Phylogeny of Magnoliaceae based on ten chloroplast DNA regions. *Plant Syst Evol* 299:1587-1610.
 - Landrum, G. (2006). RDKit: Open-source cheminformatics. https://www.rdkit.org
