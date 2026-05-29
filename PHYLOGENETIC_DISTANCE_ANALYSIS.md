@@ -173,24 +173,25 @@ The 1.2--2.4% divergence to well-studied species represents roughly **30--50 mil
 
 **Moderately similar — same genus, different sections, separated by tens of millions of years.**
 
-The biosynthetic pathways for the major Magnolia compound classes — biphenyl neolignans (magnolol, honokiol), aporphine alkaloids (liriodenine), sesquiterpene lactones — are encoded by gene families that evolve much more slowly than the neutral markers measured in these distance matrices. These compound classes are found across sections Magnolia, Rhytidospermum, Yulania, and Oyama, which all diverged earlier than 50 Mya. The DR species almost certainly produce some version of the core Magnolia chemotype.
+The biosynthetic pathways for the major Magnolia compound classes — neolignans, lignans, aporphine alkaloids, sesquiterpene lactones — are encoded by gene families that evolve much more slowly than the neutral markers measured in these distance matrices. These compound classes are found across sections Magnolia, Rhytidospermum, Yulania, Oyama, **and critically, sect. Talauma itself**: neolignans in *T. ovata* (Stefanello et al. 2002), lignans in *T. gloriensis* (Schühly et al. 2010), alkaloids in *T. arcabucoana* (Barinas & Suárez 2011). The DR species almost certainly produce some version of the core Magnolia chemotype.
 
 But the *specific* compound profile — which lignans, which alkaloids, at what ratios, and whether there are novel compounds — is unknowable from phylogenetics alone. Species in the same section can have very different secondary metabolite profiles depending on ecological pressures, and the Cubenses clade has been evolving on Caribbean islands in isolation.
 
 ### 5.2 Confidence tiers for chemotaxonomic transfer
 
-**High confidence (genus-wide conserved):**
-- Biphenyl neolignans (magnolol, honokiol) — present in sections Magnolia, Rhytidospermum, and Oyama; the core Magnolia chemotype
-- Aporphine alkaloids (liriodenine, anonaine, roemerine) — found across all Magnolia sections studied
-- Sesquiterpene lactones (costunolide, parthenolide) — widespread in Magnolioideae
+**High confidence (genus-wide AND section-level support):**
+- Neolignans (oleiferin-type, dihydroguaiaretic acid, austrobailignan-5) — confirmed in sect. Talauma via *T. ovata* bark (Stefanello et al. 2002, PMID: 11978427), plus present in sects. Magnolia, Rhytidospermum, Oyama
+- Dibenzocyclooctadiene lignans (pyramidatins) — confirmed in sect. Talauma via *T. gloriensis* bark (Schühly et al. 2010, PMID: 20663528), plus widespread in Asian sections
+- Aporphine alkaloids (dicentrine, nordicentrine, liriodenine) — confirmed in sect. Talauma via *T. arcabucoana* (Barinas & Suárez 2011, PMID: 21347974), plus found across all other sections studied
+- Sesquiterpene lactones (costunolide) — confirmed in sect. Talauma via *M. ovata* bark (Kassuya et al. 2009, PMID: 19524658), plus widespread in Magnolioideae
 
-**Medium confidence (section-level patterns):**
-- Lignan dimers (magnolin, fargesin, sesamin) — concentrated in sections Yulania and Michelia, less data for Talauma
+**Medium confidence (genus-wide but not yet confirmed in sect. Talauma):**
+- Biphenyl neolignans specifically (magnolol, honokiol) — the signature Magnolia compounds, confirmed in sects. Magnolia and Rhytidospermum but NOT yet isolated from any sect. Talauma species
 - Phenylpropanoids (eugenol, cinnamaldehyde derivatives) — common in sect. Michelia, distribution in Talauma unknown
 
 **Low confidence (species-specific):**
-- Specific alkaloid profiles, terpenoid ratios, and novel compounds are likely species-specific
-- No Talauma/Cubenses species has EVER been phytochemically profiled — we cannot validate section-level predictions
+- Specific compound ratios, novel compounds, and essential oil profiles are likely species-specific — *M. pugana* contains cyclocolorenone (39-45%) while close Mexican relatives *M. pacifica* and *M. vallartensis* lack it entirely
+- No Caribbean Cubenses species has been phytochemically profiled — section-level predictions from mainland Talauma are plausible but unvalidated for the island clade
 
 ### 5.3 The inverse relationship problem
 
@@ -198,7 +199,7 @@ The closest well-studied species (M. virginiana, 1.2% divergence) has only ~15--
 
 ### 5.4 Bottom line for the BBB database
 
-The BBB database gives a **plausible candidate pool**, not a predicted metabolome. Genus-wide compounds are reasonable to include. Section-specific compounds from Yulania or Michelia (the most distant sections) are speculative transfers. The database IS the contribution — because no phytochemistry exists for Caribbean Magnolia, the BBB database is a novel chemotaxonomic prediction that can be validated by future wet-lab work.
+The BBB database gives a **plausible candidate pool**, not a predicted metabolome. The chemotaxonomic basis is now stronger than a genus-wide inference alone: neolignans, lignans, and aporphine alkaloids have been confirmed in mainland sect. Talauma species (*T. ovata*, *T. gloriensis*, *T. arcabucoana*) — the same section as the DR Cubenses. Compounds from Yulania or Michelia (the most distant sections) remain more speculative transfers. The database IS the contribution — because no phytochemistry exists for Caribbean Magnolia, the BBB database is a novel chemotaxonomic prediction that can be validated by future wet-lab work.
 
 ### 5.5 M. officinalis: the missing reference
 

@@ -1,578 +1,578 @@
 compound_name,canonical_smiles,inchi,inchikey,molecular_formula,molecular_weight,source_db,source_id,species,plant_part,doi,evidence_tier,query_term,query_date
-Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia sieboldii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia gradiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia grandiflora L.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Indole-3-acetyl-L-aspartic acid,,,,C14H14N2O5,0.0,KNApSAcK,C00000117,Magnolia sp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-N-Malonyltryptophan,,,,C14H14N2O5,0.0,KNApSAcK,C00000118,Magnolia sp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,8-Cineol",,,,C10H18O,0.0,KNApSAcK,C00000136,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,8-Cineol",,,,C10H18O,0.0,KNApSAcK,C00000136,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-p-Coumaric acid,,,,C9H8O3,0.0,KNApSAcK,C00000152,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-p-Coumaric acid,,,,C9H8O3,0.0,KNApSAcK,C00000152,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Eudesmol,,,,C15H26O,0.0,KNApSAcK,C00000163,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-beta-Eudesmol,,,,C15H26O,0.0,KNApSAcK,C00000164,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-beta-Eudesmol,,,,C15H26O,0.0,KNApSAcK,C00000164,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-gamma-Eudesmol,,,,C15H26O,0.0,KNApSAcK,C00000165,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Cinnamate,,,,C9H8O2,0.0,KNApSAcK,C00000170,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Cinnamate,,,,C9H8O2,0.0,KNApSAcK,C00000170,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Hexan-1-ol,,,,C6H14O,0.0,KNApSAcK,C00000358,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia virginiana,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia rostrata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isomagnolol,,,,C18H18O2,0.0,KNApSAcK,C00000592,Magnolia biloba,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isomagnolol,,,,C18H18O2,0.0,KNApSAcK,C00000592,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia grandiflora var. rubra,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia mutabilis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia praecocissima,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia pterocarpa,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia stellata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Lariciresinol,,,,C20H24O6,0.0,KNApSAcK,C00000602,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Lariciresinol,,,,C20H24O6,0.0,KNApSAcK,C00000602,Magnolia kobus,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Lariciresinol,,,,C20H24O6,0.0,KNApSAcK,C00000602,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-Coniferyl alcohol,,,,C10H12O3,0.0,KNApSAcK,C00000614,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Caffeic acid,,,,C9H8O4,0.0,KNApSAcK,C00000615,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Caffeic acid,,,,C9H8O4,0.0,KNApSAcK,C00000615,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Eugenol,,,,C10H12O2,0.0,KNApSAcK,C00000619,Magnolia liliflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Eugenol,,,,C10H12O2,0.0,KNApSAcK,C00000619,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Chavicol,,,,C9H10O,0.0,KNApSAcK,C00000621,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00000627,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia praecocissima,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia pterocarpa,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia stellata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolin,,,,C23H28O7,0.0,KNApSAcK,C00000641,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolin,,,,C23H28O7,0.0,KNApSAcK,C00000641,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolin,,,,C23H28O7,0.0,KNApSAcK,C00000641,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Yangambin,,,,C24H30O8,0.0,KNApSAcK,C00000642,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Yangambin,,,,C24H30O8,0.0,KNApSAcK,C00000642,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Yangambin,,,,C24H30O8,0.0,KNApSAcK,C00000642,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Yangambin,,,,C24H30O8,0.0,KNApSAcK,C00000642,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia stellata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia praecocissima,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusinol A,,,,C21H26O6,0.0,KNApSAcK,C00000644,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusinol B,,,,C22H28O7,0.0,KNApSAcK,C00000645,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Phillygenin,,,,C21H24O6,0.0,KNApSAcK,C00000647,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Phillygenin,,,,C21H24O6,0.0,KNApSAcK,C00000647,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Medioresinol,,,,C21H24O7,0.0,KNApSAcK,C00000659,Magnolia grandiflora var. rubra,,,gold,Magnolia,2026-05-21T22:50:17Z
-Medioresinol,,,,C21H24O7,0.0,KNApSAcK,C00000659,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Denudatin B,,,,C21H24O5,0.0,KNApSAcK,C00000671,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Denudatin B,,,,C21H24O5,0.0,KNApSAcK,C00000671,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Dihydroquercetin,,,,C15H12O7,0.0,KNApSAcK,C00000677,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Dihydroquercetin,,,,C15H12O7,0.0,KNApSAcK,C00000677,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Licarin B,,,,C20H20O4,0.0,KNApSAcK,C00000696,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Epieudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000698,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoshinin,,,,C24H30O6,0.0,KNApSAcK,C00000725,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnosalin,,,,C24H32O6,0.0,KNApSAcK,C00000726,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Pinene,,,,C10H16,0.0,KNApSAcK,C00000805,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Pinene,,,,C10H16,0.0,KNApSAcK,C00000805,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-beta-Pinene,,,,C10H16,0.0,KNApSAcK,C00000806,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Pinene,,,,C10H16,0.0,KNApSAcK,C00000816,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Camphor,,,,C10H16O,0.0,KNApSAcK,C00000819,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Limonene,,,,C10H16,0.0,KNApSAcK,C00000823,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Limonene,,,,C10H16,0.0,KNApSAcK,C00000823,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-3-Carene,,,,C10H16,0.0,KNApSAcK,C00000839,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Myrcene,,,,C10H16,0.0,KNApSAcK,C00000853,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-hydroxybenzoic acid,,,,C7H6O3,0.0,KNApSAcK,C00000856,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-hydroxybenzoic acid,,,,C7H6O3,0.0,KNApSAcK,C00000856,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Terpinolene,,,,C10H16,0.0,KNApSAcK,C00000861,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-trans-beta-Ocimene,,,,C10H16,0.0,KNApSAcK,C00000862,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Naringenin,,,,C15H12O5,0.0,KNApSAcK,C00000982,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Naringenin,,,,C15H12O5,0.0,KNApSAcK,C00000982,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Linoleic acid,,,,C18H32O2,0.0,KNApSAcK,C00001224,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Oleic acid,,,,C18H34O2,0.0,KNApSAcK,C00001232,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Naphthalene,,,,C10H8,0.0,KNApSAcK,C00001259,Magnolia praecocissima,,,gold,Magnolia,2026-05-21T22:50:17Z
-Naphthalene,,,,C10H8,0.0,KNApSAcK,C00001259,Magnolia tomentosa,,,gold,Magnolia,2026-05-21T22:50:17Z
-Naphthalene,,,,C10H8,0.0,KNApSAcK,C00001259,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Naphthalene,,,,C10H8,0.0,KNApSAcK,C00001259,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-n-Pentadecane,,,,C15H32,0.0,KNApSAcK,C00001265,Magnolia acuminata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Dopamine,,,,C8H11NO2,0.0,KNApSAcK,C00001408,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Dopamine,,,,C8H11NO2,0.0,KNApSAcK,C00001408,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Tyramine,,,,C8H11NO,0.0,KNApSAcK,C00001435,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Tyramine,,,,C8H11NO,0.0,KNApSAcK,C00001435,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Anonaine,,,,C17H15NO2,0.0,KNApSAcK,C00001807,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Anonaine,,,,C17H15NO2,0.0,KNApSAcK,C00001807,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Berberine,,,,C20H18NO4,0.0,KNApSAcK,C00001819,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Jatrorrhizine,,,,C20H20NO4,0.0,KNApSAcK,C00001874,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia abovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia accuminata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia kobus,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia speciosa,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia soulangeana,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Palmatine,,,,C21H22NO4,0.0,KNApSAcK,C00001898,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Palmatine,,,,C21H22NO4,0.0,KNApSAcK,C00001898,Magnolia gracilipes,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Reticuline,,,,C19H23NO4,0.0,KNApSAcK,C00001910,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Candicine,,,,C11H18NO,0.0,KNApSAcK,C00002319,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Antirrhinin,,,,C27H31O15.Cl,0.0,KNApSAcK,C00002376,Magnolia spp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Eudesobovatol A,,,,C33H44O4,0.0,KNApSAcK,C00002602,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Fargesone A,,,,C21H24O6,0.0,KNApSAcK,C00002603,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Grandisin,,,,C24H32O7,0.0,KNApSAcK,C00002607,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Hinokiol,,,,C20H30O2,0.0,KNApSAcK,C00002609,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Hinokiol,,,,C20H30O2,0.0,KNApSAcK,C00002609,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kadsurin A,,,,C21H24O6,0.0,KNApSAcK,C00002610,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnosalicin,,,,C24H32O7,0.0,KNApSAcK,C00002612,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-Randainol,,,,C18H18O3,0.0,KNApSAcK,C00002622,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia grandiflora var. rubra,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Veraguensin,,,,C22H28O5,0.0,KNApSAcK,C00002633,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Veraguensin,,,,C22H28O5,0.0,KNApSAcK,C00002633,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Veraguensin,,,,C22H28O5,0.0,KNApSAcK,C00002633,Magnolia acuminata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Anisaldehyde,,,,C8H8O2,0.0,KNApSAcK,C00002636,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Hydroxybenzaldehyde,,,,C7H6O2,0.0,KNApSAcK,C00002657,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Vanillic acid,,,,C8H8O4,0.0,KNApSAcK,C00002682,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Vanillic acid,,,,C8H8O4,0.0,KNApSAcK,C00002682,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Anethole,,,,C10H12O,0.0,KNApSAcK,C00002713,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-3-O-Caffeoylquinic acid,,,,C16H18O9,0.0,KNApSAcK,C00002724,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-3-O-Caffeoylquinic acid,,,,C16H18O9,0.0,KNApSAcK,C00002724,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Coniferaldehyde,,,,C10H10O3,0.0,KNApSAcK,C00002728,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Estragol,,,,C10H12O,0.0,KNApSAcK,C00002740,Magnolia kobus,,,gold,Magnolia,2026-05-21T22:50:17Z
-Methyleugenol,,,,C11H14O2,0.0,KNApSAcK,C00002741,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-Myristicin,,,,C11H12O3,0.0,KNApSAcK,C00002762,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-Safrole,,,,C10H10O2,0.0,KNApSAcK,C00002771,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-Sinapaldehyde,,,,C11H12O4,0.0,KNApSAcK,C00002775,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Sinapic acid,,,,C11H12O5,0.0,KNApSAcK,C00002776,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Sinapic acid,,,,C11H12O5,0.0,KNApSAcK,C00002776,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Sinapyl alcohol,,,,C11H14O4,0.0,KNApSAcK,C00002778,Magnolia sieboldii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Acteoside,,,,C29H36O15,0.0,KNApSAcK,C00002783,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Camphene,,,,C10H16,0.0,KNApSAcK,C00003029,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Camphene,,,,C10H16,0.0,KNApSAcK,C00003029,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-p-Cymene,,,,C10H14,0.0,KNApSAcK,C00003040,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+-)-Linalool,,,,C10H18O,0.0,KNApSAcK,C00003047,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Linalyl acetate,,,,C12H20O2,0.0,KNApSAcK,C00003048,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Phellandrene,,,,C10H16,0.0,KNApSAcK,C00003051,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Piperitone,,,,C10H16O,0.0,KNApSAcK,C00003054,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Terpinene,,,,C10H16,0.0,KNApSAcK,C00003060,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-gamma-Terpinene,,,,C10H16,0.0,KNApSAcK,C00003061,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Caryophyllene,,,,C15H24,0.0,KNApSAcK,C00003110,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Caryophyllene,,,,C15H24,0.0,KNApSAcK,C00003110,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Cedrene,,,,C15H24,0.0,KNApSAcK,C00003111,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Copaene,,,,C15H24,0.0,KNApSAcK,C00003118,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Farnesene,,,,C15H24,0.0,KNApSAcK,C00003130,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-"trans,trans-Farnesol",,,,C15H26O,0.0,KNApSAcK,C00003132,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Guaiazulene,,,,C15H18,0.0,KNApSAcK,C00003138,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Guaiol,,,,C15H26O,0.0,KNApSAcK,C00003139,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Caryophyllene (obsol.),,,,C15H24,0.0,KNApSAcK,C00003147,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Longifolene,,,,C15H24,0.0,KNApSAcK,C00003162,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Patchouli alcohol,,,,C15H26O,0.0,KNApSAcK,C00003168,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-cis-alpha-Santalol,,,,C15H24O,0.0,KNApSAcK,C00003182,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Artemorin,,,,C15H20O3,0.0,KNApSAcK,C00003222,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Costunolide,,,,C15H20O2,0.0,KNApSAcK,C00003240,Magnolia virginiana,,,gold,Magnolia,2026-05-21T22:50:17Z
-Micheliolide,,,,C15H20O3,0.0,KNApSAcK,C00003328,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia virginiana,,,gold,Magnolia,2026-05-21T22:50:17Z
-Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia praecocissima,,,gold,Magnolia,2026-05-21T22:50:17Z
-Santamarin,,,,C15H20O3,0.0,KNApSAcK,C00003363,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-beta-Sitosterol,,,,C29H50O,0.0,KNApSAcK,C00003672,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-beta-Sitosterol,,,,C29H50O,0.0,KNApSAcK,C00003672,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kaempferol,,,,C15H10O6,0.0,KNApSAcK,C00004565,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kaempferol,,,,C15H10O6,0.0,KNApSAcK,C00004565,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Quercetin,,,,C15H10O7,0.0,KNApSAcK,C00004631,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Quercetin,,,,C15H10O7,0.0,KNApSAcK,C00004631,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Quercetin 3-rutinoside,,,,C27H30O16,0.0,KNApSAcK,C00005413,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Quercetin 3-rutinoside,,,,C27H30O16,0.0,KNApSAcK,C00005413,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Cyanidin,,,,C15H11O6,0.0,KNApSAcK,C00006614,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Cyanidin,,,,C15H11O6,0.0,KNApSAcK,C00006614,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Oxycoccicyanin,,,,C22H23O11.Cl,0.0,KNApSAcK,C00006681,Magnolia spp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Peonidin 3-rutinoside,,,,C28H33O15,0.0,KNApSAcK,C00006686,Magnolia spp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-"Peonidin-3,5-diglucoside",,,,C28H33O16,0.0,KNApSAcK,C00006688,Magnolia spp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Peonidin 3-rutinoside-5-glucoside,,,,C34H43O20,0.0,KNApSAcK,C00006692,Magnolia spp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Episesamin,,,,C20H18O6,0.0,KNApSAcK,C00007194,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia pterocarpa,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Epimagnolin,,,,C23H28O7,0.0,KNApSAcK,C00007196,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Galgravin,,,,C22H28O5,0.0,KNApSAcK,C00007212,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Galgravin,,,,C22H28O5,0.0,KNApSAcK,C00007212,Magnolia acuminata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Galbacin,,,,C20H20O5,0.0,KNApSAcK,C00007213,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Galbacin,,,,C20H20O5,0.0,KNApSAcK,C00007213,Magnolia kachirachirai,,,gold,Magnolia,2026-05-21T22:50:17Z
-Naringenin chalcone,,,,C15H12O5,0.0,KNApSAcK,C00007233,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Naringenin chalcone,,,,C15H12O5,0.0,KNApSAcK,C00007233,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Dihydrokaempferol,,,,C15H12O6,0.0,KNApSAcK,C00007234,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Dihydrokaempferol,,,,C15H12O6,0.0,KNApSAcK,C00007234,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Leucocyanidin,,,,C15H14O7,0.0,KNApSAcK,C00007235,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Leucocyanidin,,,,C15H14O7,0.0,KNApSAcK,C00007235,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Bisabolene,,,,C15H24,0.0,KNApSAcK,C00007242,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-p-Coumaroyl CoA,,,,C30H42N7O18P3S,0.0,KNApSAcK,C00007280,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-p-Coumaroyl CoA,,,,C30H42N7O18P3S,0.0,KNApSAcK,C00007280,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-caffeoyl-CoA,,,,C30H42N7O19P3S,0.0,KNApSAcK,C00007281,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-caffeoyl-CoA,,,,C30H42N7O19P3S,0.0,KNApSAcK,C00007281,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Syringaldehyde,,,,C9H10O4,0.0,KNApSAcK,C00007558,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-delta-Cadinene,,,,C15H24,0.0,KNApSAcK,C00007636,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Campholenic aldehyde,,,,C10H16O,0.0,KNApSAcK,C00010805,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,4-Cineole",,,,C10H18O,0.0,KNApSAcK,C00010825,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Limonene,,,,C10H16,0.0,KNApSAcK,C00010868,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(S)-(+)-Carvone,,,,C10H14O,0.0,KNApSAcK,C00010891,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-delta-Terpineol,,,,C10H18O,0.0,KNApSAcK,C00010930,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Cymene,,,,C10H14,0.0,KNApSAcK,C00010967,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Borneol,,,,C10H18O,0.0,KNApSAcK,C00011024,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Fenchone,,,,C10H16O,0.0,KNApSAcK,C00011027,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-trans-(-)-Pinocarveol,,,,C10H16O,0.0,KNApSAcK,C00011040,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Teresantanane,,,,C10H16,0.0,KNApSAcK,C00011067,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-DMNT,,,,C11H18,0.0,KNApSAcK,C00011383,Magnolia liliflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusimin A,,,,C15H24O4,0.0,KNApSAcK,C00011398,Magnolia kobus,,,gold,Magnolia,2026-05-21T22:50:17Z
-Kobusimin B,,,,C15H24O4,0.0,KNApSAcK,C00011399,Magnolia kobus,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Elemol,,,,C15H26O,0.0,KNApSAcK,C00012005,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"11beta,13-Dihydroparthenolide",,,,C15H22O3,0.0,KNApSAcK,C00012095,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Peroxyparthenolide,,,,C15H20O5,0.0,KNApSAcK,C00012096,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Melampomagnolide A,,,,C15H20O4,0.0,KNApSAcK,C00012099,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Melampomagnolide B,,,,C15H20O4,0.0,KNApSAcK,C00012109,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Peroxycostunolide,,,,C15H20O4,0.0,KNApSAcK,C00012179,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Soulangianolide A,,,,C15H20O3,0.0,KNApSAcK,C00012202,Magnolia sp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Soulangianolide A,,,,C15H20O3,0.0,KNApSAcK,C00012202,Magnolia x Soulangeana Soulangae-Bodin.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Soulangianolide B,,,,C17H22O5,0.0,KNApSAcK,C00012335,Magnolia sp.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Soulangianolide B,,,,C17H22O5,0.0,KNApSAcK,C00012335,Magnolia x Soulangeana Soulangae-Bodin.,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Humulene,,,,C15H24,0.0,KNApSAcK,C00012455,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-beta-Caryophyllene epoxide,,,,C15H24O,0.0,KNApSAcK,C00012483,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-beta-Caryophyllene epoxide,,,,C15H24O,0.0,KNApSAcK,C00012483,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Eudeshonokiol,,,,C33H44O3,0.0,KNApSAcK,C00012707,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Eudesmagnolol,,,,C33H44O3,0.0,KNApSAcK,C00012763,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Eudesobovatol B,,,,C33H44O4,0.0,KNApSAcK,C00012820,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolialide,,,,C15H20O3,0.0,KNApSAcK,C00013038,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Reynosin,,,,C15H20O3,0.0,KNApSAcK,C00013040,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-9-Aristolene,,,,C15H24,0.0,KNApSAcK,C00017471,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-3-O-beta-D-Glucopyranosyl sitosterol,,,,C35H60O6,0.0,KNApSAcK,C00019308,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Calamenene,,,,C15H22,0.0,KNApSAcK,C00020074,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-delta-Cadinol,,,,C15H26O,0.0,KNApSAcK,C00020150,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Oplopanone,,,,C15H26O2,0.0,KNApSAcK,C00020240,Magnolia praecocissima,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Guaiene,,,,C15H24,0.0,KNApSAcK,C00020376,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Guaiene,,,,C15H24,0.0,KNApSAcK,C00020377,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-gamma-gurjunene epoxide,,,,C15H24,0.0,KNApSAcK,C00020383,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Watsonol A,,,,C15H22O2,0.0,KNApSAcK,C00020401,Magnolia watsonii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Watsonol B,,,,C17H24O3,0.0,KNApSAcK,C00020402,Magnolia watsonii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnograndiolide,,,,C15H22O4,0.0,KNApSAcK,C00020474,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Trifloculoside,,,,C15H20O3,0.0,KNApSAcK,C00020728,Magnolia virginiana,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Globulol,,,,C15H26O,0.0,KNApSAcK,C00021213,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-allo-Aromadendrene,,,,C15H24,0.0,KNApSAcK,C00021229,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Aromadendrene,,,,C15H24,0.0,KNApSAcK,C00021230,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Panasinsene,,,,C15H24,0.0,KNApSAcK,C00021833,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Cyperusol C,,,,C15H26O2,0.0,KNApSAcK,C00022006,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(3E,7E)-4,8,12-Trimethyl-1,3,7,11-tridecatetraene",,,,C16H26,0.0,KNApSAcK,C00022165,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Syringin-4-O-beta-glucoside,,,,C23H34O14,0.0,KNApSAcK,C00024143,Magnolia sieboldii K.KOCH,,,gold,Magnolia,2026-05-21T22:50:17Z
-Obovatal,,,,C18H16O4,0.0,KNApSAcK,C00024160,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Obovatal,,,,C18H16O4,0.0,KNApSAcK,C00024160,Magnolia obovata THUNB.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Obovatol,,,,C18H18O3,0.0,KNApSAcK,C00024183,Magnolia obovata THUNB.,,,gold,Magnolia,2026-05-21T22:50:17Z
-Obovatol,,,,C18H18O3,0.0,KNApSAcK,C00024183,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Asimilobine,,,,C17H17NO2,0.0,KNApSAcK,C00025231,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Asimilobine,,,,C17H17NO2,0.0,KNApSAcK,C00025231,Magnolia x soulangiana,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-N-Methylcoclaurine,,,,C18H21NO3,0.0,KNApSAcK,C00025268,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-N-Methylcoclaurine,,,,C18H21NO3,0.0,KNApSAcK,C00025268,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Lanuginosine,,,,C18H11NO4,0.0,KNApSAcK,C00025319,Magnolia abovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Lanuginosine,,,,C18H11NO4,0.0,KNApSAcK,C00025319,Magnolia liliflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Lanuginosine,,,,C18H11NO4,0.0,KNApSAcK,C00025319,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Tembetarine,,,,C20H26NO4,0.0,KNApSAcK,C00025347,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Roemerine,,,,C18H17NO2,0.0,KNApSAcK,C00025625,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Roemerine,,,,C18H17NO2,0.0,KNApSAcK,C00025625,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Corytuberine,,,,C19H21NO4,0.0,KNApSAcK,C00025655,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Coclaurine,,,,C17H19NO3,0.0,KNApSAcK,C00025812,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Coclaurine,,,,C17H19NO3,0.0,KNApSAcK,C00025812,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolin,,,,C36H40N2O6,0.0,KNApSAcK,C00025880,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolin,,,,C36H40N2O6,0.0,KNApSAcK,C00025880,Magnolia liliflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolin,,,,C36H40N2O6,0.0,KNApSAcK,C00025880,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Lotusine,,,,C19H24NO3,0.0,KNApSAcK,C00025934,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnocurarine,,,,C19H24NO3,0.0,KNApSAcK,C00025937,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnocurarine,,,,C19H24NO3,0.0,KNApSAcK,C00025937,Magnolia sprengeri,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnocurarine,,,,C19H24NO3,0.0,KNApSAcK,C00025937,Magnolia rostrata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnocurarine,,,,C19H24NO3,0.0,KNApSAcK,C00025937,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Oblongine,,,,C19H24NO3,0.0,KNApSAcK,C00025982,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Xanthoplanine,,,,C21H26NO4,0.0,KNApSAcK,C00027170,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isolaureline N-oxide,,,,C19H19NO4,0.0,KNApSAcK,C00027390,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnococline,,,,C18H21NO3,0.0,KNApSAcK,C00027437,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-N-Nornuciferine,,,,C18H19NO2,0.0,KNApSAcK,C00027441,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Michelalbine,,,,C17H15NO3,0.0,KNApSAcK,C00027444,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoporphine,,,,C22H28NO5,0.0,KNApSAcK,C00027561,Magnolia sieboldii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Hernangerine,,,,C18H17NO4,0.0,KNApSAcK,C00027566,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolamide,,,,C20H24N2O5,0.0,KNApSAcK,C00028545,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-N-Acetylanonaine,,,,C19H17NO3,0.0,KNApSAcK,C00028643,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Aschantin,,,,C22H24O7,0.0,KNApSAcK,C00029279,Magnolia kobus,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",,,,C15H26O,0.0,KNApSAcK,C00029339,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Methoxyhonokiol,,,,C19H20O2,0.0,KNApSAcK,C00029537,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Methoxyhonokiol,,,,C19H20O2,0.0,KNApSAcK,C00029537,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Terpineol,,,,C10H18O,0.0,KNApSAcK,C00029544,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Vinyl guaiacol,,,,C9H10O2,0.0,KNApSAcK,C00029546,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"7R,8S,7'S.8'R-3,4,3',4'-Tetramethoxy-9,7'-dihydroxy-8,8',7.O.9'-lignan",,,,C22H28O7,0.0,KNApSAcK,C00029595,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-21T22:50:17Z
-"7S,8R,7'S.8'R-3,4,3',4'-Tetramethoxy-9,7'-dihydroxy-8,8',7.O.9'-lignan",,,,C22H28O7,0.0,KNApSAcK,C00029596,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-alpha-Selinene,,,,C15H24,0.0,KNApSAcK,C00029672,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Terpineol,,,,C10H18O,0.0,KNApSAcK,C00029674,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-alpha-Terpineol,,,,C10H18O,0.0,KNApSAcK,C00029674,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Aschantin,,,,C22H24O7,0.0,KNApSAcK,C00029744,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-21T22:50:17Z
-Borneol acetate,,,,C12H20O2,0.0,KNApSAcK,C00029844,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-cis-Sabinol,,,,C10H16O,0.0,KNApSAcK,C00029974,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Coumanolignan,,,,C21H18O3,0.0,KNApSAcK,C00030019,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00030244,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00030244,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-21T22:50:17Z
-Fargesone C,,,,C21H22O6,0.0,KNApSAcK,C00030245,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Heneicosane,,,,C21H44,0.0,KNApSAcK,C00030470,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isoacteoside,,,,C29H36O15,0.0,KNApSAcK,C00030516,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isosafrol glycol,,,,C10H12O4,0.0,KNApSAcK,C00030545,Magnolia salicifolia,,,gold,Magnolia,2026-05-21T22:50:17Z
-Lariciresinol dimethyl ether,,,,C22H28O6,0.0,KNApSAcK,C00030639,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnaldehyde B,,,,C18H16O3,0.0,KNApSAcK,C00030707,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnaldehyde B,,,,C18H16O3,0.0,KNApSAcK,C00030707,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnaldehyde E,,,,C16H14O3,0.0,KNApSAcK,C00030708,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnaldehyde E,,,,C16H14O3,0.0,KNApSAcK,C00030708,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan C,,,,C18H20O4,0.0,KNApSAcK,C00030709,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan C,,,,C18H20O4,0.0,KNApSAcK,C00030709,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnostellin A,,,,C22H28O6,0.0,KNApSAcK,C00030710,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-21T22:50:17Z
-Methyl oleate,,,,C19H36O2,0.0,KNApSAcK,C00030760,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Nonadienal,,,,C9H18O,0.0,KNApSAcK,C00030828,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-n-Pentacosane,,,,C25H52,0.0,KNApSAcK,C00030958,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pentadecanal,,,,C15H30O,0.0,KNApSAcK,C00030959,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Methylpiperitol,,,,C21H22O6,0.0,KNApSAcK,C00031449,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Burcellin,,,,C22H26O6,0.0,KNApSAcK,C00031639,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Fargesone B,,,,C21H24O6,0.0,KNApSAcK,C00031784,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Hancinone,,,,C20H20O5,0.0,KNApSAcK,C00031846,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolone,,,,C21H22O7,0.0,KNApSAcK,C00031994,Magnolia coco,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolone,,,,C21H22O7,0.0,KNApSAcK,C00031994,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Tetracosane,,,,C24H50,0.0,KNApSAcK,C00032307,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-n-Tridecane,,,,C23H48,0.0,KNApSAcK,C00032409,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Fargesol,,,,C22H28O7,0.0,KNApSAcK,C00032559,Magnolia praecocissima,,,gold,Magnolia,2026-05-21T22:50:17Z
-Acuminatin,,,,C21H24O4,0.0,KNApSAcK,C00032698,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Acuminatin,,,,C21H24O4,0.0,KNApSAcK,C00032698,Magnolia acuminata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudadione A,,,,C21H24O5,0.0,KNApSAcK,C00032894,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudadione B,,,,C20H20O5,0.0,KNApSAcK,C00032895,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudadione C,,,,C20H20O5,0.0,KNApSAcK,C00032896,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudanolide A,,,,C20H20O6,0.0,KNApSAcK,C00032897,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudanolide B,,,,C20H22O6,0.0,KNApSAcK,C00032898,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudanolide C,,,,C21H24O6,0.0,KNApSAcK,C00032899,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudanolide D,,,,C22H26O7,0.0,KNApSAcK,C00032900,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudatin A,,,,C20H20O5,0.0,KNApSAcK,C00032901,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Denudatin A,,,,C20H20O5,0.0,KNApSAcK,C00032901,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isodihydrofutoquinol A,,,,C21H24O5,0.0,KNApSAcK,C00033059,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isodihydrofutoquinol B,,,,C21H24O5,0.0,KNApSAcK,C00033060,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnostellin B,,,,C22H26O8,0.0,KNApSAcK,C00033151,Magnolia praecocissima,,,gold,Magnolia,2026-05-21T22:50:17Z
-Nirandin A,,,,C22H26O6,0.0,KNApSAcK,C00033250,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Hinesol,,,,C15H26O,0.0,KNApSAcK,C00033916,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Quinic acid,,,,C7H12O6,0.0,KNApSAcK,C00034185,Magnolia denudata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Quinic acid,,,,C7H12O6,0.0,KNApSAcK,C00034185,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Aceoside,,,,C39H64O16,0.0,KNApSAcK,C00034404,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-beta-Gurjunene,,,,C15H24,0.0,KNApSAcK,C00034456,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(S)-Norcoclaurine,,,,C16H17NO3,0.0,KNApSAcK,C00034613,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-(S)-Norcoclaurine,,,,C16H17NO3,0.0,KNApSAcK,C00034613,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-2-Pentylfuran,,,,C9H14O,0.0,KNApSAcK,C00034763,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Neryl acetate,,,,C12H20O2,0.0,KNApSAcK,C00035138,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Docosane,,,,C22H46,0.0,KNApSAcK,C00035592,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-n-Heptanol,,,,C7H16O,0.0,KNApSAcK,C00035700,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Taspine,,,,C20H19NO6,0.0,KNApSAcK,C00035757,Magnolia x soulangiana,,,gold,Magnolia,2026-05-21T22:50:17Z
-Taspine,,,,C20H19NO6,0.0,KNApSAcK,C00035757,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Citral,,,,C10H16O,0.0,KNApSAcK,C00035822,Magnolia liliflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-n-Tetradecane,,,,C14H30,0.0,KNApSAcK,C00035879,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Dihydrocarvone,,,,C10H16O,0.0,KNApSAcK,C00037051,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolenin C,,,,C28H36O14,0.0,KNApSAcK,C00037463,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Myrtenol,,,,C10H16O,0.0,KNApSAcK,C00037531,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pinocarvone,,,,C10H14O,0.0,KNApSAcK,C00037652,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pyramidatin A,,,,C24H30O7,0.0,KNApSAcK,C00037700,Magnolia pyramidata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pyramidatin B,,,,C23H28O7,0.0,KNApSAcK,C00037701,Magnolia pyramidata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pyramidatin C,,,,C23H28O7,0.0,KNApSAcK,C00037702,Magnolia pyramidata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pyramidatin D,,,,C23H28O7,0.0,KNApSAcK,C00037703,Magnolia pyramidata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pyramidatin E,,,,C23H28O7,0.0,KNApSAcK,C00037704,Magnolia pyramidata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pyramidatin F,,,,C22H24O7,0.0,KNApSAcK,C00037705,Magnolia pyramidata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pyramidatin G,,,,C23H26O7,0.0,KNApSAcK,C00037706,Magnolia pyramidata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Pyramidatin H,,,,C22H22O7,0.0,KNApSAcK,C00037707,Magnolia pyramidata,,,gold,Magnolia,2026-05-21T22:50:17Z
-erythro-Honokitriol,,,,C18H20O5,0.0,KNApSAcK,C00039166,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnatriol B,,,,C18H20O3,0.0,KNApSAcK,C00039710,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolianone,,,,C19H22O6,0.0,KNApSAcK,C00039711,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan B,,,,C18H20O5,0.0,KNApSAcK,C00039712,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Randaiol,,,,C15H14O3,0.0,KNApSAcK,C00040143,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-threo-Honokitriol,,,,C18H20O5,0.0,KNApSAcK,C00040486,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Lirinidine,,,,C18H19NO2,0.0,KNApSAcK,C00041045,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Burchellin,,,,C20H20O5,0.0,KNApSAcK,C00041404,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Futoenone,,,,C20H20O5,0.0,KNApSAcK,C00041535,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Liliflone,,,,C21H26O6,0.0,KNApSAcK,C00041633,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Epimagnolin A,,,,C23H28O7,0.0,KNApSAcK,C00045144,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-Epimagnolin A,,,,C23H28O7,0.0,KNApSAcK,C00045144,Magnolia biondii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isoprene,,,,C5H8,0.0,KNApSAcK,C00046784,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-8-Heptadecene,,,,C17H34,0.0,KNApSAcK,C00048301,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Agarospirol,,,,C15H26O,0.0,KNApSAcK,C00048308,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Dehydro isolongifolene,,,,C15H22,0.0,KNApSAcK,C00048376,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Costunolact-12beta-ol,,,,C15H22O2,0.0,KNApSAcK,C00049138,Magnolia virginiana,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnone A,,,,C22H26O7,0.0,KNApSAcK,C00050153,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnone B,,,,C23H28O8,0.0,KNApSAcK,C00050154,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnaldehyde C,,,,C18H18O5,0.0,KNApSAcK,C00051424,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnaldehyde D,,,,C16H14O3,0.0,KNApSAcK,C00051425,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan A,,,,C18H20O4,0.0,KNApSAcK,C00051428,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan D,,,,C19H22O5,0.0,KNApSAcK,C00051429,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan E,,,,C18H18O4,0.0,KNApSAcK,C00051430,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan F,,,,C36H36O6,0.0,KNApSAcK,C00051431,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan G,,,,C36H36O8,0.0,KNApSAcK,C00051432,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan H,,,,C36H34O6,0.0,KNApSAcK,C00051433,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnolignan I,,,,C33H30O6,0.0,KNApSAcK,C00051434,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoquinone,,,,C15H12O3,0.0,KNApSAcK,C00051435,Magnolia rostrata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnosprengerine,,,,C11H17NO2,0.0,KNApSAcK,C00051436,Magnolia sprengeri,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnotriol B,,,,C15H14O3,0.0,KNApSAcK,C00051437,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Hydroxyphenylacetaldehyde,,,,C8H8O2,0.0,KNApSAcK,C00051850,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Hydroxyphenylacetaldehyde,,,,C8H8O2,0.0,KNApSAcK,C00051850,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Hydroxyphenylpyruvate,,,,C9H7O4-,0.0,KNApSAcK,C00051851,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-4-Hydroxyphenylpyruvate,,,,C9H7O4-,0.0,KNApSAcK,C00051851,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-N-Demethylcolletine,,,,C19H23NO3,0.0,KNApSAcK,C00052007,Magnolia obovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-N-Demethylcolletine,,,,C19H23NO3,0.0,KNApSAcK,C00052007,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Oblongine,,,,C19H24NO3,0.0,KNApSAcK,C00052460,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-2alpha-hydroxydihydroparthenolide,,,,C15H22O4,0.0,KNApSAcK,C00052621,Magnolia grandiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-4'-O-Demethylbiondinin A,,,,C20H24O6,0.0,KNApSAcK,C00052724,Magnolia fargesii,,,gold,Magnolia,2026-05-21T22:50:17Z
-5-Caranol,,,,C10H18O,0.0,KNApSAcK,C00052732,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-3-Methylcamphenilol,,,,C10H18O,0.0,KNApSAcK,C00053087,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"cis,cis,cis-7,10,13-Hexadecatrienal",,,,C16H26O,0.0,KNApSAcK,C00053111,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-CP55940,,,,C24H40O3,0.0,KNApSAcK,C00053139,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"Heptadecanoic acid, methyl ester",,,,C18H36O2,0.0,KNApSAcK,C00053306,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Honokiol,,,,C18H18O2,0.0,KNApSAcK,C00053322,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Isobornyl formate,,,,C11H18O2,0.0,KNApSAcK,C00053348,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Methyl 2-methylbutanoate,,,,C6H12O2,0.0,KNApSAcK,C00053485,Magnolia ovata,,,gold,Magnolia,2026-05-21T22:50:17Z
-Myrtanal,,,,C10H16O,0.0,KNApSAcK,C00053522,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Perilla alcohol,,,,C10H16O,0.0,KNApSAcK,C00053669,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Rimonabant,,,,C22H21Cl3N4O,0.0,KNApSAcK,C00053749,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Syringaresinol,,,,C22H26O8,0.0,KNApSAcK,C00053808,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Tetrahydromagnolol,,,,C18H22O2,0.0,KNApSAcK,C00053829,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"Thuja-2,4(10)-diene",,,,C10H14,0.0,KNApSAcK,C00053835,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-trans-Carveol,,,,C10H16O,0.0,KNApSAcK,C00053849,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-trans-Pinocamphone,,,,C10H16O,0.0,KNApSAcK,C00053852,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-trans-Piperitol,,,,C10H18O,0.0,KNApSAcK,C00053854,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Diisobutyl phthalate,,,,C16H22O4,0.0,KNApSAcK,C00055801,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-alpha-Fenchol,,,,C10H18O,0.0,KNApSAcK,C00058842,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Butylidenecyclohexane,,,,C10H18,0.0,KNApSAcK,C00058844,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"2,6-Dimethyl-5-heptenal",,,,C9H16O,0.0,KNApSAcK,C00059064,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"5,6-Di-O-palmitoylascorbic acid",,,,C38H68O8,0.0,KNApSAcK,C00059068,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"5,6,6a,7-Tetrahydro-1,3,11-trihydroxy-2,9-dimethoxy-6,6-dimethyl-4H-dibenzo[de,g]quinolinium",,,,C20H24NO5,0.0,KNApSAcK,C00059073,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-threo-Magnolignan B,,,,C18H20O5,0.0,KNApSAcK,C00059146,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-erythro-Magnolignan B,,,,C18H20O5,0.0,KNApSAcK,C00059147,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Cadinol,,,,C15H28O,0.0,KNApSAcK,C00059181,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoloside A,,,,C29H36O15,0.0,KNApSAcK,C00059254,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoloside B,,,,C35H46O20,0.0,KNApSAcK,C00059318,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-6-(1-Propen-1-yl)bicyclo[3.1.0]hexan-2-one,,,,C9H12O,0.0,KNApSAcK,C00059413,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"Cyclobutanecarboxylic acid, 1-methyl-2-hepten-1-yl ester",,,,C13H22O2,0.0,KNApSAcK,C00059414,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(10E,13E)-10,13-Octadecadienoic acid, methyl ester",,,,C19H34O2,0.0,KNApSAcK,C00059415,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(+)-cis-Verbenol,,,,C10H16O,0.0,KNApSAcK,C00059608,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,3-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00059645,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Piperitylmagnolol,,,,C28H34O2,0.0,KNApSAcK,C00059725,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"rel-(1R,2S)-1-(4-Hydroxy-3-methoxyphenyl)-2-[4-(3-hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol",,,,C20H26O7,0.0,KNApSAcK,C00059729,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"rel-(1R,2R)-1-(4-Hydroxy-3-methoxyphenyl)-2-[4-(3-hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol",,,,C20H26O7,0.0,KNApSAcK,C00059730,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Syringaresinol-4-O-beta-D-glucopyranoside,,,,C28H36O13,0.0,KNApSAcK,C00059768,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Dipiperitylmagnolol,,,,C38H50O2,0.0,KNApSAcK,C00059803,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"5-(2,3-Dihydroxypropyl)-5'-(2-propen-1-yl)[1,1'-biphenyl]-2,2'-diol",,,,C18H20O4,0.0,KNApSAcK,C00059867,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoloside E,,,,C28H34O15,0.0,KNApSAcK,C00059886,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-2-Hexanoylfuran,,,,C10H14O2,0.0,KNApSAcK,C00059937,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1a,2,3,4,4a,5,6,7b-Octahydro-1,1,4,7-tetramethyl-1H-cycloprop[e]azulene",,,,C15H24,0.0,KNApSAcK,C00060058,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"Linalool-1,2-epoxide",,,,C10H18O2,0.0,KNApSAcK,C00060075,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(2E)-3-[4-(beta-D-Glucopyranosyloxy)-3,5-dimethoxyphenyl]-2-propenal",,,,C17H22O9,0.0,KNApSAcK,C00060096,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"6,7,7a,8-Tetrahydro-9-hydroxy-4,10,11-trimethoxy-7,7-dimethyl-5H-benzo[g]-1,3-benzodioxolo[6,5,4-de]quinolinium",,,,C22H26NO6,0.0,KNApSAcK,C00060166,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(6aS)-5,6,6a,7-Tetrahydro-1,11-dihydroxy-2,10-dimethoxy-6,6-dimethyl-4-oxo-4H-dibenzo[de,g]quinolinium",,,,C20H22NO5,0.0,KNApSAcK,C00060167,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"6,7,7a,8-Tetrahydro-12-hydroxy-11-methoxy-7,7-dimethyl-5H-benzo[g]-1,3-benzodioxolo[6,5,4-de]quinolinium",,,,C20H22NO4,0.0,KNApSAcK,C00060168,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(1R)-1,2-Dihydro-7-hydroxy-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2,2-dimethylisoquinolinium",,,,C19H22NO3,0.0,KNApSAcK,C00060169,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-9-Methoxyobovatol,,,,C19H20O4,0.0,KNApSAcK,C00060243,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-5-Ethyl-5-methyldecane,,,,C13H28,0.0,KNApSAcK,C00060360,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"2-cis,cis-9,12Octadecadienyloxyethanol",,,,C20H38O2,0.0,KNApSAcK,C00060368,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Magnoloside M,,,,C29H36O15,0.0,KNApSAcK,C00060472,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(2S)-2-Methyl-2-[(3R,5R,8R,8aR)-1,2,3,5,6,7,8,8a-octahydro-3,8-dimethyl-5-azulenyl]oxirane",,,,C15H24O,0.0,KNApSAcK,C00060533,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(1R)-(-)-Myrtenal,,,,C10H14O,0.0,KNApSAcK,C00060535,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"2,3,5,8,Tetramethyldecane",,,,C14H30,0.0,KNApSAcK,C00060601,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-8-Ethenyldecahydro-5-methylene-2-naphthalenemethanol,,,,C14H22O,0.0,KNApSAcK,C00060842,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"3,7,7-Trimethyl1,3,5-cycloheptatriene",,,,C10H14,0.0,KNApSAcK,C00061535,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(Z,Z,Z)-1,5,9,9-Tetramethyl-1,4,7-cycloundecatriene",,,,C15H24,0.0,KNApSAcK,C00061715,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"5,6,6a,7-Tetrahydro-1,9,10-trihydroxy-2-methoxy-6,6-dimethyl-4H-dibenzo[de,g]quinolinium",,,,C19H22NO4,0.0,KNApSAcK,C00061875,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"5,5-Dimethyl-3-methylenebicyclo[2.2.1]heptan-2-one",,,,C10H14O,0.0,KNApSAcK,C00061957,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(2E)-2-Nonen-4-yne,,,,C9H14,0.0,KNApSAcK,C00062230,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"(9Z)-9,17-Octadecadienal",,,,C18H32O,0.0,KNApSAcK,C00062235,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,4-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062249,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,2-Dimethylnaphthalene",,,,C12H12,0.0,KNApSAcK,C00062261,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,7-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062268,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,6-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062270,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Piperenone,,,,C22H28O6,0.0,KNApSAcK,C00062275,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-"2,6-Dimethylnaphthalene",,,,C12H12,0.0,KNApSAcK,C00062291,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-"2,6-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062292,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Decahydro-1-methyl-4-methylene-7-(1-methylethenyl)azulene,,,,C15H24,0.0,KNApSAcK,C00062295,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"2,7-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062297,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Puterine,,,,C18H17NO3,0.0,KNApSAcK,C00062594,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"trans,trans-(+)-5-Caranol",,,,C10H18O,0.0,KNApSAcK,C00062710,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-(-)-Maglifloenone,,,,C22H26O6,0.0,KNApSAcK,C00063086,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-1-Ethenyl-1-methyl-4-methylene-2-(2-methyl-1-propenyl)-cycloheptane,,,,C15H24,0.0,KNApSAcK,C00063094,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,5-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00063102,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Obovaaldehyde,,,,C16H14O4,0.0,KNApSAcK,C00063111,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Liliflol A,,,,C19H18O4,0.0,KNApSAcK,C00063254,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Liliflol B,,,,C20H22O4,0.0,KNApSAcK,C00063255,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Liliflodione,,,,C20H22O5,0.0,KNApSAcK,C00063256,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-Randainal,,,,C18H16O3,0.0,KNApSAcK,C00063262,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-1-Hydroxynaphthalene,,,,C10H8O,0.0,KNApSAcK,C00063316,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-N-trans-Feruloylputrescine,,,,C14H20N2O3,0.0,KNApSAcK,C00063353,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-N-cis-Feruloylputrescine,,,,C14H20N2O3,0.0,KNApSAcK,C00063354,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Caryophyllenyl alcohol,,,,C15H26O,0.0,KNApSAcK,C00063359,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"2,3-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00063380,Magnolia liliiflora,,,gold,Magnolia,2026-05-21T22:50:17Z
-2-Ethyl-2-methyltridecanol,,,,C16H34O,0.0,KNApSAcK,C00063384,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Piperitylhonokiol,,,,C28H34O2,0.0,KNApSAcK,C00063408,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Bornylmagnolol,,,,C28H34O2,0.0,KNApSAcK,C00063409,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"1,2,3,4-Tetrahydro-1-[(3-hydroxy-4-methoxyphenyl)methyl]-6,7-dimethoxy-2,2-dimethylisoquinolinium",,,,C21H28NO4,0.0,KNApSAcK,C00063493,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-"Heptadecyl 2,2-dichloroacetate",,,,C19H36Cl2O2,0.0,KNApSAcK,C00063513,Magnolia officinalis,,,gold,Magnolia,2026-05-21T22:50:17Z
-Jatrorrhizine,,,,C20H20NO4,0.0,KNApSAcK,C00001874,Michelia spp.,,,gold,Michelia,2026-05-21T22:50:17Z
-(-)-Medicarpin,,,,C16H14O4,0.0,KNApSAcK,C00002547,Trifolium michelianum,,,gold,Michelia,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Michelia sphaerantha,,,gold,Michelia,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Michelia fuscata,,,gold,Michelia,2026-05-21T22:50:17Z
-Guaiol,,,,C15H26O,0.0,KNApSAcK,C00003139,Magnolia champaca,,,gold,Michelia,2026-05-21T22:50:17Z
-Michelenolide,,,,C15H20O4,0.0,KNApSAcK,C00003327,Magnolia compressa,,,gold,Michelia,2026-05-21T22:50:17Z
-Micheliolide,,,,C15H20O3,0.0,KNApSAcK,C00003328,Magnolia compressa,,,gold,Michelia,2026-05-21T22:50:17Z
-Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Michelia yunnanensis,,,gold,Michelia,2026-05-21T22:50:17Z
-Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia lanuginosa,,,gold,Michelia,2026-05-21T22:50:17Z
-Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia champaca,,,gold,Michelia,2026-05-21T22:50:17Z
-Santamarin,,,,C15H20O3,0.0,KNApSAcK,C00003363,Magnolia compressa,,,gold,Michelia,2026-05-21T22:50:17Z
-(-)-Pinocampheol,,,,C10H18O,0.0,KNApSAcK,C00011031,Magnolia champaca,,,gold,Michelia,2026-05-21T22:50:17Z
-(-)-Bisparthenolidine,,,,C30H43NO6,0.0,KNApSAcK,C00011739,Magnolia rajaniana,,,gold,Michelia,2026-05-21T22:50:17Z
-(+)-Paramicholide,,,,C17H24O6,0.0,KNApSAcK,C00011875,Magnolia rajaniana,,,gold,Michelia,2026-05-21T22:50:17Z
-(+)-Paramicholide,,,,C17H24O6,0.0,KNApSAcK,C00011875,Magnolia baillonii,,,gold,Michelia,2026-05-21T22:50:17Z
-"11beta,13-Dihydroparthenolide",,,,C15H22O3,0.0,KNApSAcK,C00012095,Magnolia compressa,,,gold,Michelia,2026-05-21T22:50:17Z
-Lanuginolide,,,,C17H24O5,0.0,KNApSAcK,C00012102,Magnolia compressa,,,gold,Michelia,2026-05-21T22:50:17Z
-Lanuginolide,,,,C17H24O5,0.0,KNApSAcK,C00012102,Magnolia lanuginosa,,,gold,Michelia,2026-05-21T22:50:17Z
-9alpha-Hydroxydihydroparthenolide,,,,C15H22O4,0.0,KNApSAcK,C00012107,Magnolia baillonii,,,gold,Michelia,2026-05-21T22:50:17Z
-2alpha-Hydroxydihydroparthenolide,,,,C15H22O4,0.0,KNApSAcK,C00012111,Magnolia baillonii,,,gold,Michelia,2026-05-21T22:50:17Z
-(+)-N-Acetylparthenolidine,,,,C17H25NO4,0.0,KNApSAcK,C00012223,Magnolia rajaniana,,,gold,Michelia,2026-05-21T22:50:17Z
-(+)-Reynosin,,,,C15H20O3,0.0,KNApSAcK,C00013040,Michelia yunnanensis,,,gold,Michelia,2026-05-21T22:50:17Z
-"11betaH,13-Dihydroreynosin",,,,C15H22O3,0.0,KNApSAcK,C00013041,Magnolia compressa,,,gold,Michelia,2026-05-21T22:50:17Z
-Michefuscalide,,,,C17H22O5,0.0,KNApSAcK,C00020472,Michelia fuscata,,,gold,Michelia,2026-05-21T22:50:17Z
-Compressanolide,,,,C15H22O3,0.0,KNApSAcK,C00020723,Magnolia compressa,,,gold,Michelia,2026-05-21T22:50:17Z
-Micheline A,,,,C18H17NO3,0.0,KNApSAcK,C00025258,Michelia compressa var.formosana,,,gold,Michelia,2026-05-21T22:50:17Z
-Micheline A,,,,C18H17NO3,0.0,KNApSAcK,C00025258,Magnolia x alba,,,gold,Michelia,2026-05-21T22:50:17Z
-Micheline A,,,,C18H17NO3,0.0,KNApSAcK,C00025258,Magnolia champaca,,,gold,Michelia,2026-05-21T22:50:17Z
-Lanuginosine,,,,C18H11NO4,0.0,KNApSAcK,C00025319,Michelia lanuginosa Wall.,,,gold,Michelia,2026-05-21T22:50:17Z
-(-)-Michelalbine,,,,C17H15NO3,0.0,KNApSAcK,C00027444,Magnolia x alba,,,gold,Michelia,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Talauma hodgsoni,,,gold,Talauma,2026-05-21T22:50:17Z
-(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia hodgsonii,,,gold,Talauma,2026-05-21T22:50:17Z
-(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia hodgsonii,,,gold,Talauma,2026-05-21T22:50:17Z
-Anonaine,,,,C17H15NO2,0.0,KNApSAcK,C00001807,Magnolia gitigensis,,,gold,Talauma,2026-05-21T22:50:17Z
-Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia gitigensis,,,gold,Talauma,2026-05-21T22:50:17Z
-Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Talauma mexicana Don.,,,gold,Talauma,2026-05-21T22:50:17Z
-(+)-Xylopine,,,,C18H17NO3,0.0,KNApSAcK,C00001928,Magnolia gitigensis,,,gold,Talauma,2026-05-21T22:50:17Z
-Costunolide,,,,C15H20O2,0.0,KNApSAcK,C00003240,Talauma mexicana,,,gold,Talauma,2026-05-21T22:50:17Z
-(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia hodgsonii,,,gold,Talauma,2026-05-21T22:50:17Z
-(-)-Galbacin,,,,C20H20O5,0.0,KNApSAcK,C00007213,Magnolia hodgsonii,,,gold,Talauma,2026-05-21T22:50:17Z
-N-Acetylxylopine,,,,C20H19NO4,0.0,KNApSAcK,C00027417,Magnolia gitigensis,,,gold,Talauma,2026-05-21T22:50:17Z
-N-Acetylanonaine,,,,C19H17NO3,0.0,KNApSAcK,C00028643,Magnolia gitigensis,,,gold,Talauma,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Manglietiastrum sinicum,,,gold,Manglietia,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Manglietia crassipes,,,gold,Manglietia,2026-05-21T22:50:17Z
-Obovatol,,,,C18H18O3,0.0,KNApSAcK,C00024183,Magnolia phuthoensis,,,gold,Manglietia,2026-05-21T22:50:17Z
-Manglieside A,,,,C15H20O7,0.0,KNApSAcK,C00030716,Magnolia phuthoensis,,,gold,Manglietia,2026-05-21T22:50:17Z
-Manglieside B,,,,C20H28O11,0.0,KNApSAcK,C00030717,Magnolia phuthoensis,,,gold,Manglietia,2026-05-21T22:50:17Z
-Manglieside C,,,,C19H34O7,0.0,KNApSAcK,C00030718,Magnolia phuthoensis,,,gold,Manglietia,2026-05-21T22:50:17Z
-Manglieside D,,,,C26H34O11,0.0,KNApSAcK,C00030719,Magnolia phuthoensis,,,gold,Manglietia,2026-05-21T22:50:17Z
-Manglieside E,,,,C28H38O13,0.0,KNApSAcK,C00030720,Magnolia phuthoensis,,,gold,Manglietia,2026-05-21T22:50:17Z
-(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia duperreana,,,gold,Kmeria,2026-05-21T22:50:17Z
+Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia sieboldii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia gradiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia grandiflora L.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Syringin,,,,C17H24O9,0.0,KNApSAcK,C00000010,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Indole-3-acetyl-L-aspartic acid,,,,C14H14N2O5,0.0,KNApSAcK,C00000117,Magnolia sp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+N-Malonyltryptophan,,,,C14H14N2O5,0.0,KNApSAcK,C00000118,Magnolia sp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,8-Cineol",,,,C10H18O,0.0,KNApSAcK,C00000136,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,8-Cineol",,,,C10H18O,0.0,KNApSAcK,C00000136,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+p-Coumaric acid,,,,C9H8O3,0.0,KNApSAcK,C00000152,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+p-Coumaric acid,,,,C9H8O3,0.0,KNApSAcK,C00000152,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Eudesmol,,,,C15H26O,0.0,KNApSAcK,C00000163,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-beta-Eudesmol,,,,C15H26O,0.0,KNApSAcK,C00000164,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-beta-Eudesmol,,,,C15H26O,0.0,KNApSAcK,C00000164,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+gamma-Eudesmol,,,,C15H26O,0.0,KNApSAcK,C00000165,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Cinnamate,,,,C9H8O2,0.0,KNApSAcK,C00000170,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Cinnamate,,,,C9H8O2,0.0,KNApSAcK,C00000170,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Hexan-1-ol,,,,C6H14O,0.0,KNApSAcK,C00000358,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia virginiana,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia rostrata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolol,,,,C18H18O2,0.0,KNApSAcK,C00000591,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isomagnolol,,,,C18H18O2,0.0,KNApSAcK,C00000592,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isomagnolol,,,,C18H18O2,0.0,KNApSAcK,C00000592,Magnolia biloba,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia grandiflora var. rubra,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia mutabilis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia praecocissima,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia pterocarpa,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia stellata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Lariciresinol,,,,C20H24O6,0.0,KNApSAcK,C00000602,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Lariciresinol,,,,C20H24O6,0.0,KNApSAcK,C00000602,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Lariciresinol,,,,C20H24O6,0.0,KNApSAcK,C00000602,Magnolia kobus,,,gold,Magnolia,2026-05-28T23:05:25Z
+Coniferyl alcohol,,,,C10H12O3,0.0,KNApSAcK,C00000614,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Caffeic acid,,,,C9H8O4,0.0,KNApSAcK,C00000615,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Caffeic acid,,,,C9H8O4,0.0,KNApSAcK,C00000615,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Eugenol,,,,C10H12O2,0.0,KNApSAcK,C00000619,Magnolia liliflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Eugenol,,,,C10H12O2,0.0,KNApSAcK,C00000619,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Chavicol,,,,C9H10O,0.0,KNApSAcK,C00000621,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00000627,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia praecocissima,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia stellata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia pterocarpa,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolin,,,,C23H28O7,0.0,KNApSAcK,C00000641,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolin,,,,C23H28O7,0.0,KNApSAcK,C00000641,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolin,,,,C23H28O7,0.0,KNApSAcK,C00000641,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Yangambin,,,,C24H30O8,0.0,KNApSAcK,C00000642,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Yangambin,,,,C24H30O8,0.0,KNApSAcK,C00000642,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Yangambin,,,,C24H30O8,0.0,KNApSAcK,C00000642,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Yangambin,,,,C24H30O8,0.0,KNApSAcK,C00000642,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia stellata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia praecocissima,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusin,,,,C21H22O6,0.0,KNApSAcK,C00000643,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusinol A,,,,C21H26O6,0.0,KNApSAcK,C00000644,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusinol B,,,,C22H28O7,0.0,KNApSAcK,C00000645,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Phillygenin,,,,C21H24O6,0.0,KNApSAcK,C00000647,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Phillygenin,,,,C21H24O6,0.0,KNApSAcK,C00000647,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Medioresinol,,,,C21H24O7,0.0,KNApSAcK,C00000659,Magnolia grandiflora var. rubra,,,gold,Magnolia,2026-05-28T23:05:25Z
+Medioresinol,,,,C21H24O7,0.0,KNApSAcK,C00000659,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Denudatin B,,,,C21H24O5,0.0,KNApSAcK,C00000671,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Denudatin B,,,,C21H24O5,0.0,KNApSAcK,C00000671,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Dihydroquercetin,,,,C15H12O7,0.0,KNApSAcK,C00000677,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Dihydroquercetin,,,,C15H12O7,0.0,KNApSAcK,C00000677,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Licarin B,,,,C20H20O4,0.0,KNApSAcK,C00000696,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Epieudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000698,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoshinin,,,,C24H30O6,0.0,KNApSAcK,C00000725,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnosalin,,,,C24H32O6,0.0,KNApSAcK,C00000726,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Pinene,,,,C10H16,0.0,KNApSAcK,C00000805,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Pinene,,,,C10H16,0.0,KNApSAcK,C00000805,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-beta-Pinene,,,,C10H16,0.0,KNApSAcK,C00000806,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Pinene,,,,C10H16,0.0,KNApSAcK,C00000816,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Camphor,,,,C10H16O,0.0,KNApSAcK,C00000819,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Limonene,,,,C10H16,0.0,KNApSAcK,C00000823,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Limonene,,,,C10H16,0.0,KNApSAcK,C00000823,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+3-Carene,,,,C10H16,0.0,KNApSAcK,C00000839,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Myrcene,,,,C10H16,0.0,KNApSAcK,C00000853,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-hydroxybenzoic acid,,,,C7H6O3,0.0,KNApSAcK,C00000856,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-hydroxybenzoic acid,,,,C7H6O3,0.0,KNApSAcK,C00000856,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Terpinolene,,,,C10H16,0.0,KNApSAcK,C00000861,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+trans-beta-Ocimene,,,,C10H16,0.0,KNApSAcK,C00000862,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Naringenin,,,,C15H12O5,0.0,KNApSAcK,C00000982,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Naringenin,,,,C15H12O5,0.0,KNApSAcK,C00000982,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Linoleic acid,,,,C18H32O2,0.0,KNApSAcK,C00001224,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Oleic acid,,,,C18H34O2,0.0,KNApSAcK,C00001232,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Naphthalene,,,,C10H8,0.0,KNApSAcK,C00001259,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Naphthalene,,,,C10H8,0.0,KNApSAcK,C00001259,Magnolia tomentosa,,,gold,Magnolia,2026-05-28T23:05:25Z
+Naphthalene,,,,C10H8,0.0,KNApSAcK,C00001259,Magnolia praecocissima,,,gold,Magnolia,2026-05-28T23:05:25Z
+Naphthalene,,,,C10H8,0.0,KNApSAcK,C00001259,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+n-Pentadecane,,,,C15H32,0.0,KNApSAcK,C00001265,Magnolia acuminata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Dopamine,,,,C8H11NO2,0.0,KNApSAcK,C00001408,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Dopamine,,,,C8H11NO2,0.0,KNApSAcK,C00001408,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Tyramine,,,,C8H11NO,0.0,KNApSAcK,C00001435,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Tyramine,,,,C8H11NO,0.0,KNApSAcK,C00001435,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Anonaine,,,,C17H15NO2,0.0,KNApSAcK,C00001807,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Anonaine,,,,C17H15NO2,0.0,KNApSAcK,C00001807,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Berberine,,,,C20H18NO4,0.0,KNApSAcK,C00001819,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Jatrorrhizine,,,,C20H20NO4,0.0,KNApSAcK,C00001874,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia abovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia accuminata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia kobus,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia speciosa,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoflorine,,,,C20H24NO4,0.0,KNApSAcK,C00001885,Magnolia soulangeana,,,gold,Magnolia,2026-05-28T23:05:25Z
+Palmatine,,,,C21H22NO4,0.0,KNApSAcK,C00001898,Magnolia gracilipes,,,gold,Magnolia,2026-05-28T23:05:25Z
+Palmatine,,,,C21H22NO4,0.0,KNApSAcK,C00001898,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Reticuline,,,,C19H23NO4,0.0,KNApSAcK,C00001910,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Candicine,,,,C11H18NO,0.0,KNApSAcK,C00002319,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Antirrhinin,,,,C27H31O15.Cl,0.0,KNApSAcK,C00002376,Magnolia spp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Eudesobovatol A,,,,C33H44O4,0.0,KNApSAcK,C00002602,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Fargesone A,,,,C21H24O6,0.0,KNApSAcK,C00002603,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Grandisin,,,,C24H32O7,0.0,KNApSAcK,C00002607,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Hinokiol,,,,C20H30O2,0.0,KNApSAcK,C00002609,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Hinokiol,,,,C20H30O2,0.0,KNApSAcK,C00002609,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kadsurin A,,,,C21H24O6,0.0,KNApSAcK,C00002610,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnosalicin,,,,C24H32O7,0.0,KNApSAcK,C00002612,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+Randainol,,,,C18H18O3,0.0,KNApSAcK,C00002622,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia grandiflora var. rubra,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Veraguensin,,,,C22H28O5,0.0,KNApSAcK,C00002633,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Veraguensin,,,,C22H28O5,0.0,KNApSAcK,C00002633,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Veraguensin,,,,C22H28O5,0.0,KNApSAcK,C00002633,Magnolia acuminata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Anisaldehyde,,,,C8H8O2,0.0,KNApSAcK,C00002636,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Hydroxybenzaldehyde,,,,C7H6O2,0.0,KNApSAcK,C00002657,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Vanillic acid,,,,C8H8O4,0.0,KNApSAcK,C00002682,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Vanillic acid,,,,C8H8O4,0.0,KNApSAcK,C00002682,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Anethole,,,,C10H12O,0.0,KNApSAcK,C00002713,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+3-O-Caffeoylquinic acid,,,,C16H18O9,0.0,KNApSAcK,C00002724,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+3-O-Caffeoylquinic acid,,,,C16H18O9,0.0,KNApSAcK,C00002724,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Coniferaldehyde,,,,C10H10O3,0.0,KNApSAcK,C00002728,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Estragol,,,,C10H12O,0.0,KNApSAcK,C00002740,Magnolia kobus,,,gold,Magnolia,2026-05-28T23:05:25Z
+Methyleugenol,,,,C11H14O2,0.0,KNApSAcK,C00002741,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+Myristicin,,,,C11H12O3,0.0,KNApSAcK,C00002762,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+Safrole,,,,C10H10O2,0.0,KNApSAcK,C00002771,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+Sinapaldehyde,,,,C11H12O4,0.0,KNApSAcK,C00002775,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Sinapic acid,,,,C11H12O5,0.0,KNApSAcK,C00002776,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Sinapic acid,,,,C11H12O5,0.0,KNApSAcK,C00002776,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Sinapyl alcohol,,,,C11H14O4,0.0,KNApSAcK,C00002778,Magnolia sieboldii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Acteoside,,,,C29H36O15,0.0,KNApSAcK,C00002783,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Camphene,,,,C10H16,0.0,KNApSAcK,C00003029,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Camphene,,,,C10H16,0.0,KNApSAcK,C00003029,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+p-Cymene,,,,C10H14,0.0,KNApSAcK,C00003040,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+-)-Linalool,,,,C10H18O,0.0,KNApSAcK,C00003047,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Linalyl acetate,,,,C12H20O2,0.0,KNApSAcK,C00003048,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Phellandrene,,,,C10H16,0.0,KNApSAcK,C00003051,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Piperitone,,,,C10H16O,0.0,KNApSAcK,C00003054,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Terpinene,,,,C10H16,0.0,KNApSAcK,C00003060,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+gamma-Terpinene,,,,C10H16,0.0,KNApSAcK,C00003061,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Caryophyllene,,,,C15H24,0.0,KNApSAcK,C00003110,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Caryophyllene,,,,C15H24,0.0,KNApSAcK,C00003110,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Cedrene,,,,C15H24,0.0,KNApSAcK,C00003111,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Copaene,,,,C15H24,0.0,KNApSAcK,C00003118,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Farnesene,,,,C15H24,0.0,KNApSAcK,C00003130,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+"trans,trans-Farnesol",,,,C15H26O,0.0,KNApSAcK,C00003132,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Guaiazulene,,,,C15H18,0.0,KNApSAcK,C00003138,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Guaiol,,,,C15H26O,0.0,KNApSAcK,C00003139,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Caryophyllene (obsol.),,,,C15H24,0.0,KNApSAcK,C00003147,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Longifolene,,,,C15H24,0.0,KNApSAcK,C00003162,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Patchouli alcohol,,,,C15H26O,0.0,KNApSAcK,C00003168,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+cis-alpha-Santalol,,,,C15H24O,0.0,KNApSAcK,C00003182,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Artemorin,,,,C15H20O3,0.0,KNApSAcK,C00003222,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Costunolide,,,,C15H20O2,0.0,KNApSAcK,C00003240,Magnolia virginiana,,,gold,Magnolia,2026-05-28T23:05:25Z
+Micheliolide,,,,C15H20O3,0.0,KNApSAcK,C00003328,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia virginiana,,,gold,Magnolia,2026-05-28T23:05:25Z
+Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia praecocissima,,,gold,Magnolia,2026-05-28T23:05:25Z
+Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Santamarin,,,,C15H20O3,0.0,KNApSAcK,C00003363,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-beta-Sitosterol,,,,C29H50O,0.0,KNApSAcK,C00003672,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-beta-Sitosterol,,,,C29H50O,0.0,KNApSAcK,C00003672,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kaempferol,,,,C15H10O6,0.0,KNApSAcK,C00004565,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kaempferol,,,,C15H10O6,0.0,KNApSAcK,C00004565,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Quercetin,,,,C15H10O7,0.0,KNApSAcK,C00004631,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Quercetin,,,,C15H10O7,0.0,KNApSAcK,C00004631,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Quercetin 3-rutinoside,,,,C27H30O16,0.0,KNApSAcK,C00005413,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Quercetin 3-rutinoside,,,,C27H30O16,0.0,KNApSAcK,C00005413,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Cyanidin,,,,C15H11O6,0.0,KNApSAcK,C00006614,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Cyanidin,,,,C15H11O6,0.0,KNApSAcK,C00006614,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Oxycoccicyanin,,,,C22H23O11.Cl,0.0,KNApSAcK,C00006681,Magnolia spp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Peonidin 3-rutinoside,,,,C28H33O15,0.0,KNApSAcK,C00006686,Magnolia spp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+"Peonidin-3,5-diglucoside",,,,C28H33O16,0.0,KNApSAcK,C00006688,Magnolia spp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Peonidin 3-rutinoside-5-glucoside,,,,C34H43O20,0.0,KNApSAcK,C00006692,Magnolia spp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Pinoresinol,,,,C20H22O6,0.0,KNApSAcK,C00007190,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Episesamin,,,,C20H18O6,0.0,KNApSAcK,C00007194,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia pterocarpa,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Epimagnolin,,,,C23H28O7,0.0,KNApSAcK,C00007196,Magnolia kobus var. borealis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Galgravin,,,,C22H28O5,0.0,KNApSAcK,C00007212,Magnolia acuminata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Galgravin,,,,C22H28O5,0.0,KNApSAcK,C00007212,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Galbacin,,,,C20H20O5,0.0,KNApSAcK,C00007213,Magnolia kachirachirai,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Galbacin,,,,C20H20O5,0.0,KNApSAcK,C00007213,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Naringenin chalcone,,,,C15H12O5,0.0,KNApSAcK,C00007233,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Naringenin chalcone,,,,C15H12O5,0.0,KNApSAcK,C00007233,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Dihydrokaempferol,,,,C15H12O6,0.0,KNApSAcK,C00007234,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Dihydrokaempferol,,,,C15H12O6,0.0,KNApSAcK,C00007234,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Leucocyanidin,,,,C15H14O7,0.0,KNApSAcK,C00007235,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Leucocyanidin,,,,C15H14O7,0.0,KNApSAcK,C00007235,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Bisabolene,,,,C15H24,0.0,KNApSAcK,C00007242,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+p-Coumaroyl CoA,,,,C30H42N7O18P3S,0.0,KNApSAcK,C00007280,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+p-Coumaroyl CoA,,,,C30H42N7O18P3S,0.0,KNApSAcK,C00007280,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+caffeoyl-CoA,,,,C30H42N7O19P3S,0.0,KNApSAcK,C00007281,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+caffeoyl-CoA,,,,C30H42N7O19P3S,0.0,KNApSAcK,C00007281,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Syringaldehyde,,,,C9H10O4,0.0,KNApSAcK,C00007558,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+delta-Cadinene,,,,C15H24,0.0,KNApSAcK,C00007636,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Campholenic aldehyde,,,,C10H16O,0.0,KNApSAcK,C00010805,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,4-Cineole",,,,C10H18O,0.0,KNApSAcK,C00010825,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Limonene,,,,C10H16,0.0,KNApSAcK,C00010868,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(S)-(+)-Carvone,,,,C10H14O,0.0,KNApSAcK,C00010891,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+delta-Terpineol,,,,C10H18O,0.0,KNApSAcK,C00010930,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Cymene,,,,C10H14,0.0,KNApSAcK,C00010967,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Borneol,,,,C10H18O,0.0,KNApSAcK,C00011024,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Fenchone,,,,C10H16O,0.0,KNApSAcK,C00011027,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+trans-(-)-Pinocarveol,,,,C10H16O,0.0,KNApSAcK,C00011040,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Teresantanane,,,,C10H16,0.0,KNApSAcK,C00011067,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+DMNT,,,,C11H18,0.0,KNApSAcK,C00011383,Magnolia liliflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusimin A,,,,C15H24O4,0.0,KNApSAcK,C00011398,Magnolia kobus,,,gold,Magnolia,2026-05-28T23:05:25Z
+Kobusimin B,,,,C15H24O4,0.0,KNApSAcK,C00011399,Magnolia kobus,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Elemol,,,,C15H26O,0.0,KNApSAcK,C00012005,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"11beta,13-Dihydroparthenolide",,,,C15H22O3,0.0,KNApSAcK,C00012095,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Peroxyparthenolide,,,,C15H20O5,0.0,KNApSAcK,C00012096,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Melampomagnolide A,,,,C15H20O4,0.0,KNApSAcK,C00012099,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Melampomagnolide B,,,,C15H20O4,0.0,KNApSAcK,C00012109,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Peroxycostunolide,,,,C15H20O4,0.0,KNApSAcK,C00012179,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Soulangianolide A,,,,C15H20O3,0.0,KNApSAcK,C00012202,Magnolia sp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Soulangianolide A,,,,C15H20O3,0.0,KNApSAcK,C00012202,Magnolia x Soulangeana Soulangae-Bodin.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Soulangianolide B,,,,C17H22O5,0.0,KNApSAcK,C00012335,Magnolia sp.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Soulangianolide B,,,,C17H22O5,0.0,KNApSAcK,C00012335,Magnolia x Soulangeana Soulangae-Bodin.,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Humulene,,,,C15H24,0.0,KNApSAcK,C00012455,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-beta-Caryophyllene epoxide,,,,C15H24O,0.0,KNApSAcK,C00012483,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-beta-Caryophyllene epoxide,,,,C15H24O,0.0,KNApSAcK,C00012483,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Eudeshonokiol,,,,C33H44O3,0.0,KNApSAcK,C00012707,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Eudesmagnolol,,,,C33H44O3,0.0,KNApSAcK,C00012763,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Eudesobovatol B,,,,C33H44O4,0.0,KNApSAcK,C00012820,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolialide,,,,C15H20O3,0.0,KNApSAcK,C00013038,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Reynosin,,,,C15H20O3,0.0,KNApSAcK,C00013040,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-9-Aristolene,,,,C15H24,0.0,KNApSAcK,C00017471,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+3-O-beta-D-Glucopyranosyl sitosterol,,,,C35H60O6,0.0,KNApSAcK,C00019308,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Calamenene,,,,C15H22,0.0,KNApSAcK,C00020074,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-delta-Cadinol,,,,C15H26O,0.0,KNApSAcK,C00020150,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Oplopanone,,,,C15H26O2,0.0,KNApSAcK,C00020240,Magnolia praecocissima,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Guaiene,,,,C15H24,0.0,KNApSAcK,C00020376,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Guaiene,,,,C15H24,0.0,KNApSAcK,C00020377,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+gamma-gurjunene epoxide,,,,C15H24,0.0,KNApSAcK,C00020383,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Watsonol A,,,,C15H22O2,0.0,KNApSAcK,C00020401,Magnolia watsonii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Watsonol B,,,,C17H24O3,0.0,KNApSAcK,C00020402,Magnolia watsonii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnograndiolide,,,,C15H22O4,0.0,KNApSAcK,C00020474,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Trifloculoside,,,,C15H20O3,0.0,KNApSAcK,C00020728,Magnolia virginiana,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Globulol,,,,C15H26O,0.0,KNApSAcK,C00021213,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+allo-Aromadendrene,,,,C15H24,0.0,KNApSAcK,C00021229,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Aromadendrene,,,,C15H24,0.0,KNApSAcK,C00021230,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Panasinsene,,,,C15H24,0.0,KNApSAcK,C00021833,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Cyperusol C,,,,C15H26O2,0.0,KNApSAcK,C00022006,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(3E,7E)-4,8,12-Trimethyl-1,3,7,11-tridecatetraene",,,,C16H26,0.0,KNApSAcK,C00022165,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Syringin-4-O-beta-glucoside,,,,C23H34O14,0.0,KNApSAcK,C00024143,Magnolia sieboldii K.KOCH,,,gold,Magnolia,2026-05-28T23:05:25Z
+Obovatal,,,,C18H16O4,0.0,KNApSAcK,C00024160,Magnolia obovata THUNB.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Obovatal,,,,C18H16O4,0.0,KNApSAcK,C00024160,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Obovatol,,,,C18H18O3,0.0,KNApSAcK,C00024183,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Obovatol,,,,C18H18O3,0.0,KNApSAcK,C00024183,Magnolia obovata THUNB.,,,gold,Magnolia,2026-05-28T23:05:25Z
+Asimilobine,,,,C17H17NO2,0.0,KNApSAcK,C00025231,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Asimilobine,,,,C17H17NO2,0.0,KNApSAcK,C00025231,Magnolia x soulangiana,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-N-Methylcoclaurine,,,,C18H21NO3,0.0,KNApSAcK,C00025268,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-N-Methylcoclaurine,,,,C18H21NO3,0.0,KNApSAcK,C00025268,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Lanuginosine,,,,C18H11NO4,0.0,KNApSAcK,C00025319,Magnolia abovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Lanuginosine,,,,C18H11NO4,0.0,KNApSAcK,C00025319,Magnolia liliflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Lanuginosine,,,,C18H11NO4,0.0,KNApSAcK,C00025319,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Tembetarine,,,,C20H26NO4,0.0,KNApSAcK,C00025347,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Roemerine,,,,C18H17NO2,0.0,KNApSAcK,C00025625,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Roemerine,,,,C18H17NO2,0.0,KNApSAcK,C00025625,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Corytuberine,,,,C19H21NO4,0.0,KNApSAcK,C00025655,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Coclaurine,,,,C17H19NO3,0.0,KNApSAcK,C00025812,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Coclaurine,,,,C17H19NO3,0.0,KNApSAcK,C00025812,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolin,,,,C36H40N2O6,0.0,KNApSAcK,C00025880,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolin,,,,C36H40N2O6,0.0,KNApSAcK,C00025880,Magnolia liliflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolin,,,,C36H40N2O6,0.0,KNApSAcK,C00025880,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Lotusine,,,,C19H24NO3,0.0,KNApSAcK,C00025934,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnocurarine,,,,C19H24NO3,0.0,KNApSAcK,C00025937,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnocurarine,,,,C19H24NO3,0.0,KNApSAcK,C00025937,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnocurarine,,,,C19H24NO3,0.0,KNApSAcK,C00025937,Magnolia rostrata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnocurarine,,,,C19H24NO3,0.0,KNApSAcK,C00025937,Magnolia sprengeri,,,gold,Magnolia,2026-05-28T23:05:25Z
+Oblongine,,,,C19H24NO3,0.0,KNApSAcK,C00025982,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Xanthoplanine,,,,C21H26NO4,0.0,KNApSAcK,C00027170,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isolaureline N-oxide,,,,C19H19NO4,0.0,KNApSAcK,C00027390,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnococline,,,,C18H21NO3,0.0,KNApSAcK,C00027437,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+N-Nornuciferine,,,,C18H19NO2,0.0,KNApSAcK,C00027441,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Michelalbine,,,,C17H15NO3,0.0,KNApSAcK,C00027444,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoporphine,,,,C22H28NO5,0.0,KNApSAcK,C00027561,Magnolia sieboldii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Hernangerine,,,,C18H17NO4,0.0,KNApSAcK,C00027566,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolamide,,,,C20H24N2O5,0.0,KNApSAcK,C00028545,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+N-Acetylanonaine,,,,C19H17NO3,0.0,KNApSAcK,C00028643,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Aschantin,,,,C22H24O7,0.0,KNApSAcK,C00029279,Magnolia kobus,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",,,,C15H26O,0.0,KNApSAcK,C00029339,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Methoxyhonokiol,,,,C19H20O2,0.0,KNApSAcK,C00029537,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Methoxyhonokiol,,,,C19H20O2,0.0,KNApSAcK,C00029537,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Terpineol,,,,C10H18O,0.0,KNApSAcK,C00029544,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Vinyl guaiacol,,,,C9H10O2,0.0,KNApSAcK,C00029546,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"7R,8S,7'S.8'R-3,4,3',4'-Tetramethoxy-9,7'-dihydroxy-8,8',7.O.9'-lignan",,,,C22H28O7,0.0,KNApSAcK,C00029595,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-28T23:05:25Z
+"7S,8R,7'S.8'R-3,4,3',4'-Tetramethoxy-9,7'-dihydroxy-8,8',7.O.9'-lignan",,,,C22H28O7,0.0,KNApSAcK,C00029596,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-alpha-Selinene,,,,C15H24,0.0,KNApSAcK,C00029672,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Terpineol,,,,C10H18O,0.0,KNApSAcK,C00029674,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+alpha-Terpineol,,,,C10H18O,0.0,KNApSAcK,C00029674,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Aschantin,,,,C22H24O7,0.0,KNApSAcK,C00029744,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-28T23:05:25Z
+Borneol acetate,,,,C12H20O2,0.0,KNApSAcK,C00029844,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+cis-Sabinol,,,,C10H16O,0.0,KNApSAcK,C00029974,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Coumanolignan,,,,C21H18O3,0.0,KNApSAcK,C00030019,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00030244,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-28T23:05:25Z
+Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00030244,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Fargesone C,,,,C21H22O6,0.0,KNApSAcK,C00030245,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Heneicosane,,,,C21H44,0.0,KNApSAcK,C00030470,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isoacteoside,,,,C29H36O15,0.0,KNApSAcK,C00030516,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isosafrol glycol,,,,C10H12O4,0.0,KNApSAcK,C00030545,Magnolia salicifolia,,,gold,Magnolia,2026-05-28T23:05:25Z
+Lariciresinol dimethyl ether,,,,C22H28O6,0.0,KNApSAcK,C00030639,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnaldehyde B,,,,C18H16O3,0.0,KNApSAcK,C00030707,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnaldehyde B,,,,C18H16O3,0.0,KNApSAcK,C00030707,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnaldehyde E,,,,C16H14O3,0.0,KNApSAcK,C00030708,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnaldehyde E,,,,C16H14O3,0.0,KNApSAcK,C00030708,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan C,,,,C18H20O4,0.0,KNApSAcK,C00030709,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan C,,,,C18H20O4,0.0,KNApSAcK,C00030709,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnostellin A,,,,C22H28O6,0.0,KNApSAcK,C00030710,Magnolia fargesii CHENG,,,gold,Magnolia,2026-05-28T23:05:25Z
+Methyl oleate,,,,C19H36O2,0.0,KNApSAcK,C00030760,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Nonadienal,,,,C9H18O,0.0,KNApSAcK,C00030828,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+n-Pentacosane,,,,C25H52,0.0,KNApSAcK,C00030958,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pentadecanal,,,,C15H30O,0.0,KNApSAcK,C00030959,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Methylpiperitol,,,,C21H22O6,0.0,KNApSAcK,C00031449,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Burcellin,,,,C22H26O6,0.0,KNApSAcK,C00031639,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Fargesone B,,,,C21H24O6,0.0,KNApSAcK,C00031784,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Hancinone,,,,C20H20O5,0.0,KNApSAcK,C00031846,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolone,,,,C21H22O7,0.0,KNApSAcK,C00031994,Magnolia coco,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolone,,,,C21H22O7,0.0,KNApSAcK,C00031994,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Tetracosane,,,,C24H50,0.0,KNApSAcK,C00032307,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+n-Tridecane,,,,C23H48,0.0,KNApSAcK,C00032409,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Fargesol,,,,C22H28O7,0.0,KNApSAcK,C00032559,Magnolia praecocissima,,,gold,Magnolia,2026-05-28T23:05:25Z
+Acuminatin,,,,C21H24O4,0.0,KNApSAcK,C00032698,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Acuminatin,,,,C21H24O4,0.0,KNApSAcK,C00032698,Magnolia acuminata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudadione A,,,,C21H24O5,0.0,KNApSAcK,C00032894,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudadione B,,,,C20H20O5,0.0,KNApSAcK,C00032895,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudadione C,,,,C20H20O5,0.0,KNApSAcK,C00032896,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudanolide A,,,,C20H20O6,0.0,KNApSAcK,C00032897,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudanolide B,,,,C20H22O6,0.0,KNApSAcK,C00032898,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudanolide C,,,,C21H24O6,0.0,KNApSAcK,C00032899,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudanolide D,,,,C22H26O7,0.0,KNApSAcK,C00032900,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudatin A,,,,C20H20O5,0.0,KNApSAcK,C00032901,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Denudatin A,,,,C20H20O5,0.0,KNApSAcK,C00032901,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isodihydrofutoquinol A,,,,C21H24O5,0.0,KNApSAcK,C00033059,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isodihydrofutoquinol B,,,,C21H24O5,0.0,KNApSAcK,C00033060,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnostellin B,,,,C22H26O8,0.0,KNApSAcK,C00033151,Magnolia praecocissima,,,gold,Magnolia,2026-05-28T23:05:25Z
+Nirandin A,,,,C22H26O6,0.0,KNApSAcK,C00033250,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Hinesol,,,,C15H26O,0.0,KNApSAcK,C00033916,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Quinic acid,,,,C7H12O6,0.0,KNApSAcK,C00034185,Magnolia denudata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Quinic acid,,,,C7H12O6,0.0,KNApSAcK,C00034185,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Aceoside,,,,C39H64O16,0.0,KNApSAcK,C00034404,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+beta-Gurjunene,,,,C15H24,0.0,KNApSAcK,C00034456,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(S)-Norcoclaurine,,,,C16H17NO3,0.0,KNApSAcK,C00034613,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(S)-Norcoclaurine,,,,C16H17NO3,0.0,KNApSAcK,C00034613,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+2-Pentylfuran,,,,C9H14O,0.0,KNApSAcK,C00034763,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Neryl acetate,,,,C12H20O2,0.0,KNApSAcK,C00035138,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Docosane,,,,C22H46,0.0,KNApSAcK,C00035592,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+n-Heptanol,,,,C7H16O,0.0,KNApSAcK,C00035700,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Taspine,,,,C20H19NO6,0.0,KNApSAcK,C00035757,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Taspine,,,,C20H19NO6,0.0,KNApSAcK,C00035757,Magnolia x soulangiana,,,gold,Magnolia,2026-05-28T23:05:25Z
+Citral,,,,C10H16O,0.0,KNApSAcK,C00035822,Magnolia liliflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+n-Tetradecane,,,,C14H30,0.0,KNApSAcK,C00035879,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Dihydrocarvone,,,,C10H16O,0.0,KNApSAcK,C00037051,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolenin C,,,,C28H36O14,0.0,KNApSAcK,C00037463,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Myrtenol,,,,C10H16O,0.0,KNApSAcK,C00037531,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pinocarvone,,,,C10H14O,0.0,KNApSAcK,C00037652,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pyramidatin A,,,,C24H30O7,0.0,KNApSAcK,C00037700,Magnolia pyramidata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pyramidatin B,,,,C23H28O7,0.0,KNApSAcK,C00037701,Magnolia pyramidata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pyramidatin C,,,,C23H28O7,0.0,KNApSAcK,C00037702,Magnolia pyramidata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pyramidatin D,,,,C23H28O7,0.0,KNApSAcK,C00037703,Magnolia pyramidata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pyramidatin E,,,,C23H28O7,0.0,KNApSAcK,C00037704,Magnolia pyramidata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pyramidatin F,,,,C22H24O7,0.0,KNApSAcK,C00037705,Magnolia pyramidata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pyramidatin G,,,,C23H26O7,0.0,KNApSAcK,C00037706,Magnolia pyramidata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Pyramidatin H,,,,C22H22O7,0.0,KNApSAcK,C00037707,Magnolia pyramidata,,,gold,Magnolia,2026-05-28T23:05:25Z
+erythro-Honokitriol,,,,C18H20O5,0.0,KNApSAcK,C00039166,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnatriol B,,,,C18H20O3,0.0,KNApSAcK,C00039710,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolianone,,,,C19H22O6,0.0,KNApSAcK,C00039711,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan B,,,,C18H20O5,0.0,KNApSAcK,C00039712,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Randaiol,,,,C15H14O3,0.0,KNApSAcK,C00040143,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+threo-Honokitriol,,,,C18H20O5,0.0,KNApSAcK,C00040486,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Lirinidine,,,,C18H19NO2,0.0,KNApSAcK,C00041045,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Burchellin,,,,C20H20O5,0.0,KNApSAcK,C00041404,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Futoenone,,,,C20H20O5,0.0,KNApSAcK,C00041535,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Liliflone,,,,C21H26O6,0.0,KNApSAcK,C00041633,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Epimagnolin A,,,,C23H28O7,0.0,KNApSAcK,C00045144,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-Epimagnolin A,,,,C23H28O7,0.0,KNApSAcK,C00045144,Magnolia biondii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isoprene,,,,C5H8,0.0,KNApSAcK,C00046784,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+8-Heptadecene,,,,C17H34,0.0,KNApSAcK,C00048301,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Agarospirol,,,,C15H26O,0.0,KNApSAcK,C00048308,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Dehydro isolongifolene,,,,C15H22,0.0,KNApSAcK,C00048376,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Costunolact-12beta-ol,,,,C15H22O2,0.0,KNApSAcK,C00049138,Magnolia virginiana,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnone A,,,,C22H26O7,0.0,KNApSAcK,C00050153,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnone B,,,,C23H28O8,0.0,KNApSAcK,C00050154,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnaldehyde C,,,,C18H18O5,0.0,KNApSAcK,C00051424,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnaldehyde D,,,,C16H14O3,0.0,KNApSAcK,C00051425,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan A,,,,C18H20O4,0.0,KNApSAcK,C00051428,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan D,,,,C19H22O5,0.0,KNApSAcK,C00051429,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan E,,,,C18H18O4,0.0,KNApSAcK,C00051430,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan F,,,,C36H36O6,0.0,KNApSAcK,C00051431,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan G,,,,C36H36O8,0.0,KNApSAcK,C00051432,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan H,,,,C36H34O6,0.0,KNApSAcK,C00051433,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnolignan I,,,,C33H30O6,0.0,KNApSAcK,C00051434,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoquinone,,,,C15H12O3,0.0,KNApSAcK,C00051435,Magnolia rostrata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnosprengerine,,,,C11H17NO2,0.0,KNApSAcK,C00051436,Magnolia sprengeri,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnotriol B,,,,C15H14O3,0.0,KNApSAcK,C00051437,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Hydroxyphenylacetaldehyde,,,,C8H8O2,0.0,KNApSAcK,C00051850,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Hydroxyphenylacetaldehyde,,,,C8H8O2,0.0,KNApSAcK,C00051850,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Hydroxyphenylpyruvate,,,,C9H7O4-,0.0,KNApSAcK,C00051851,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+4-Hydroxyphenylpyruvate,,,,C9H7O4-,0.0,KNApSAcK,C00051851,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+N-Demethylcolletine,,,,C19H23NO3,0.0,KNApSAcK,C00052007,Magnolia obovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+N-Demethylcolletine,,,,C19H23NO3,0.0,KNApSAcK,C00052007,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Oblongine,,,,C19H24NO3,0.0,KNApSAcK,C00052460,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+2alpha-hydroxydihydroparthenolide,,,,C15H22O4,0.0,KNApSAcK,C00052621,Magnolia grandiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+4'-O-Demethylbiondinin A,,,,C20H24O6,0.0,KNApSAcK,C00052724,Magnolia fargesii,,,gold,Magnolia,2026-05-28T23:05:25Z
+5-Caranol,,,,C10H18O,0.0,KNApSAcK,C00052732,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+3-Methylcamphenilol,,,,C10H18O,0.0,KNApSAcK,C00053087,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"cis,cis,cis-7,10,13-Hexadecatrienal",,,,C16H26O,0.0,KNApSAcK,C00053111,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+CP55940,,,,C24H40O3,0.0,KNApSAcK,C00053139,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"Heptadecanoic acid, methyl ester",,,,C18H36O2,0.0,KNApSAcK,C00053306,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Honokiol,,,,C18H18O2,0.0,KNApSAcK,C00053322,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Isobornyl formate,,,,C11H18O2,0.0,KNApSAcK,C00053348,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Methyl 2-methylbutanoate,,,,C6H12O2,0.0,KNApSAcK,C00053485,Magnolia ovata,,,gold,Magnolia,2026-05-28T23:05:25Z
+Myrtanal,,,,C10H16O,0.0,KNApSAcK,C00053522,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Perilla alcohol,,,,C10H16O,0.0,KNApSAcK,C00053669,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Rimonabant,,,,C22H21Cl3N4O,0.0,KNApSAcK,C00053749,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Syringaresinol,,,,C22H26O8,0.0,KNApSAcK,C00053808,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Tetrahydromagnolol,,,,C18H22O2,0.0,KNApSAcK,C00053829,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"Thuja-2,4(10)-diene",,,,C10H14,0.0,KNApSAcK,C00053835,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+trans-Carveol,,,,C10H16O,0.0,KNApSAcK,C00053849,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+trans-Pinocamphone,,,,C10H16O,0.0,KNApSAcK,C00053852,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+trans-Piperitol,,,,C10H18O,0.0,KNApSAcK,C00053854,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Diisobutyl phthalate,,,,C16H22O4,0.0,KNApSAcK,C00055801,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-alpha-Fenchol,,,,C10H18O,0.0,KNApSAcK,C00058842,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Butylidenecyclohexane,,,,C10H18,0.0,KNApSAcK,C00058844,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"2,6-Dimethyl-5-heptenal",,,,C9H16O,0.0,KNApSAcK,C00059064,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"5,6-Di-O-palmitoylascorbic acid",,,,C38H68O8,0.0,KNApSAcK,C00059068,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"5,6,6a,7-Tetrahydro-1,3,11-trihydroxy-2,9-dimethoxy-6,6-dimethyl-4H-dibenzo[de,g]quinolinium",,,,C20H24NO5,0.0,KNApSAcK,C00059073,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+threo-Magnolignan B,,,,C18H20O5,0.0,KNApSAcK,C00059146,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+erythro-Magnolignan B,,,,C18H20O5,0.0,KNApSAcK,C00059147,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Cadinol,,,,C15H28O,0.0,KNApSAcK,C00059181,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoloside A,,,,C29H36O15,0.0,KNApSAcK,C00059254,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoloside B,,,,C35H46O20,0.0,KNApSAcK,C00059318,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+6-(1-Propen-1-yl)bicyclo[3.1.0]hexan-2-one,,,,C9H12O,0.0,KNApSAcK,C00059413,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"Cyclobutanecarboxylic acid, 1-methyl-2-hepten-1-yl ester",,,,C13H22O2,0.0,KNApSAcK,C00059414,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(10E,13E)-10,13-Octadecadienoic acid, methyl ester",,,,C19H34O2,0.0,KNApSAcK,C00059415,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(+)-cis-Verbenol,,,,C10H16O,0.0,KNApSAcK,C00059608,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,3-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00059645,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Piperitylmagnolol,,,,C28H34O2,0.0,KNApSAcK,C00059725,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"rel-(1R,2S)-1-(4-Hydroxy-3-methoxyphenyl)-2-[4-(3-hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol",,,,C20H26O7,0.0,KNApSAcK,C00059729,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"rel-(1R,2R)-1-(4-Hydroxy-3-methoxyphenyl)-2-[4-(3-hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol",,,,C20H26O7,0.0,KNApSAcK,C00059730,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Syringaresinol-4-O-beta-D-glucopyranoside,,,,C28H36O13,0.0,KNApSAcK,C00059768,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Dipiperitylmagnolol,,,,C38H50O2,0.0,KNApSAcK,C00059803,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"5-(2,3-Dihydroxypropyl)-5'-(2-propen-1-yl)[1,1'-biphenyl]-2,2'-diol",,,,C18H20O4,0.0,KNApSAcK,C00059867,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoloside E,,,,C28H34O15,0.0,KNApSAcK,C00059886,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+2-Hexanoylfuran,,,,C10H14O2,0.0,KNApSAcK,C00059937,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1a,2,3,4,4a,5,6,7b-Octahydro-1,1,4,7-tetramethyl-1H-cycloprop[e]azulene",,,,C15H24,0.0,KNApSAcK,C00060058,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"Linalool-1,2-epoxide",,,,C10H18O2,0.0,KNApSAcK,C00060075,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(2E)-3-[4-(beta-D-Glucopyranosyloxy)-3,5-dimethoxyphenyl]-2-propenal",,,,C17H22O9,0.0,KNApSAcK,C00060096,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"6,7,7a,8-Tetrahydro-9-hydroxy-4,10,11-trimethoxy-7,7-dimethyl-5H-benzo[g]-1,3-benzodioxolo[6,5,4-de]quinolinium",,,,C22H26NO6,0.0,KNApSAcK,C00060166,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(6aS)-5,6,6a,7-Tetrahydro-1,11-dihydroxy-2,10-dimethoxy-6,6-dimethyl-4-oxo-4H-dibenzo[de,g]quinolinium",,,,C20H22NO5,0.0,KNApSAcK,C00060167,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"6,7,7a,8-Tetrahydro-12-hydroxy-11-methoxy-7,7-dimethyl-5H-benzo[g]-1,3-benzodioxolo[6,5,4-de]quinolinium",,,,C20H22NO4,0.0,KNApSAcK,C00060168,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(1R)-1,2-Dihydro-7-hydroxy-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2,2-dimethylisoquinolinium",,,,C19H22NO3,0.0,KNApSAcK,C00060169,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+9-Methoxyobovatol,,,,C19H20O4,0.0,KNApSAcK,C00060243,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+5-Ethyl-5-methyldecane,,,,C13H28,0.0,KNApSAcK,C00060360,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"2-cis,cis-9,12Octadecadienyloxyethanol",,,,C20H38O2,0.0,KNApSAcK,C00060368,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Magnoloside M,,,,C29H36O15,0.0,KNApSAcK,C00060472,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(2S)-2-Methyl-2-[(3R,5R,8R,8aR)-1,2,3,5,6,7,8,8a-octahydro-3,8-dimethyl-5-azulenyl]oxirane",,,,C15H24O,0.0,KNApSAcK,C00060533,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(1R)-(-)-Myrtenal,,,,C10H14O,0.0,KNApSAcK,C00060535,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"2,3,5,8,Tetramethyldecane",,,,C14H30,0.0,KNApSAcK,C00060601,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+8-Ethenyldecahydro-5-methylene-2-naphthalenemethanol,,,,C14H22O,0.0,KNApSAcK,C00060842,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"3,7,7-Trimethyl1,3,5-cycloheptatriene",,,,C10H14,0.0,KNApSAcK,C00061535,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(Z,Z,Z)-1,5,9,9-Tetramethyl-1,4,7-cycloundecatriene",,,,C15H24,0.0,KNApSAcK,C00061715,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"5,6,6a,7-Tetrahydro-1,9,10-trihydroxy-2-methoxy-6,6-dimethyl-4H-dibenzo[de,g]quinolinium",,,,C19H22NO4,0.0,KNApSAcK,C00061875,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"5,5-Dimethyl-3-methylenebicyclo[2.2.1]heptan-2-one",,,,C10H14O,0.0,KNApSAcK,C00061957,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(2E)-2-Nonen-4-yne,,,,C9H14,0.0,KNApSAcK,C00062230,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"(9Z)-9,17-Octadecadienal",,,,C18H32O,0.0,KNApSAcK,C00062235,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,4-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062249,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,2-Dimethylnaphthalene",,,,C12H12,0.0,KNApSAcK,C00062261,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,7-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062268,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,6-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062270,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Piperenone,,,,C22H28O6,0.0,KNApSAcK,C00062275,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+"2,6-Dimethylnaphthalene",,,,C12H12,0.0,KNApSAcK,C00062291,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+"2,6-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062292,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Decahydro-1-methyl-4-methylene-7-(1-methylethenyl)azulene,,,,C15H24,0.0,KNApSAcK,C00062295,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"2,7-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00062297,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Puterine,,,,C18H17NO3,0.0,KNApSAcK,C00062594,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"trans,trans-(+)-5-Caranol",,,,C10H18O,0.0,KNApSAcK,C00062710,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+(-)-Maglifloenone,,,,C22H26O6,0.0,KNApSAcK,C00063086,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+1-Ethenyl-1-methyl-4-methylene-2-(2-methyl-1-propenyl)-cycloheptane,,,,C15H24,0.0,KNApSAcK,C00063094,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,5-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00063102,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Obovaaldehyde,,,,C16H14O4,0.0,KNApSAcK,C00063111,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Liliflol A,,,,C19H18O4,0.0,KNApSAcK,C00063254,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Liliflol B,,,,C20H22O4,0.0,KNApSAcK,C00063255,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Liliflodione,,,,C20H22O5,0.0,KNApSAcK,C00063256,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+Randainal,,,,C18H16O3,0.0,KNApSAcK,C00063262,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+1-Hydroxynaphthalene,,,,C10H8O,0.0,KNApSAcK,C00063316,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+N-trans-Feruloylputrescine,,,,C14H20N2O3,0.0,KNApSAcK,C00063353,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+N-cis-Feruloylputrescine,,,,C14H20N2O3,0.0,KNApSAcK,C00063354,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Caryophyllenyl alcohol,,,,C15H26O,0.0,KNApSAcK,C00063359,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"2,3-Dihydroxynaphthalene",,,,C10H8O2,0.0,KNApSAcK,C00063380,Magnolia liliiflora,,,gold,Magnolia,2026-05-28T23:05:25Z
+2-Ethyl-2-methyltridecanol,,,,C16H34O,0.0,KNApSAcK,C00063384,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Piperitylhonokiol,,,,C28H34O2,0.0,KNApSAcK,C00063408,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Bornylmagnolol,,,,C28H34O2,0.0,KNApSAcK,C00063409,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"1,2,3,4-Tetrahydro-1-[(3-hydroxy-4-methoxyphenyl)methyl]-6,7-dimethoxy-2,2-dimethylisoquinolinium",,,,C21H28NO4,0.0,KNApSAcK,C00063493,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+"Heptadecyl 2,2-dichloroacetate",,,,C19H36Cl2O2,0.0,KNApSAcK,C00063513,Magnolia officinalis,,,gold,Magnolia,2026-05-28T23:05:25Z
+Jatrorrhizine,,,,C20H20NO4,0.0,KNApSAcK,C00001874,Michelia spp.,,,gold,Michelia,2026-05-28T23:05:25Z
+(-)-Medicarpin,,,,C16H14O4,0.0,KNApSAcK,C00002547,Trifolium michelianum,,,gold,Michelia,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Michelia sphaerantha,,,gold,Michelia,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Michelia fuscata,,,gold,Michelia,2026-05-28T23:05:25Z
+Guaiol,,,,C15H26O,0.0,KNApSAcK,C00003139,Magnolia champaca,,,gold,Michelia,2026-05-28T23:05:25Z
+Michelenolide,,,,C15H20O4,0.0,KNApSAcK,C00003327,Magnolia compressa,,,gold,Michelia,2026-05-28T23:05:25Z
+Micheliolide,,,,C15H20O3,0.0,KNApSAcK,C00003328,Magnolia compressa,,,gold,Michelia,2026-05-28T23:05:25Z
+Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia champaca,,,gold,Michelia,2026-05-28T23:05:25Z
+Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Magnolia lanuginosa,,,gold,Michelia,2026-05-28T23:05:25Z
+Parthenolide,,,,C15H20O3,0.0,KNApSAcK,C00003345,Michelia yunnanensis,,,gold,Michelia,2026-05-28T23:05:25Z
+Santamarin,,,,C15H20O3,0.0,KNApSAcK,C00003363,Magnolia compressa,,,gold,Michelia,2026-05-28T23:05:25Z
+(-)-Pinocampheol,,,,C10H18O,0.0,KNApSAcK,C00011031,Magnolia champaca,,,gold,Michelia,2026-05-28T23:05:25Z
+(-)-Bisparthenolidine,,,,C30H43NO6,0.0,KNApSAcK,C00011739,Magnolia rajaniana,,,gold,Michelia,2026-05-28T23:05:25Z
+(+)-Paramicholide,,,,C17H24O6,0.0,KNApSAcK,C00011875,Magnolia baillonii,,,gold,Michelia,2026-05-28T23:05:25Z
+(+)-Paramicholide,,,,C17H24O6,0.0,KNApSAcK,C00011875,Magnolia rajaniana,,,gold,Michelia,2026-05-28T23:05:25Z
+"11beta,13-Dihydroparthenolide",,,,C15H22O3,0.0,KNApSAcK,C00012095,Magnolia compressa,,,gold,Michelia,2026-05-28T23:05:25Z
+Lanuginolide,,,,C17H24O5,0.0,KNApSAcK,C00012102,Magnolia compressa,,,gold,Michelia,2026-05-28T23:05:25Z
+Lanuginolide,,,,C17H24O5,0.0,KNApSAcK,C00012102,Magnolia lanuginosa,,,gold,Michelia,2026-05-28T23:05:25Z
+9alpha-Hydroxydihydroparthenolide,,,,C15H22O4,0.0,KNApSAcK,C00012107,Magnolia baillonii,,,gold,Michelia,2026-05-28T23:05:25Z
+2alpha-Hydroxydihydroparthenolide,,,,C15H22O4,0.0,KNApSAcK,C00012111,Magnolia baillonii,,,gold,Michelia,2026-05-28T23:05:25Z
+(+)-N-Acetylparthenolidine,,,,C17H25NO4,0.0,KNApSAcK,C00012223,Magnolia rajaniana,,,gold,Michelia,2026-05-28T23:05:25Z
+(+)-Reynosin,,,,C15H20O3,0.0,KNApSAcK,C00013040,Michelia yunnanensis,,,gold,Michelia,2026-05-28T23:05:25Z
+"11betaH,13-Dihydroreynosin",,,,C15H22O3,0.0,KNApSAcK,C00013041,Magnolia compressa,,,gold,Michelia,2026-05-28T23:05:25Z
+Michefuscalide,,,,C17H22O5,0.0,KNApSAcK,C00020472,Michelia fuscata,,,gold,Michelia,2026-05-28T23:05:25Z
+Compressanolide,,,,C15H22O3,0.0,KNApSAcK,C00020723,Magnolia compressa,,,gold,Michelia,2026-05-28T23:05:25Z
+Micheline A,,,,C18H17NO3,0.0,KNApSAcK,C00025258,Magnolia champaca,,,gold,Michelia,2026-05-28T23:05:25Z
+Micheline A,,,,C18H17NO3,0.0,KNApSAcK,C00025258,Magnolia x alba,,,gold,Michelia,2026-05-28T23:05:25Z
+Micheline A,,,,C18H17NO3,0.0,KNApSAcK,C00025258,Michelia compressa var.formosana,,,gold,Michelia,2026-05-28T23:05:25Z
+Lanuginosine,,,,C18H11NO4,0.0,KNApSAcK,C00025319,Michelia lanuginosa Wall.,,,gold,Michelia,2026-05-28T23:05:25Z
+(-)-Michelalbine,,,,C17H15NO3,0.0,KNApSAcK,C00027444,Magnolia x alba,,,gold,Michelia,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Talauma hodgsoni,,,gold,Talauma,2026-05-28T23:05:25Z
+(+)-Sesamin,,,,C20H18O6,0.0,KNApSAcK,C00000601,Magnolia hodgsonii,,,gold,Talauma,2026-05-28T23:05:25Z
+(+)-Eudesmin,,,,C22H26O6,0.0,KNApSAcK,C00000640,Magnolia hodgsonii,,,gold,Talauma,2026-05-28T23:05:25Z
+Anonaine,,,,C17H15NO2,0.0,KNApSAcK,C00001807,Magnolia gitigensis,,,gold,Talauma,2026-05-28T23:05:25Z
+Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Talauma mexicana Don.,,,gold,Talauma,2026-05-28T23:05:25Z
+Liriodenine,,,,C17H9NO3,0.0,KNApSAcK,C00001878,Magnolia gitigensis,,,gold,Talauma,2026-05-28T23:05:25Z
+(+)-Xylopine,,,,C18H17NO3,0.0,KNApSAcK,C00001928,Magnolia gitigensis,,,gold,Talauma,2026-05-28T23:05:25Z
+Costunolide,,,,C15H20O2,0.0,KNApSAcK,C00003240,Talauma mexicana,,,gold,Talauma,2026-05-28T23:05:25Z
+(+)-Fargesin,,,,C21H22O6,0.0,KNApSAcK,C00007195,Magnolia hodgsonii,,,gold,Talauma,2026-05-28T23:05:25Z
+(-)-Galbacin,,,,C20H20O5,0.0,KNApSAcK,C00007213,Magnolia hodgsonii,,,gold,Talauma,2026-05-28T23:05:25Z
+N-Acetylxylopine,,,,C20H19NO4,0.0,KNApSAcK,C00027417,Magnolia gitigensis,,,gold,Talauma,2026-05-28T23:05:25Z
+N-Acetylanonaine,,,,C19H17NO3,0.0,KNApSAcK,C00028643,Magnolia gitigensis,,,gold,Talauma,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Manglietiastrum sinicum,,,gold,Manglietia,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Manglietia crassipes,,,gold,Manglietia,2026-05-28T23:05:25Z
+Obovatol,,,,C18H18O3,0.0,KNApSAcK,C00024183,Magnolia phuthoensis,,,gold,Manglietia,2026-05-28T23:05:25Z
+Manglieside A,,,,C15H20O7,0.0,KNApSAcK,C00030716,Magnolia phuthoensis,,,gold,Manglietia,2026-05-28T23:05:25Z
+Manglieside B,,,,C20H28O11,0.0,KNApSAcK,C00030717,Magnolia phuthoensis,,,gold,Manglietia,2026-05-28T23:05:25Z
+Manglieside C,,,,C19H34O7,0.0,KNApSAcK,C00030718,Magnolia phuthoensis,,,gold,Manglietia,2026-05-28T23:05:25Z
+Manglieside D,,,,C26H34O11,0.0,KNApSAcK,C00030719,Magnolia phuthoensis,,,gold,Manglietia,2026-05-28T23:05:25Z
+Manglieside E,,,,C28H38O13,0.0,KNApSAcK,C00030720,Magnolia phuthoensis,,,gold,Manglietia,2026-05-28T23:05:25Z
+(+)-Lirioresinol B,,,,C22H26O8,0.0,KNApSAcK,C00002631,Magnolia duperreana,,,gold,Kmeria,2026-05-28T23:05:25Z

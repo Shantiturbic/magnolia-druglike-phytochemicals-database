@@ -7,3 +7,7 @@ venv/
 
 # Cached bulk downloads (COCONUT ~750MB, Duke ZIP)
 data/raw/.cache/
+
+# Bulk database downloads (regenerable via collectors)
+data/npass3_*.txt
+data/npatlas_full.tsv

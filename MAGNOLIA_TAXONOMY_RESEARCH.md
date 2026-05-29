@@ -151,12 +151,28 @@ Key Neotropical mainland species include taxa in Mexico, Central America, and So
 
 ### Phytochemistry of Caribbean / Neotropical Magnolia Species
 
-**Extremely limited.** The phytochemical literature on Neotropical Magnolias is sparse:
+**Limited but more informative than previously recognized.** While no Caribbean endemic Magnolia has been phytochemically profiled, several mainland Neotropical Talauma species have been studied — providing critical intermediate data points for chemotaxonomic inference.
 
-- **Magnolia pugana** (endemic to Mexico): Essential oils from leaves, flowers, and seeds analyzed; cyclocolorenone (a sesquiterpene) was the major compound (38--40% across all plant parts).
-- **Magnolia grandiflora** (native to southeastern USA, cultivated throughout Neotropics): Well-studied, with 76+ volatile compounds identified from flowers and bark.
-- **Magnolia virginiana** (eastern USA): Honokiol and magnolol isolated from seeds.
+#### Mainland Neotropical Talauma (sect. Talauma — same section as DR Cubenses)
+
+- **Talauma ovata (= Magnolia ovata)** (Brazil, sect. Talauma): The most-studied Neotropical Talauma species. Three independent studies:
+  - Morato et al. (1989): Crude extract screening identified alkaloids, saponins, phytosteroids, tannins from leaves. PMID: 2615408.
+  - **Stefanello et al. (2002): Isolated 3 NEW neolignans (acetyl oleiferin-C, acetyl oleiferin-F, acetyl oleiferin-G) + 5 known neolignans (dihydroguaiaretic acid, austrobailignan-5, oleiferin-C) from bark.** This is the strongest direct evidence that Neotropical Talauma species produce neolignans. PMID: 11978427. DOI: 10.1016/s0367-326x(02)00008-4.
+  - Kassuya et al. (2009): Isolated costunolide (sesquiterpene lactone) from bark with anti-inflammatory and antipyretic activity. PMID: 19524658.
+- **Talauma gloriensis** (Costa Rica/Panama, sect. Talauma): Schühly et al. (2010) isolated **12 pyramidatins (dibenzocyclooctadiene-type lignans)** + Machilin G from bark. Structural characterization by X-ray crystallography and CD spectroscopy. PMID: 20663528. DOI: 10.1016/j.phytochem.2010.06.014.
+- **Talauma arcabucoana** (Colombia, sect. Talauma): Barinas & Suárez (2011) isolated **aporphine alkaloids** — arcabucoine (novel), dicentrine, nordicentrine, dicentrinone — from leaves and bark. Showed cytotoxicity and antimicrobial activity against *S. aureus* and *C. albicans*. PMID: 21347974.
+- **Talauma hernandezii** (Colombia): Puertas et al. (2005) found antioxidant fractions from leaf extracts comparable to alpha-tocopherol and BHA. Compounds not individually identified. PMID: 16049689.
+
+#### Other Neotropical Magnolia (different sections)
+
+- **Magnolia pugana** (endemic to Mexico, sect. Talauma): Essential oils from leaves, flowers, and seeds analyzed (Osorio et al. 2025); cyclocolorenone (a sesquiterpene) was the major compound (39--45% across all plant parts). No solvent extraction for lignans/neolignans was attempted. PMID: 41011669. DOI: 10.3390/molecules30183778.
+- **Magnolia grandiflora** (native to southeastern USA, sect. Magnolia): Well-studied, with 76+ volatile compounds identified from flowers and bark.
+- **Magnolia virginiana** (eastern USA, sect. Magnolia): Honokiol and magnolol isolated from seeds.
 - **Magnolia champaca** (= *Michelia champaca*; cultivated throughout Neotropics): 99 compounds identified by GC-MS/MS. Contains alkaloids, terpenes, flavonoids, saponins. **Dengue-relevant:** Octadecadienoate derivatives from seed extract showed larvicidal and pupicidal activity against dengue vector *Aedes albopictus* (PMC 10498518). Magnolol and honokiol from *M. officinalis* also show antiparasitic activity targeting mitochondrial electron transport chain (ACS Omega, 2025).
+
+#### Chemotaxonomic Significance of Mainland Talauma Data
+
+The presence of neolignans in *T. ovata* (Brazil), lignans in *T. gloriensis* (Costa Rica), and aporphine alkaloids in *T. arcabucoana* (Colombia) confirms that the major Magnolia compound classes are present in sect. Talauma — the same section as the Caribbean Cubenses. This substantially strengthens the chemotaxonomic basis for the BBB database: the inference no longer relies solely on distant Asian congeners (~54 Mya divergence) but is supported by species within the same section.
 
 **No published phytochemistry studies were found for any Caribbean endemic Magnolia species** (Cuban, Hispaniolan, Puerto Rican, or Lesser Antillean taxa).
 
@@ -169,6 +185,12 @@ Key Neotropical mainland species include taxa in Mexico, Central America, and So
 - [Octadecadienoate derivatives from M. champaca against Aedes albopictus (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498518/)
 - [Magnolol and honokiol as antiparasitic compounds (ACS Omega 2025)](https://pubs.acs.org/doi/10.1021/acsomega.5c06232)
 - [Evolutionary history of Magnolia sect. Talauma in Cuba (Oxford Academic)](https://academic.oup.com/biolinnean/article/140/3/413/7324800)
+- [Stefanello et al. 2002, New neolignans from Talauma ovata (PubMed)](https://pubmed.ncbi.nlm.nih.gov/11978427/)
+- [Schühly et al. 2010, Dibenzocyclooctadiene lignans from Magnolia and Talauma (PubMed)](https://pubmed.ncbi.nlm.nih.gov/20663528/)
+- [Barinas & Suárez 2011, Chemical constituents of Talauma arcabucoana (PubMed)](https://pubmed.ncbi.nlm.nih.gov/21347974/)
+- [Kassuya et al. 2009, Costunolide from Magnolia ovata (PubMed)](https://pubmed.ncbi.nlm.nih.gov/19524658/)
+- [Morato et al. 1989, Chemical and pharmacological studies on Talauma ovata (PubMed)](https://pubmed.ncbi.nlm.nih.gov/2615408/)
+- [Puertas et al. 2005, Radical scavenging of two Colombian Magnoliaceae (PubMed)](https://pubmed.ncbi.nlm.nih.gov/16049689/)
 
 ---
 

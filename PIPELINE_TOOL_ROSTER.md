@@ -124,3 +124,31 @@ Each new scorer must demonstrate AUC > 0.50 on ultra-matched decoys to prove it 
 | Boltz-2 (top 200 x 8, optional) | ~9 GPU-hours | $9 |
 | Protenix NS4B | ~2 GPU-hours | $2 |
 | **Total** | **~57 GPU-hours** | **~$40-50** |
+
+
+
+## Pipeline Flow
+
+```
+738 MAGNOLIA COMPOUNDS x 8 DENV TARGETS
+                |
+     Stage 1: UNI-DOCK (pose generation, GPU, minutes)
+     Output: SDF files with 3D poses. Vina scores = reference only.
+                |
+     Stage 2: GNINA --score_only (CNN rescoring, CPU, ~4 hrs total)
+     Output: CNN_VS score per pose.
+                |
+     Stage 3: SCORCH2 (XGBoost rescoring, CPU, seconds)
+     Output: SCORCH2 probability score per pose.
+                |
+     Stage 4: ECR FUSION (Vina + CNN_VS + SCORCH2)
+     Output: single consensus rank per compound per target. Top 100-200 pass.
+                |
+     Stage 5: ProLIF IFP FILTER (CPU, seconds)
+     "Does this pose touch catalytic residues?" Removes wrong-site binders.
+                |
+     Stage 6: UNI-GBSA (MM-GBSA, minutes/compound)
+     Top 50-100 per target. Actual dG kcal/mol + per-residue decomposition.
+                |
+     FINAL: Top 20-50 per target -> Thesis Chapter 4
+```

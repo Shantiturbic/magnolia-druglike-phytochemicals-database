@@ -2,8 +2,8 @@
   "database": "BBB Database STC",
   "version": "2.0",
   "description": "Systematic phytochemical database for genus Magnolia",
-  "build_timestamp": "2026-05-21T22:23:24Z",
-  "build_elapsed_seconds": 330.0,
+  "build_timestamp": "2026-05-29T00:20:08Z",
+  "build_elapsed_seconds": 0.0,
   "environment": {
     "python": "3.12.2",
     "rdkit": "2025.03.3",
@@ -13,15 +13,15 @@
   "outputs": {
     "database": {
       "path": "magnolia_bbb_database.csv",
-      "unique_compounds": 736
+      "unique_compounds": 1982
     },
     "provenance": {
       "path": "magnolia_bbb_provenance.csv",
-      "records": 5879
+      "records": 9636
     },
     "rejected": {
       "path": "magnolia_bbb_rejected.csv",
-      "records": 284
+      "records": 387
     }
   },
   "sources": {
@@ -32,8 +32,8 @@
       "url": "https://query.wikidata.org/sparql",
       "status": "success",
       "record_count": 1183,
-      "query_timestamp": "2026-05-21T22:11:21Z",
-      "elapsed_seconds": 119.5
+      "query_timestamp": "2026-05-28T23:04:50Z",
+      "elapsed_seconds": 138.5
     },
     "coconut": {
       "enabled": true,
@@ -41,9 +41,9 @@
       "license": "CC-BY 4.0",
       "url": "https://coconut.naturalproducts.net",
       "status": "success",
-      "record_count": 2579,
-      "query_timestamp": "2026-05-21T18:23:51Z",
-      "elapsed_seconds": 5.3
+      "record_count": 2623,
+      "query_timestamp": "2026-05-28T23:05:25Z",
+      "elapsed_seconds": 34.9
     },
     "knapsack": {
       "enabled": true,
@@ -51,9 +51,9 @@
       "license": "CC-BY 4.0",
       "url": "http://www.knapsackfamily.com/knapsack_core/top.php",
       "status": "success",
-      "record_count": 526,
-      "query_timestamp": "2026-05-21T22:16:48Z",
-      "elapsed_seconds": 267.1
+      "record_count": 577,
+      "query_timestamp": "2026-05-28T23:13:50Z",
+      "elapsed_seconds": 505.1
     },
     "pubchem_taxonomy": {
       "enabled": true,
@@ -61,9 +61,9 @@
       "license": "Public domain",
       "url": "https://pubchem.ncbi.nlm.nih.gov",
       "status": "success",
-      "record_count": 11,
-      "query_timestamp": "2026-05-21T22:17:42Z",
-      "elapsed_seconds": 54.6
+      "record_count": 12,
+      "query_timestamp": "2026-05-28T23:15:56Z",
+      "elapsed_seconds": 125.3
     },
     "chembl_magnolia": {
       "enabled": true,
@@ -72,38 +72,38 @@
       "url": "https://www.ebi.ac.uk/chembl/",
       "status": "success",
       "record_count": 85,
-      "query_timestamp": "2026-05-21T18:26:44Z",
-      "elapsed_seconds": 55.4
+      "query_timestamp": "2026-05-28T23:18:37Z",
+      "elapsed_seconds": 161.6
     },
     "npatlas": {
-      "enabled": false,
+      "enabled": true,
       "tier": 1,
-      "license": "CC-BY 4.0",
+      "license": "CC-BY-NC 4.0",
       "url": "https://www.npatlas.org",
       "status": "success",
-      "record_count": 0,
-      "query_timestamp": "2026-05-21T09:09:14Z",
-      "elapsed_seconds": 3.7
+      "record_count": 3,
+      "query_timestamp": "2026-05-28T23:18:41Z",
+      "elapsed_seconds": 4.1
     },
     "npass": {
-      "enabled": false,
+      "enabled": true,
       "tier": 1,
       "license": "Academic use",
-      "url": "http://bidd.group/NPASS/",
+      "url": "https://bidd.group/NPASS/",
       "status": "success",
-      "record_count": 0,
-      "query_timestamp": "2026-05-21T08:34:41Z",
-      "elapsed_seconds": 3.0
+      "record_count": 3739,
+      "query_timestamp": "2026-05-28T23:59:22Z",
+      "elapsed_seconds": 5187.6
     },
     "dr_duke": {
-      "enabled": false,
+      "enabled": true,
       "tier": 3,
       "license": "Public domain (USDA)",
       "url": "https://phytochem.nal.usda.gov/",
       "status": "success",
       "record_count": 0,
-      "query_timestamp": "2026-05-21T08:34:54Z",
-      "elapsed_seconds": 13.4
+      "query_timestamp": "2026-05-28T23:46:26Z",
+      "elapsed_seconds": 50.1
     },
     "literature_miner": {
       "enabled": true,
@@ -111,9 +111,9 @@
       "license": "Fair use (abstracts) + CC (PMC)",
       "url": "https://pubmed.ncbi.nlm.nih.gov",
       "status": "success",
-      "record_count": 1779,
-      "query_timestamp": "2026-05-21T19:04:01Z",
-      "elapsed_seconds": 205.0
+      "record_count": 1802,
+      "query_timestamp": "2026-05-28T23:49:05Z",
+      "elapsed_seconds": 158.3
     },
     "tcmsp": {
       "enabled": false,
@@ -154,16 +154,6 @@
       "record_count": 0,
       "query_timestamp": "",
       "elapsed_seconds": 0
-    }
-  },
-  "validation": {
-    "valid": true,
-    "must_have_found": 13,
-    "must_have_total": 13,
-    "evidence_tiers": {
-      "gold": 634,
-      "bronze": 76,
-      "silver": 26
     }
   }
 }
